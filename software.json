@@ -1,0 +1,1354 @@
+[
+  {
+    "name": "Shure's Online Tools",
+    "vendor": "Shure",
+    "cost": "FREE",
+    "desc": "Browser",
+    "url": "https://pubs.shure.com/guide/techportal",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Soundbase",
+    "vendor": "Soundbase",
+    "cost": "FREE",
+    "desc": "Browser",
+    "url": "https://soundbase.app/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Dante Controller",
+    "vendor": "Audinate",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://my.audinate.com/support/downloads/dante-controller",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Farrago",
+    "vendor": "Rogue Amoeba",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://rogueamoeba.com/farrago/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "FL Studio",
+    "vendor": "FL Studio",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.image-line.com/fl-studio/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Loopback",
+    "vendor": "Rogue Amoeba",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://rogueamoeba.com/loopback/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SignalScope XM",
+    "vendor": "Faber Acoustical",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://faberacoustical.com/apps/signalscope/signalscope_x/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Wireless Workbench",
+    "vendor": "Shure",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.shure.com/en-US/products/software/wwb",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Ableton",
+    "vendor": "Ableton",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.ableton.com/en/live/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "InstaCue",
+    "vendor": "DT Videolabs",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.dtvideolabs.com/instacue/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Logic Pro",
+    "vendor": "Logic Pro",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.apple.com/logic-pro/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Prodcom Real Time Multi Channel Transcription",
+    "vendor": "Prodcom",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.prodcom.net/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "ProTools",
+    "vendor": "Avid Technology, Inc.",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.avid.com/pro-tools",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Quiztones: EQ Ear Training",
+    "vendor": "The Pro Audio Files",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://theproaudiofiles.com/quiztones/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SignalScope Advanced 2022",
+    "vendor": "Faber Acoustical, LLC",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://faberacoustical.com/apps/signalscope/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SignalScope Basic 2022",
+    "vendor": "Faber Acoustical, LLC",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://faberacoustical.com/apps/signalscope/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SignalScope Pro 2022",
+    "vendor": "Faber Acoustical, LLC",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://faberacoustical.com/apps/signalscope/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SMAART (RTA)",
+    "vendor": "Rational Acoustics",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.rationalacoustics.com/smaart/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Studio One Pro",
+    "vendor": "PreSonus",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.presonus.com/en/studio-one.html",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Dante Controller",
+    "vendor": "Audinate",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://my.audinate.com/support/downloads/dante-controller",
+    "tag": "AV Software"
+  },
+  {
+    "name": "FL Studio",
+    "vendor": "FL Studio",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.image-line.com/fl-studio/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Wireless Workbench",
+    "vendor": "Shure",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.shure.com/en-US/products/software/wwb",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Ableton",
+    "vendor": "Ableton",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.ableton.com/en/live/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Intermodulation Analysis System (IAS)",
+    "vendor": "Professional Wireless Systems",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.professionalwireless.com/software/ias/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SMAART (RTA)",
+    "vendor": "Rational Acoustics",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.rationalacoustics.com/smaart/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Studio One Pro",
+    "vendor": "PreSonus",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.presonus.com/en/studio-one.html",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Companion",
+    "vendor": "Bitfocus",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://bitfocus.io/companion",
+    "tag": "AV Software"
+  },
+  {
+    "name": "QLab",
+    "vendor": "QLab",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://qlab.app/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Companion",
+    "vendor": "Bitfocus",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://bitfocus.io/companion",
+    "tag": "AV Software"
+  },
+  {
+    "name": "COEX VMP",
+    "vendor": "Novastar",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.novastar.tech/downloads/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SmartLCT",
+    "vendor": "Novastar",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.novastar.tech/downloads/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Tessera Processor Software",
+    "vendor": "Brompton Technology",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.bromptontech.com/technology/tessera-software/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "COEX VMP",
+    "vendor": "Novastar",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.novastar.tech/downloads/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "NovaLCT",
+    "vendor": "Novastar",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.novastar.tech/downloads/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SmartLCT",
+    "vendor": "Novastar",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.novastar.tech/downloads/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Tessera Processor Software",
+    "vendor": "Brompton Technology",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.bromptontech.com/technology/tessera-software/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "MagicQ",
+    "vendor": "Chamsys",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://chamsys.co.uk/downloads",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Lightwright",
+    "vendor": "Lightwright",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.lightwright.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "MagicQ",
+    "vendor": "Chamsys",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://chamsys.co.uk/downloads",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Lightwright",
+    "vendor": "Lightwright",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.lightwright.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AJA eMini-Setup",
+    "vendor": "AJA",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.aja.com/family/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AJA eMini-Setup",
+    "vendor": "AJA",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.aja.com/family/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "EXTEN-AV Diagram Software",
+    "vendor": "EXTEN-AV",
+    "cost": "Paid",
+    "desc": "Browser",
+    "url": "https://xtenav.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SoftSymbols",
+    "vendor": "Field Template",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.fieldtemplate.com/softsymbols",
+    "tag": "AV Software"
+  },
+  {
+    "name": "PiXtimer Pro",
+    "vendor": "piXap",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://apps.apple.com/us/app/pixedid/id1513186628",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SpeakerTimerPro",
+    "vendor": "DT Videolabs",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.dtvideolabs.com/speakertimer-pro/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "SoftSymbols",
+    "vendor": "Field Template",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.fieldtemplate.com/softsymbols",
+    "tag": "AV Software"
+  },
+  {
+    "name": "PiXtimer Pro",
+    "vendor": "piXap",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://apps.apple.com/us/app/pixedid/id1513186628",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AJA Mini-Matrix",
+    "vendor": "AJA",
+    "cost": "FREE",
+    "desc": "Browser",
+    "url": "https://www.aja.com/software/mini-matrix",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Wordly AI Captioning",
+    "vendor": "Wordly",
+    "cost": "Paid",
+    "desc": "Browser",
+    "url": "https://www.wordly.ai/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AJA Control Room",
+    "vendor": "AJA",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.aja.com/family/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AJA Mini-Config Software",
+    "vendor": "AJA",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.aja.com/family/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AJA System Test",
+    "vendor": "AJA",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.aja.com/family/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "ATEM Software Control",
+    "vendor": "Blackmagic Design",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.blackmagicdesign.com/products/atem",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Event Master toolset",
+    "vendor": "Barco",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.barco.com/en/support/e2/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "HandBrake Video Transcoder",
+    "vendor": "HandBrake",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://handbrake.fr/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Millumin",
+    "vendor": "Millumin",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.millumin.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "modul8 v3",
+    "vendor": "garageCube",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.garagecube.com/modul8/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "NDI Tools",
+    "vendor": "NDI",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://ndi.video/tools/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Octopus Listener",
+    "vendor": "noismada",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.octopusshowcontrol.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Ontime (Open Source Speaker Timer)",
+    "vendor": "Carlos Valente",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.getontime.no/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "piXedid",
+    "vendor": "piXap",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://apps.apple.com/us/app/pixedid/id1513186628",
+    "tag": "AV Software"
+  },
+  {
+    "name": "ProVideoPlayer",
+    "vendor": "RenewedVision",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://renewedvision.com/provideoplayer/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Resolume",
+    "vendor": "Resolume",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://resolume.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Touchdesigner",
+    "vendor": "Derivative",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://derivative.ca/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "VLC Media Player",
+    "vendor": "VideoLAN Organization",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.videolan.org/vlc/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Davinci Resolve",
+    "vendor": "Blackmagic Design",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "tag": "AV Software"
+  },
+  {
+    "name": "DisplayLink macOS Software",
+    "vendor": "Synaptics",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://www.synaptics.com/products/displaylink-graphics/downloads",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Kardz (Video Test Pattern Software)",
+    "vendor": "Alteka Solutions",
+    "cost": "FREE",
+    "desc": "Mac",
+    "url": "https://alteka.solutions/kardz/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Coyote Flex",
+    "vendor": "Sonoran Video Systems",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://sonoranvideosystems.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Coyote Server",
+    "vendor": "Sonoran Video Systems",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://sonoranvideosystems.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Coyote Server",
+    "vendor": "Sonoran Video Systems",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://sonoranvideosystems.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Mitti",
+    "vendor": "Imimot",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://imimot.com/mitti/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Octopus Show Control",
+    "vendor": "noismada",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.octopusshowcontrol.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "PlaybackPro+",
+    "vendor": "DT Videolabs",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.dtvideolabs.com/playbackpro-plus/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Powerpoint",
+    "vendor": "Microsoft Office",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/powerpoint",
+    "tag": "AV Software"
+  },
+  {
+    "name": "VDMX6",
+    "vendor": "VIDVOX",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://vidvox.net/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Video AI Content Upscaler",
+    "vendor": "Topaz Labs",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.topazlabs.com/topaz-video-ai",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Yodeck",
+    "vendor": "Yodeck",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.yodeck.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Telescript International (Teleprompting Software)",
+    "vendor": "Telescript",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://www.telescriptintl.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "PromptDog",
+    "vendor": "PromptDog",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "https://promptdog.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AJA Control Room",
+    "vendor": "AJA",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.aja.com/family/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AJA Mini-Config Software",
+    "vendor": "AJA",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.aja.com/family/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AJA System Test",
+    "vendor": "AJA",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.aja.com/family/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "ATEM Software Control",
+    "vendor": "Blackmagic Design",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.blackmagicdesign.com/products/atem",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Event Master toolset",
+    "vendor": "Barco",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.barco.com/en/support/e2/software",
+    "tag": "AV Software"
+  },
+  {
+    "name": "HandBrake Video Transcoder",
+    "vendor": "HandBrake",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://handbrake.fr/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "NDI Tools",
+    "vendor": "NDI",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://ndi.video/tools/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Octopus Listener",
+    "vendor": "noismada",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.octopusshowcontrol.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Ontime (Open Source Speaker Timer)",
+    "vendor": "Carlos Valente",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.getontime.no/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "OSCPoint (Powerpoint StreamDeck Plugin)",
+    "vendor": "OSCPoint",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.oscpoint.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Panasonic Media Production Suite (Includes \"Easy IP\")",
+    "vendor": "Panasonic",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://panasonic.net/cns/sav/en/products/software/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "piXedid",
+    "vendor": "piXap",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://apps.apple.com/us/app/pixedid/id1513186628",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Playdeck",
+    "vendor": "Playdeck",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://playdeck.tv/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "PPTools",
+    "vendor": "PPTools",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.pptools.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Resolume",
+    "vendor": "Resolume",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://resolume.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Touchdesigner",
+    "vendor": "Derivative",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://derivative.ca/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "ViPlex Express",
+    "vendor": "Novastar",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.novastar.tech/downloads/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "VLC Media Player",
+    "vendor": "VideoLAN Organization",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.videolan.org/vlc/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Davinci Resolve",
+    "vendor": "Blackmagic Design",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+    "tag": "AV Software"
+  },
+  {
+    "name": "DisplayLink macOS Software",
+    "vendor": "Synaptics",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://www.synaptics.com/products/displaylink-graphics/downloads",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Kardz (Video Test Pattern Software)",
+    "vendor": "Alteka Solutions",
+    "cost": "FREE",
+    "desc": "Windows",
+    "url": "https://alteka.solutions/kardz/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "AVP Legion II",
+    "vendor": "IEW Solutions",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.iewsolutions.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Coyote Flex",
+    "vendor": "Sonoran Video Systems",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://sonoranvideosystems.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Octopus Show Control",
+    "vendor": "noismada",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.octopusshowcontrol.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Powerpoint",
+    "vendor": "Microsoft Office",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/powerpoint",
+    "tag": "AV Software"
+  },
+  {
+    "name": "pptXTREME",
+    "vendor": "pptXTREME",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://pptxtreme.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "ToolsToo Pro - Productivity Tools for PowerPoint",
+    "vendor": "ToolsToo",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.toolstoo.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Video AI Content Upscaler",
+    "vendor": "Topaz Labs",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.topazlabs.com/topaz-video-ai",
+    "tag": "AV Software"
+  },
+  {
+    "name": "vMix",
+    "vendor": "vMix",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.vmix.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Yodeck",
+    "vendor": "Yodeck",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.yodeck.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Telescript International (Teleprompting Software)",
+    "vendor": "Telescript",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.telescriptintl.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "PromptDog",
+    "vendor": "PromptDog",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://promptdog.com/",
+    "tag": "AV Software"
+  },
+  {
+    "name": "Resolume Avenue/ Resolume Arena",
+    "vendor": "macOS/Windows",
+    "cost": "$849+",
+    "desc": "macOS/Windows",
+    "url": "https://resolume.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "VDMX",
+    "vendor": "macOS",
+    "cost": "$399",
+    "desc": "macOS",
+    "url": "https://vidvox.net/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Modul8",
+    "vendor": "macOS",
+    "cost": "$399",
+    "desc": "macOS",
+    "url": "https://www.garagecube.com/modul8/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "CoGe",
+    "vendor": "macOS",
+    "cost": "Free/Paid",
+    "desc": "macOS",
+    "url": "https://cogevj.hu/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "ArKaos Media Master Pro",
+    "vendor": "Windows",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://arkaos.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "ArKaos GrandVJ XT",
+    "vendor": "macOS/Windows",
+    "cost": "Paid",
+    "desc": "macOS/Windows",
+    "url": "https://arkaos.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "ArKaos GrandVJ 2",
+    "vendor": "macOS/Windows",
+    "cost": "$499",
+    "desc": "macOS/Windows",
+    "url": "https://arkaos.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Millumin",
+    "vendor": "macOS",
+    "cost": "$599",
+    "desc": "macOS",
+    "url": "https://www.millumin.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "MXWendler",
+    "vendor": "macOS/Windows",
+    "cost": "Paid",
+    "desc": "macOS/Windows",
+    "url": "https://www.mxwendler.net/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "AVmixer Pro",
+    "vendor": "macOS",
+    "cost": "Paid",
+    "desc": "macOS",
+    "url": "https://www.neuromixer.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "AVmixer Lite",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://www.neuromixer.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Z Vector",
+    "vendor": "macOS/Windows",
+    "cost": "Paid",
+    "desc": "macOS/Windows",
+    "url": "https://www.z-vector.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "MixEmergency",
+    "vendor": "macOS",
+    "cost": "Paid",
+    "desc": "macOS",
+    "url": "https://www.inklen.com/mixemergency/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Livid Cell",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://lividinstruments.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Livid Cell DNA",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://lividinstruments.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "MixEmergency",
+    "vendor": "macOS",
+    "cost": "Paid",
+    "desc": "macOS",
+    "url": "https://www.inklen.com/mixemergency/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Flowmotion",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://www.flowmotion.tv/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Motion Dive 5",
+    "vendor": "macOS/Windows",
+    "cost": "Paid",
+    "desc": "macOS/Windows",
+    "url": "https://motiondive.zendesk.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "VJ Mode 1.5",
+    "vendor": "link is dead",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://www.vj-mode.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "NUVJ",
+    "vendor": "Windows",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://www.numark.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Pro Video Player 2",
+    "vendor": "macOS",
+    "cost": "$49.99",
+    "desc": "macOS",
+    "url": "https://renewedvision.com/provideoplayer/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Pixel Toy",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://www.pixeltoy.org/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "VPT",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://haakonlotsberg.net/vpt.html",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "FLxER",
+    "vendor": "Windows",
+    "cost": "Free",
+    "desc": "Windows",
+    "url": "http://flxer.net/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "KVB",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://www.kob.be/kvb/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "QLab",
+    "vendor": "macOS",
+    "cost": "Free/Paid",
+    "desc": "macOS",
+    "url": "https://qlab.app/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Makio 135",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://www.makio135.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Bomb",
+    "vendor": "macOS/Windows",
+    "cost": "Free",
+    "desc": "macOS/Windows",
+    "url": "https://www.livelab.dk/bomb/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "2V-P",
+    "vendor": "macOS/Windows",
+    "cost": "Free",
+    "desc": "macOS/Windows",
+    "url": "https://2v-p.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Kraken",
+    "vendor": "Windows",
+    "cost": "Free",
+    "desc": "Windows",
+    "url": "https://www.krakenvj.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "GRoK",
+    "vendor": "Windows",
+    "cost": "Free",
+    "desc": "Windows",
+    "url": "https://www.grokpulse.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Virtual DJ",
+    "vendor": "Has Spout out with the latest Spout beta",
+    "cost": "Paid",
+    "desc": "Has Spout out with the latest Spout beta",
+    "url": "https://www.virtualdj.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "DJ Mixer Pro v3",
+    "vendor": "macOS",
+    "cost": "Paid",
+    "desc": "macOS",
+    "url": "https://www.djmixerpro.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Serato Video",
+    "vendor": "Requires Serato DJ.\nHas syphon out.",
+    "cost": "Paid",
+    "desc": "Requires Serato DJ.\nHas syphon out.",
+    "url": "https://serato.com/video",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Processing",
+    "vendor": "macOS/Windows/Linux",
+    "cost": "Free",
+    "desc": "macOS/Windows/Linux",
+    "url": "https://processing.org/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Ganuza",
+    "vendor": "macOS/Windows",
+    "cost": "Free",
+    "desc": "macOS/Windows",
+    "url": "https://ganuza.io/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Vezer",
+    "vendor": "macOS",
+    "cost": "Paid",
+    "desc": "macOS",
+    "url": "https://www.vezerapp.hu/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Syphon",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://syphon.github.io/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Spout",
+    "vendor": "Windows",
+    "cost": "Free",
+    "desc": "Windows",
+    "url": "https://spout.zeal.co/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Max MSP",
+    "vendor": "macOS/Windows",
+    "cost": "Paid",
+    "desc": "macOS/Windows",
+    "url": "https://cycling74.com/products/max",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Pure Data's GEM",
+    "vendor": "macOS/Windows/Linux",
+    "cost": "Free",
+    "desc": "macOS/Windows/Linux",
+    "url": "https://puredata.info/downloads/gem",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Quartz Composer",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "https://developer.apple.com/library/archive/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "VUO",
+    "vendor": "macOS",
+    "cost": "Free/Paid",
+    "desc": "macOS",
+    "url": "https://vuo.org/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Magic",
+    "vendor": "macOS",
+    "cost": "Paid",
+    "desc": "macOS",
+    "url": "https://magicmusicvisuals.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Nodebox",
+    "vendor": "macOS/Windows",
+    "cost": "Free",
+    "desc": "macOS/Windows",
+    "url": "https://www.nodebox.net/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "Isadora",
+    "vendor": "macOS/Windows",
+    "cost": "Paid",
+    "desc": "macOS/Windows",
+    "url": "https://troikatronix.com/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "TouchDesigner",
+    "vendor": "macOS/Windows",
+    "cost": "Free/Paid",
+    "desc": "macOS/Windows",
+    "url": "https://derivative.ca/",
+    "tag": "VJ Software"
+  },
+  {
+    "name": "PLAYBACK PRO",
+    "vendor": "macOS",
+    "cost": "Paid",
+    "desc": "macOS",
+    "url": "https://www.dtvideolabs.com/playbackpro/",
+    "tag": "Playback Pro"
+  },
+  {
+    "name": "AV PLAYBACK",
+    "vendor": "macOS/iOS",
+    "cost": "FREE",
+    "desc": "macOS/iOS",
+    "url": "https://apps.apple.com/us/app/av-playback/id1443697588",
+    "tag": "Playback Pro"
+  },
+  {
+    "name": "PRO VIDEO PLAYER",
+    "vendor": "macOS",
+    "cost": "FREE/Paid",
+    "desc": "macOS",
+    "url": "https://renewedvision.com/provideoplayer/",
+    "tag": "Playback Pro"
+  },
+  {
+    "name": "MITTI",
+    "vendor": "macOS",
+    "cost": "Paid",
+    "desc": "macOS",
+    "url": "https://imimot.com/mitti/",
+    "tag": "Playback Pro"
+  },
+  {
+    "name": "COYOTE",
+    "vendor": "Windows",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "https://sonoranvideosystems.com/",
+    "tag": "Playback Pro"
+  },
+  {
+    "name": "VLC",
+    "vendor": "CHECK",
+    "cost": "",
+    "desc": "",
+    "url": "https://www.videolan.org/vlc/",
+    "tag": "Playback Pro"
+  },
+  {
+    "name": "PlayDeck",
+    "vendor": "macOS",
+    "cost": "Paid",
+    "desc": "macOS",
+    "url": "https://playdeck.tv/",
+    "tag": "Playback Pro"
+  },
+  {
+    "name": "Yodeck",
+    "vendor": "Browser / Raspberry Pi",
+    "cost": "Free (1 screen)",
+    "desc": "Web / Raspberry Pi",
+    "url": "https://www.yodeck.com/",
+    "tag": "Digital Signage"
+  },
+  {
+    "name": "BrightSign",
+    "vendor": "Dedicated Hardware",
+    "cost": "Hardware + License",
+    "desc": "BrightSign OS",
+    "url": "https://www.brightsign.biz/",
+    "tag": "Digital Signage"
+  }
+]

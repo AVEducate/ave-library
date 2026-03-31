@@ -1,0 +1,434 @@
+[
+  {
+    "name": "IBM's AI Academy",
+    "vendor": "IBM",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.ibm.com/think/videos/ai-academy",
+    "tag": "Artificial Intelligence (AI)"
+  },
+  {
+    "name": "Dante Levels 1-3",
+    "vendor": "Audinate",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.getdante.com/resources/training/dante-certification-program/",
+    "tag": "Audio"
+  },
+  {
+    "name": "Calrec Sound Institute",
+    "vendor": "Calrec",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://calrec.com/calrec-sound-institute/",
+    "tag": "Audio"
+  },
+  {
+    "name": "d&b Audiotechnik Education Calendar",
+    "vendor": "d&b Audiotechnik",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.dbaudio.com/global/en/education/",
+    "tag": "Audio"
+  },
+  {
+    "name": "DiGiCo SD9 Training Videos",
+    "vendor": "DiGiCo",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "http://www.digico.tv/",
+    "tag": "Audio"
+  },
+  {
+    "name": "Rednet Certification",
+    "vendor": "Focusrite",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://us.focusrite.com/rednet/rednet-certification",
+    "tag": "Audio"
+  },
+  {
+    "name": "Lawo Online Academy",
+    "vendor": "LAWO",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.lawo.com/support/lawo-online-academy.html",
+    "tag": "Audio"
+  },
+  {
+    "name": "Spatial Theatrical Audio Experiences",
+    "vendor": "NMH Spatial",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.nmhspatial.com/",
+    "tag": "Audio"
+  },
+  {
+    "name": "Q-SYS Training",
+    "vendor": "QSC",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://training.qsc.com/qsys.php",
+    "tag": "Audio"
+  },
+  {
+    "name": "Smaart Online Trainings",
+    "vendor": "Rational Acoustics",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.rationalacoustics.com/pages/training",
+    "tag": "Audio"
+  },
+  {
+    "name": "RF Venue Webinars",
+    "vendor": "RF Venue",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.rfvenue.com/training-resources",
+    "tag": "Audio"
+  },
+  {
+    "name": "Shure Audio Institute",
+    "vendor": "Shure",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://sai.training.shure.com/",
+    "tag": "Audio"
+  },
+  {
+    "name": "SoundGym Audio Ear Training",
+    "vendor": "SoundGym",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.soundgym.co/site/index",
+    "tag": "Audio"
+  },
+  {
+    "name": "Yamanha Online Self-Training",
+    "vendor": "Yamaha",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://audioversity.yamaha.com/",
+    "tag": "Audio"
+  },
+  {
+    "name": "Sony Professional",
+    "vendor": "Sony Display / IP Video Specialist",
+    "cost": "Sony Professional's certification program for display and IP video production systems. Validates proficiency in Sony professional display products, IP live production workflows, and broadcast camera systems for AV professionals and systems integrators working with Sony Pro equipment.",
+    "desc": "https://pro.sony/ue_US/support-services/technical-training",
+    "url": "https://training.sony-europe.com/",
+    "tag": "Paid"
+  },
+  {
+    "name": "Dante Mastery",
+    "vendor": "Audinate",
+    "cost": "Paid",
+    "desc": "Both/Hybrid",
+    "url": "https://www.getdante.com/resources/training/dante-certification-program/",
+    "tag": "Audio"
+  },
+  {
+    "name": "Pro Sound Training",
+    "vendor": "SynAudCon",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://www.synaudcon.com/",
+    "tag": "Audio"
+  },
+  {
+    "name": "Tait Online Navigation Training",
+    "vendor": "Tait",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://taittrainingus.myshopify.com/",
+    "tag": "Automation"
+  },
+  {
+    "name": "Chyron Academy",
+    "vendor": "Chyron",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://chyron.com/resources/chyron-academy-broadcasting-video-production-training/",
+    "tag": "Broadcasting"
+  },
+  {
+    "name": "Viz University",
+    "vendor": "Vizrt",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.vizrt.com/community/viz-university/",
+    "tag": "Broadcasting"
+  },
+  {
+    "name": "SBE Webinars, Trainings, & Certification Exams",
+    "vendor": "Society of Broadcast Engineers (SBE)",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://sbe.org/certification/",
+    "tag": "Broadcasting"
+  },
+  {
+    "name": "Calling All Crows Sexual Violence Prevention Training",
+    "vendor": "Calling All Crows",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.callingallcrows.org/",
+    "tag": "General AV"
+  },
+  {
+    "name": "Extron Institute Classes",
+    "vendor": "Extron",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.extron.com/training",
+    "tag": "General AV"
+  },
+  {
+    "name": "Harmon Professional Training",
+    "vendor": "Harmon Professional Training",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://training.harmanpro.com/",
+    "tag": "General AV"
+  },
+  {
+    "name": "Mental Health First Aid Virtual Training",
+    "vendor": "Behind the Scenes",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://www.btshelp.org/",
+    "tag": "General AV"
+  },
+  {
+    "name": "Event Safety Alliance Trainings",
+    "vendor": "Event Safety Alliance",
+    "cost": "Paid",
+    "desc": "Both/Hybrid",
+    "url": "https://eventsafetyalliance.org/standards-guidance",
+    "tag": "General AV"
+  },
+  {
+    "name": "ACE Program",
+    "vendor": "Absen",
+    "cost": "",
+    "desc": "",
+    "url": "https://www.absen.com/support/ace/",
+    "tag": "LED"
+  },
+  {
+    "name": "LearningStage",
+    "vendor": "ETC",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://learningstage.etcconnect.com/learn",
+    "tag": "Lighting"
+  },
+  {
+    "name": "MA University E-learning",
+    "vendor": "grandMA",
+    "cost": "FREE",
+    "desc": "Both/Hybrid",
+    "url": "https://www.malighting.com/ma-university/video-tutorials/",
+    "tag": "Lighting"
+  },
+  {
+    "name": "Academy of Production Technology",
+    "vendor": "ETCP",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://etcp.esta.org/",
+    "tag": "Lighting"
+  },
+  {
+    "name": "LimeLight Wired Online Lighting Courses",
+    "vendor": "LimeLight Wired",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://www.limelightwired.com/learn",
+    "tag": "Lighting"
+  },
+  {
+    "name": "Cisco Networking Academy",
+    "vendor": "Cisco",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.netacad.com/",
+    "tag": "Networking"
+  },
+  {
+    "name": "NETGEAR Academy",
+    "vendor": "NETGEAR",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.netgear.academy/",
+    "tag": "Networking"
+  },
+  {
+    "name": "Motion Labs Online Power & Rigging Courses",
+    "vendor": "Motion Labs",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://www.motionlabs.com/mli-learning/",
+    "tag": "Power"
+  },
+  {
+    "name": "Vectorworks University",
+    "vendor": "Vectorworks",
+    "cost": "Paid",
+    "desc": "Both/Hybrid",
+    "url": "https://university.vectorworks.net/",
+    "tag": "Project Management"
+  },
+  {
+    "name": "CM Entertaining Training",
+    "vendor": "Columbus McKinnon Training",
+    "cost": "Paid",
+    "desc": "Both/Hybrid",
+    "url": "https://training.cmco.com/collections/cm-et-training",
+    "tag": "Rigging"
+  },
+  {
+    "name": "EVS E-Learning",
+    "vendor": "EVS",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.evs.com/en/training",
+    "tag": "Unknown"
+  },
+  {
+    "name": "Certified Technology Specialist (CTS) Certification",
+    "vendor": "AVIXA",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://www.avixa.org/certification-section/CTS",
+    "tag": "Unknown"
+  },
+  {
+    "name": "Disguise Elearning",
+    "vendor": "Disguise",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://www.disguise.one/en/learn-support/training-pathways",
+    "tag": "Video"
+  },
+  {
+    "name": "XPression Freelance Training",
+    "vendor": "Ross",
+    "cost": "FREE",
+    "desc": "Online",
+    "url": "https://rossvideo.com/products-services/acquisition-production/cg-graphics-systems/xpression/xpression-freelance-training",
+    "tag": "Video"
+  },
+  {
+    "name": "Microsoft Office Specialist: PowerPoint Associate (Office 2019)",
+    "vendor": "Microsoft Office",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://certiport.pearsonvue.com/Certifications/Microsoft/MOS/Certify",
+    "tag": "Video"
+  },
+  {
+    "name": "Purple Tally Training",
+    "vendor": "Purple Tally Training",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://www.purpletally.com/",
+    "tag": "Video"
+  },
+  {
+    "name": "Certified Public Bookkeeper (CPB)",
+    "vendor": "National Association of Certified Public Bookkeepers",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "https://www.nacpb.org/certification/cpb/",
+    "tag": "Business / Finance"
+  },
+  {
+    "name": "Savant",
+    "vendor": "Savant Programmer / Authorized Integrator Certification",
+    "cost": "Savant's certification tracks for home automation integrators and programmers — covering Savant system programming, configuration, and deployment of smart home and commercial automation systems. Includes Programmer and Authorized Integrator credential levels.",
+    "desc": "https://community.savantlabs.io/c/savant-certification",
+    "url": "https://training.savant.com/",
+    "tag": "Paid"
+  },
+  {
+    "name": "Josh.ai",
+    "vendor": "Josh.ai Certified Dealer",
+    "cost": "Josh.ai's certification for authorized dealers integrating the Josh.ai voice control platform into residential and commercial smart environments. Covers system setup, device integration, and voice automation configuration for smart home AV professionals.",
+    "desc": "https://josh.ai/integrators",
+    "url": "https://www.josh.ai/partners/",
+    "tag": "Paid"
+  },
+  {
+    "name": "ETA International",
+    "vendor": "CET / CST / CAT — Electronics & Audio Technician Certifications",
+    "cost": "ETA International's suite of electronics certifications for AV professionals: CET (Certified Electronics Technician) covers general electronics foundation; CST (Certified Service Technician) covers electronics servicing; CAT (Commercial Audio Technician) covers installation and troubleshooting of commercial sound systems.",
+    "desc": "https://www.etai.org/specialty_certifications.html",
+    "url": "https://www.etai.org/",
+    "tag": "Paid"
+  },
+  {
+    "name": "D-Tools",
+    "vendor": "D-Tools System Integrator Certification",
+    "cost": "D-Tools' certification for AV system integrators covering use of D-Tools SI software for AV system design, documentation, project management, and proposal generation. Validates proficiency in the industry-leading AV project documentation platform.",
+    "desc": "https://www.d-tools.com/professional-services-packages",
+    "url": "https://www.d-tools.com/training/",
+    "tag": "Paid"
+  },
+  {
+    "name": "Control4 / SnapAV",
+    "vendor": "Control4 Certified Programmer",
+    "cost": "Control4's certification for system programmers covering Control4 OS3 programming, driver development, system configuration, and integration of third-party devices into Control4 smart home and commercial automation systems.",
+    "desc": "https://www.control4.com/for/integrators",
+    "url": "https://www.control4.com/training/",
+    "tag": "Paid"
+  },
+  {
+    "name": "CEDIA",
+    "vendor": "CEDIA Certifications — IST / ESC-D / CIT / Networking Specialist",
+    "cost": "CEDIA's suite of residential AV and smart home certifications: IST (Integrated Systems Technician) for system integration; ESC-D (Designer) for system design and documentation; CIT (Cabling & Infrastructure Technician) for structured wiring; and Networking Specialist for residential network design. Industry-recognized credentials for home technology professionals.",
+    "desc": "https://cedia.org/smart-home-professionals/certifications/",
+    "url": "https://www.cedia.org/education-certification",
+    "tag": "Paid"
+  },
+  {
+    "name": "Bose Professional",
+    "vendor": "Bose ControlSpace Designer Certification",
+    "cost": "Bose Professional's certification covering ControlSpace Designer software for DSP configuration and loudspeaker system design. Validates proficiency in programming Bose PowerMatch amplifiers, RoomMatch arrays, and installed sound systems using ControlSpace DSP platform.",
+    "desc": "https://boseprofessional.com/resources/learning-center",
+    "url": "https://pro.bose.com/en_us/support/training.html",
+    "tag": "Paid"
+  },
+  {
+    "name": "BICSI",
+    "vendor": "RCDD — Registered Communications Distribution Designer",
+    "cost": "BICSI's prestigious RCDD credential for professionals who design, integrate, and implement information and communications technology (ICT) systems. Covers structured cabling, telecommunications infrastructure, and distribution system design — a globally recognized certification for AV and IT infrastructure professionals.",
+    "desc": "https://www.bicsi.org/education-certification/certification/rcdd/become-an-rcdd",
+    "url": "https://www.bicsi.org/education-certification/certifications/rcdd",
+    "tag": "Paid"
+  },
+  {
+    "name": "Avnu Alliance",
+    "vendor": "Milan Certified Engineer",
+    "cost": "Avnu Alliance's Milan Certified Engineer credential validating expertise in Milan AVB/TSN network interoperability — the deterministic, time-synchronized audio networking standard used in professional live sound and installed AV. Covers Milan network design, device configuration, and troubleshooting.",
+    "desc": "https://avnu.org/avnu-certification/",
+    "url": "https://avnu.org/milan/",
+    "tag": "Paid"
+  },
+  {
+    "name": "AQAV",
+    "vendor": "AQAV Certifications — CQT / CQL / CQD",
+    "cost": "AQAV's (Association for Quality in Audio Visual Technology) suite of quality certifications for AV professionals: CQT (Certified Quality Technician) ensures installed systems meet AV quality standards; CQL (Certified Quality Leader) covers managing and implementing AV quality programs; CQD (Certified Quality Designer) ensures system design meets AV quality standards.",
+    "desc": "https://www.aqav.org/certifications",
+    "url": "https://www.aqav.org/",
+    "tag": "Paid"
+  },
+  {
+    "name": "AMX / Harman",
+    "vendor": "AMX Certified Programmer (ACP) / AMX ACE Certification",
+    "cost": "AMX's certification tracks for control system programmers: ACP (Authorized Control Programmer) covers NetLinx Studio programming and AMX control system deployment; ACE covers advanced programming and integration of AMX control systems in commercial AV environments.",
+    "desc": "https://www.amx.com/training",
+    "url": "https://training.harmanpro.com/",
+    "tag": "Paid"
+  }
+]

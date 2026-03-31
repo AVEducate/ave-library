@@ -1,0 +1,247 @@
+[
+  {
+    "name": "AVNation",
+    "vendor": "Podcast",
+    "url": "https://avnation.tv",
+    "desc": "The Network for the Audio Video Industry. Weekly pro AV news, reviews, interviews, and show coverage for systems integrators and AV professionals. Active since 2011.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Geezers of Gear",
+    "vendor": "Podcast",
+    "url": "https://www.geezersofgear.com/",
+    "desc": "Entertainment production industry veterans discussing pro-audio, lighting, staging, video gear, and the people behind live events and concert touring. 300+ episodes, weekly.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Twenty Thousand Hertz",
+    "vendor": "Podcast",
+    "url": "https://www.20k.org",
+    "desc": "The stories behind the world's most recognizable sounds. Hosted by sound designer Dallas Taylor. Covers sound design, audio history, and acoustic science. 200+ episodes since 2016.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "The Sound Design Show",
+    "vendor": "Podcast",
+    "url": "https://www.sounddesignlive.com",
+    "desc": "Career-building interviews for live audio professionals. Covers concert, theatre, and corporate production sound. Hosted by Nathan Lively.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Learn Stage Lighting",
+    "vendor": "Podcast",
+    "url": "https://www.learnstagelighting.com/podcasts/the-learn-stage-lighting-podcast",
+    "desc": "Tips, tricks, and training for stage lighting across band, church, DJ, and theatre contexts. Biweekly. Active through 2024.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "The Lighting Nerds",
+    "vendor": "Podcast",
+    "url": "https://lightingnerds.net/",
+    "desc": "A bi-monthly podcast on entertainment lighting technology, industry news, and interviews with lighting professionals. Episode 046 published Jan 2025.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "MxU Podcast",
+    "vendor": "Podcast",
+    "url": "https://podcast.getmxu.com/episodes",
+    "desc": "Training platform for church worship and tech teams. Covers audio, video, lighting, and production leadership for church environments. Active through 2025.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "FILO",
+    "vendor": "Podcast",
+    "url": "https://filo.org/podcast",
+    "desc": "Podcast for church production professionals, continuing conversations from the FILO Conference. Host Todd Elliott interviews key influencers in worship production.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "SoundGirls Podcast",
+    "vendor": "Podcast",
+    "url": "https://soundgirls.org/category/podcast/",
+    "desc": "Interviews with audio professionals supporting diversity and inclusion in the sound industry. From SoundGirls.org.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "GIGGS Podcast",
+    "vendor": "Podcast",
+    "url": "https://www.giggs.live/",
+    "desc": "Hosted by Nikki Sanz, Founder & CEO of Giggs — the professional career platform for the live event industry. Touring and live events career stories, interviews, and lessons from the road. All disciplines from crew to PM.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "AV+ (Commercial Integrator)",
+    "vendor": "Podcast",
+    "url": "https://podcasts.apple.com/us/podcast/av-from-commercial-integrator/id1351433948",
+    "desc": "From Commercial Integrator magazine — pro AV integration, commercial tech, manufacturer news, and trade show coverage. Biweekly. Active through 2025.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "AV SuperFriends",
+    "vendor": "Podcast",
+    "url": "https://www.avsuperfriends.com",
+    "desc": "AV and eLearning professionals tackling challenges in managing audiovisual systems in higher education. Podcasts, panel discussions, and interviews for the higher ed AV community.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "The MO Sho",
+    "vendor": "Podcast",
+    "url": "https://www.aveducate.com",
+    "desc": "The Podcast by Techs for Techs. Hosted by Mike Lichen and Omar Colom — insider AV knowledge, industry professionals, and career insights.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Roadie Free Radio",
+    "vendor": "Podcast",
+    "url": "http://www.roadiefreeradio.com",
+    "desc": "Behind the scenes of the music and film business. Interviews with touring professionals, roadies, engineers, and industry veterans. 345+ episodes.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Creative Stage Lighting",
+    "vendor": "Podcast",
+    "url": "https://www.creativestagelighting.com",
+    "desc": "Issues facing entertainment industry professionals. Webinars, tips, and videos for stage lighting practitioners.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "CLS Podcast (Casting Light)",
+    "vendor": "Podcast",
+    "url": "http://www.castinglightpodcast.com/",
+    "desc": "Leading practitioners of entertainment lighting — designers, programmers, LDs, and production electricians in candid discussion.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Light Talks – The Lumen Brothers",
+    "vendor": "Podcast",
+    "url": "http://lighttalk.org",
+    "desc": "Three professional lighting designers and educators discuss live entertainment and architectural lighting. Hosted by Steve Woods, Stan Kaye, and David Jacques.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "The Mastering Show",
+    "vendor": "Podcast",
+    "url": "http://themasteringshow.com/",
+    "desc": "All about audio mastering, hosted by mastering engineer Ian Shepherd from the Production Advice website.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "AV Trade Talk",
+    "vendor": "Podcast",
+    "url": "https://avtradetalk.podbean.com",
+    "desc": "Stories behind brands in the audio-visual industry. Interviews with AV manufacturers, integrators, and industry figures.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "IT AV",
+    "vendor": "Podcast",
+    "url": "https://podcasts.apple.com/us/podcast/it-av/id1183779112",
+    "desc": "From AVNation — AV through the lens of the IT professional. Covers security, bandwidth, and network-based AV systems.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Radio Check",
+    "vendor": "Podcast",
+    "url": "https://podcasts.apple.com/us/podcast/radio-check-life-in-the-concert-touring-industry/id1525741903",
+    "desc": "Life on the road putting on world-class live performances. In-depth interviews with touring personnel, stage managers, lighting designers, video & sound engineers, riggers, and production managers. Active Nov 2025.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Ask the Programmer",
+    "vendor": "Podcast",
+    "url": "https://podcasts.apple.com/us/podcast/ask-the-programmer/id1561530169",
+    "desc": "James King and Steve Greenblatt discuss AV programming, control systems (Crestron, Q-SYS, AMX), and everything relevant to audiovisual programmers and the AV tech community. 200+ episodes. Weekly. Active Dec 2025.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Pro AV Today",
+    "vendor": "Podcast",
+    "url": "https://podcasts.apple.com/us/podcast/pro-av-today/id1603852426",
+    "desc": "Host Ben Thomas interviews innovators pushing AV and technology forward. Covers corporate AV, unified communications, AV/IT convergence, digital signage, and pro AV industry trends. From MarketScale. Active Dec 2025.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "Higher Ed AV Podcast",
+    "vendor": "Podcast",
+    "url": "https://higheredav.com/",
+    "desc": "Building the AV/IT tech manager community in higher education. Hosted by Joe Way, PhD, CTS. Covers classroom technology, campus AV support, AV/IT convergence, and the HETMA community. 339+ episodes, weekly. Active through ISE 2026.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "GigReady",
+    "vendor": "Podcast",
+    "url": "https://podcasts.apple.com/us/podcast/gigready/id1511624956",
+    "desc": "AV and the business of audio visual production — from corporate events to rock and roll. Hosted by Jordan Goodfellow, CEO of GigRent. Covers touring, production, event AV, freelancing, and the event professional's journey. 40+ episodes.",
+    "tag": "Podcast"
+  },
+  {
+    "name": "LPS — Live Production Summit",
+    "vendor": "Palm Springs, CA\n(Grand Hyatt Indian Wells) | January",
+    "url": "https://liveproductionsummit.com/",
+    "desc": "The premier conference for touring and live events professionals covering all disciplines — audio, lighting, video, staging, logistics, management, safety, and diversity. Roundtable format with industry leaders. Includes the Pinnacle Awards. Best for: L4–L7 touring and live event professionals.",
+    "tag": "Industry Events"
+  },
+  {
+    "name": "NAMM Show",
+    "vendor": "Anaheim, CA\n(Anaheim Convention Center) | January",
+    "url": "https://www.namm.org/",
+    "desc": "The world's largest music products, pro audio, and entertainment technology trade show. 4,000+ brands, education sessions, live performances, and the TEC Awards and Parnelli Awards honoring live event production. Best for: L3–L7 Audio, Live Events, and Music Technology professionals.",
+    "tag": "Industry Events"
+  },
+  {
+    "name": "ISE — Integrated Systems Europe",
+    "vendor": "Barcelona, Spain\n(Fira de Barcelona) | February",
+    "url": "https://www.iseurope.org/",
+    "desc": "The world's largest professional AV and systems integration trade show. 60,000+ attendees from 155+ countries. Covers corporate AV, digital signage, LED, unified communications, smart buildings, and live events. Best for: L4–L7 Pro AV and systems integration professionals.",
+    "tag": "Industry Events"
+  },
+  {
+    "name": "NAB Show",
+    "vendor": "Las Vegas, NV\n(Las Vegas Convention Center) | April",
+    "url": "https://www.nabshow.com/las-vegas/",
+    "desc": "The premier global event for broadcast, media, and entertainment technology. 55,000+ attendees. Covers content creation, streaming, video production, AI in media, broadcast AV, cameras, and distribution. Best for: L4–L7 Video, Streaming, and Broadcast professionals.",
+    "tag": "Industry Events"
+  },
+  {
+    "name": "InfoComm",
+    "vendor": "Orlando, FL / Las Vegas, NV\n(rotates annually) | June",
+    "url": "https://www.infocommshow.org/",
+    "desc": "The largest professional AV trade show in North America. Produced by AVIXA. Covers audio, video, lighting, control, digital signage, AV/IT convergence, corporate AV, and live events. CTS certification sessions available. Best for: All AV professionals L3–L7, especially systems integration and corporate AV.",
+    "tag": "Industry Events"
+  },
+  {
+    "name": "AV Pro Reunion",
+    "vendor": "Orlando, FL | Late July / August",
+    "url": "https://avproreunion.com/",
+    "desc": "Annual gathering for AV professionals focused on community building, networking, and career development in the AV industry. Best for: All AV professionals looking to connect with the broader community.",
+    "tag": "Industry Events"
+  },
+  {
+    "name": "Pirate University",
+    "vendor": "New York, NY | August",
+    "url": "https://www.pirateuniversity.org/",
+    "desc": "Hands-on training and education event for live entertainment and event production professionals. Practical skills development covering lighting, audio, video, and production disciplines. Best for: L2–L5 live event professionals seeking hands-on training.",
+    "tag": "Industry Events"
+  },
+  {
+    "name": "CEDIA Expo / CIX",
+    "vendor": "Denver, CO\n(Colorado Convention Center) | September",
+    "url": "https://cediaexpo.com/",
+    "desc": "Annual trade show and conference for residential and commercial AV integration. Covers smart home, corporate AV, custom integration, home theater, lighting control, and security. Commercial Integrator Expo (CIX) runs alongside. Best for: L3–L7 systems integration, corporate AV, and residential AV professionals.",
+    "tag": "Industry Events"
+  },
+  {
+    "name": "LDI — Live Design International",
+    "vendor": "Las Vegas, NV\n(Las Vegas Convention Center) | December",
+    "url": "https://www.ldishow.com/",
+    "desc": "The premier trade show and conference for live entertainment design and technology. Covers lighting, audio, video, staging, trussing, rigging, automation, and special effects. Features LDInstitute hands-on training and ETCP rigging credit sessions. Best for: L3–L7 Lighting, Live Events, Scenic, Rigging, and LED professionals.",
+    "tag": "Industry Events"
+  },
+  {
+    "name": "AVIXA — Year-Round Events & Community",
+    "vendor": "Various (Virtual + In-Person) | Year-Round",
+    "url": "https://www.avixa.org/",
+    "desc": "AVIXA (Audiovisual and Integrated Experience Association) produces InfoComm, hosts CTS certification programs, publishes industry standards, and runs year-round professional development events, webinars, and community programs including AVIXA Xchange. Best for: All AV professionals seeking certification, standards, and industry community at any level.",
+    "tag": "Industry Events"
+  }
+]
