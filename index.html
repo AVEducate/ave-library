@@ -142,7 +142,7 @@ h1 span{color:var(--white)}
   <div class="eyebrow">Free Member Resource</div>
   <h1>The AV<br><span>Library</span></h1>
   <p class="hero-sub">Apps, training, software, books, certifications, careers and a 10,223-term AV dictionary &mdash; free for the AV community. Join the AVE Fam with your email to get access.</p>
-  <a class="cta-btn" id="gateBtn" href="https://www.aveducate.com/avlibrary" target="_top">Join Free to Unlock</a>
+  <a class="cta-btn" id="gateBtn" href="https://www.aveducate.com/the-av-library" target="_top">Join Free to Unlock</a>
   <div class="gate-note">Already signed up? Open the library from aveducate.com.</div>
 </div>
 
@@ -209,12 +209,12 @@ h1 span{color:var(--white)}
 const DATA_BASE = '.';
 
 // ── SIGN-UP GATE ──────────────────────────────────────────────────────────
-// The library is free with an email sign-up on aveducate.com. People reach it
-// through the hidden Squarespace page that embeds this site, so the library
-// only shows when it is framed by aveducate.com (or Squarespace's editor).
-// Opened directly, it shows a "join free" screen that links to SIGNUP_URL.
-// This is a soft gate: the JSON data stays public.
-const SIGNUP_URL = 'https://www.aveducate.com/avlibrary';
+// The library is a free Squarespace membership: members log in at
+// aveducate.com/the-av-library, the member-only page that embeds this site,
+// so the library only shows when it is framed by aveducate.com (or
+// Squarespace's editor). Opened directly, it shows a "join free" screen that
+// links to SIGNUP_URL. The JSON data itself stays public.
+const SIGNUP_URL = 'https://www.aveducate.com/the-av-library';
 const ALLOWED_PARENTS = [/(^|\.)aveducate\.com$/, /(^|\.)squarespace\.com$/, /^localhost$/, /^127\.0\.0\.1$/];
 
 function parentHost() {
