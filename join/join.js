@@ -1,8 +1,9 @@
 /* AV Library sign-in page (aveducate.com/the-av-library, logged out).
    A short loader in the site's footer code injection adds this file on pages
    that show Squarespace's member sign-in box (#sqs-paywall-page-root). It loads
-   join.css, then adds a hero, a teaser search and four cards above the Sign Up
-   box. Squarespace's own buttons still do the real sign up and log in.
+   join.css, then adds a hero, a teaser search and four cards. Squarespace's
+   Sign Up box and Log In button are hidden (Omar: the new section covers them),
+   but our buttons still click them, so Squarespace does the real sign up / log in.
    Data: stats.json and search.json, made by build/join_index.py. */
 (function () {
   var root = document.getElementById('sqs-paywall-page-root');
@@ -43,6 +44,7 @@
     if (root.classList.contains('avl-ready')) return;
     var el = document.createElement('section');
     el.className = 'avl-join';
+    el.id = 'avl-join';
     el.setAttribute('aria-label', 'The AV Library');
     el.innerHTML =
       '<div class="avl-hero">'
@@ -69,19 +71,10 @@
           + '<span class="avl-go">' + esc(c.go) + ' &rarr;</span></div></a>';
       }).join('') + '</div>';
 
-    // the new section goes above everything; its title replaces the old headline
-    // (join.css hides it). A JOIN FREE heading goes over the page's own
-    // description text and Sign Up box, which stay as they are.
+    // the new section goes above everything; its title replaces the old headline.
+    // join.css hides the headline, the Sign Up box and the Log In button; the
+    // page's own description text stays, below the cards.
     root.insertBefore(el, headline.parentNode === root ? headline : root.firstChild);
-    var desc = document.getElementById('description');
-    var next = desc && desc.parentNode === root ? desc : $('.product-blocks-container', root);
-    if (next && next.parentNode === root) {
-      var head = document.createElement('h2');
-      head.className = 'avl-join-head';
-      head.id = 'avl-join';
-      head.textContent = 'Join free';
-      root.insertBefore(head, next);
-    }
     root.classList.add('avl-ready');
 
     el.addEventListener('click', function (e) {

@@ -73,15 +73,15 @@
 .avl-go{margin-top:auto;font-family:var(--avl-display);text-transform:uppercase;letter-spacing:.2em;color:#fff;font-size:15px;
   text-decoration:underline;text-underline-offset:4px}
 
-/* JOIN FREE heading over the page's own description and Sign Up box */
-#sqs-paywall-page-root .avl-join-head{margin:64px 0 0;font-family:rama-gothic-e,'Oswald','Arial Narrow',sans-serif;font-weight:600;
-  text-transform:uppercase;color:#fff;font-size:34px;line-height:1.2;letter-spacing:.2em;scroll-margin-top:120px}
-
 /* Squarespace's own sign-in page, once the section is in: the hero title
-   replaces its headline; its description text stays, under JOIN FREE */
-#sqs-paywall-page-root.avl-ready > #headline{display:none}
-#sqs-paywall-page-root.avl-ready > #description{max-width:680px;margin:14px auto 26px}
-#sqs-paywall-page-root.avl-ready .product-block{border-radius:4px;max-width:560px;margin-left:auto;margin-right:auto}
+   replaces its headline, and the hero's JOIN FREE / Log in replace the Sign Up
+   box and Log In button (hidden, but join.js still clicks them). The page's own
+   description text stays, below the cards. */
+#sqs-paywall-page-root.avl-ready > #headline,
+#sqs-paywall-page-root.avl-ready > .product-blocks-container,
+#sqs-paywall-page-root.avl-ready > .product-blocks-container + br,
+#sqs-paywall-page-root.avl-ready > .sign-in-button{display:none}
+#sqs-paywall-page-root.avl-ready > #description{max-width:680px;margin:64px auto 0}
 
 @media (max-width:1000px){.avl-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media (max-width:560px){
@@ -89,5 +89,5 @@
   .avl-counts span{display:block;height:0;overflow:hidden;margin:0}
   .avl-cards{grid-template-columns:1fr}
   .avl-search label{font-size:20px}
-  #sqs-paywall-page-root .avl-join-head{font-size:28px}
+  #sqs-paywall-page-root.avl-ready > #description{margin-top:48px}
 }
