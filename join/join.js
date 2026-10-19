@@ -33,6 +33,17 @@
     + '<rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>';
   // the hero title is the sign-in page's own headline (Squarespace: Member Sites > Sign-up page)
   var title = headline.textContent.trim();
+
+  // the AV Library's own tab icon and tab name (Squarespace has one icon for the
+  // whole site). Members' view: the page's header code does the same
+  // (build/tab_icon_member_code.html).
+  [].forEach.call(document.querySelectorAll('link[rel~="icon"], link[rel="apple-touch-icon"]'), function (l) { l.remove(); });
+  [['icon', '32x32', 'tab-icon-32.png'], ['icon', '16x16', 'tab-icon-16.png'], ['apple-touch-icon', '180x180', 'tab-icon-180.png']].forEach(function (i) {
+    var l = document.createElement('link');
+    l.rel = i[0]; l.type = 'image/png'; l.setAttribute('sizes', i[1]); l.href = base + i[2];
+    document.head.appendChild(l);
+  });
+  if (!/AV Library/i.test(document.title)) document.title = title + ' \u2014 ' + document.title;
   var CARDS = [
     { key: 'tools', title: 'AV Tools', text: 'Apps and software for the job: calculators, test signals, show control and more.', go: 'Explore' },
     { key: 'brands', title: 'Training & Certs', text: 'Courses, channels and certifications from AVIXA, Extron, QSC, grandMA and more.', go: 'Explore' },
