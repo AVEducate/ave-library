@@ -49,45 +49,73 @@
   border-radius:3px;padding:2px 8px}
 .avl-results .avl-btn{font-size:16px;padding:13px 22px}
 
-/* four cards: what members unlock */
-.avl-cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-top:44px;text-align:left}
+/* one card per library section: the picture area is a snippet of the
+   section, filled edge to edge and fading out (members see the rest) */
+.avl-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:44px;text-align:left}
 .avl-card{display:flex;flex-direction:column;border:1px solid var(--avl-line);border-radius:4px;background:var(--avl-card);overflow:hidden;
   color:inherit;text-decoration:none;transition:border-color .15s}
 .avl-card:hover,.avl-card:focus-visible{border-color:var(--avl-text)}
-.avl-art{height:160px;display:flex;align-items:center;justify-content:center;padding:14px;background:#111;border-bottom:1px solid #202020}
-.avl-grid{display:grid;grid-template-columns:repeat(3,38px);gap:8px}
-.avl-grid img{width:38px;height:38px;border-radius:9px;object-fit:cover;background:#1a1a1a;display:block}
-.avl-books{display:flex;align-items:flex-end;gap:7px}
-.avl-books img{display:block;background:#1a1a1a}
-.avl-books .cover{width:52px;height:78px;object-fit:cover;border-radius:2px;box-shadow:0 4px 12px rgba(0,0,0,.6)}
-.avl-books .gear{width:46px;height:46px;object-fit:contain;background:#fff;padding:4px;border-radius:3px}
-.avl-terms{width:100%;text-align:left}
-.avl-terms div{padding:4px 0;border-bottom:1px solid #222}
-.avl-terms div:last-child{border-bottom:0}
-.avl-terms b{display:block;font-family:var(--avl-display);text-transform:uppercase;letter-spacing:.14em;color:#fff;font-size:15px;line-height:18px;font-weight:600}
-.avl-terms span{display:block;font-size:11px;line-height:15px;color:var(--avl-muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;letter-spacing:.03em}
-.avl-card-body{display:flex;flex-direction:column;flex:1;padding:16px 16px 18px}
+.avl-art{position:relative;height:170px;overflow:hidden;background:#111;border-bottom:1px solid #202020}
+.avl-art::after{content:'';position:absolute;left:0;right:0;bottom:0;height:56px;pointer-events:none;
+  background:linear-gradient(rgba(11,11,11,0),rgba(11,11,11,.92))}
+.avl-mosaic{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);display:grid;gap:6px}
+.avl-mosaic img{display:block;width:100%;height:100%;object-fit:cover;background:#1a1a1a}
+.avl-art-icons .avl-mosaic{grid-template-columns:repeat(7,56px);grid-auto-rows:56px}
+.avl-art-icons img{border-radius:12px}
+.avl-art-covers .avl-mosaic{grid-template-columns:repeat(7,64px);grid-auto-rows:96px}
+.avl-art-covers img{border-radius:2px}
+.avl-art-gear .avl-mosaic{grid-template-columns:repeat(6,86px);grid-auto-rows:86px}
+.avl-art-gear img{object-fit:contain;background:#fff;padding:7px;border-radius:4px}
+/* terms: whole words, rows from the top, fading out at the bottom like the rest */
+.avl-art-terms .avl-mosaic{display:flex;flex-wrap:wrap;justify-content:center;align-content:flex-start;left:12px;right:12px;top:14px;transform:none}
+.avl-art-terms span{font-family:var(--avl-display);text-transform:uppercase;letter-spacing:.14em;font-size:15px;line-height:1;color:#d0d0d0;
+  background:#171717;border:1px solid #262626;border-radius:3px;padding:8px 11px 7px}
+.avl-art-terms span:nth-child(7n+3){background:#fff;color:#000;border-color:#fff}
+.avl-card-body{display:flex;flex-direction:column;flex:1;padding:16px 18px 18px}
 .avl-card h3{margin:0;font-family:var(--avl-display);font-weight:600;text-transform:uppercase;color:#fff;font-size:24px;letter-spacing:.14em;line-height:1.1}
-.avl-card p{margin:8px 0 12px;font-size:13px;line-height:1.5;color:#bdbdbd;letter-spacing:.04em}
-.avl-num{font-family:'Space Mono',ui-monospace,Menlo,monospace;font-weight:700;font-size:11px;color:var(--avl-muted);letter-spacing:.04em;margin-bottom:12px}
+.avl-card p{margin:8px 0 16px;font-size:13px;line-height:1.5;min-height:3em;color:#bdbdbd;letter-spacing:.04em;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .avl-go{margin-top:auto;font-family:var(--avl-display);text-transform:uppercase;letter-spacing:.2em;color:#fff;font-size:15px;
   text-decoration:underline;text-underline-offset:4px}
 
+/* closing box: one line and a clear action */
+.avl-close{margin-top:56px;padding:44px 24px 36px;border:1px solid var(--avl-line);border-radius:4px;background:var(--avl-card)}
+.avl-close h2{margin:0;font-family:var(--avl-display);font-weight:600;text-transform:uppercase;color:#fff;font-size:32px;line-height:1.15;letter-spacing:.14em}
+.avl-close p{max-width:640px;margin:14px auto 26px;font-size:15px;line-height:1.6;color:var(--avl-text);letter-spacing:.06em}
+.avl-close-login{display:block;margin:18px auto 0;background:none;border:0;padding:4px;color:var(--avl-muted);font-family:var(--avl-body);
+  font-size:14px;letter-spacing:.06em;cursor:pointer}
+.avl-close-login:hover{color:#fff;text-decoration:underline;text-underline-offset:3px}
+
 /* Squarespace's own sign-in page, once the section is in: the hero title
-   replaces its headline, and the hero's JOIN FREE / Log in replace the Sign Up
-   box and Log In button (hidden, but join.js still clicks them). The page's own
-   description text stays, below the cards. */
+   replaces its headline, the closing box replaces its description, and our
+   JOIN / Log in buttons replace the Sign Up box and Log In button (hidden,
+   but join.js still clicks them) */
 #sqs-paywall-page-root.avl-ready > #headline,
+#sqs-paywall-page-root.avl-ready > #description,
 #sqs-paywall-page-root.avl-ready > .product-blocks-container,
 #sqs-paywall-page-root.avl-ready > .product-blocks-container + br,
 #sqs-paywall-page-root.avl-ready > .sign-in-button{display:none}
-#sqs-paywall-page-root.avl-ready > #description{max-width:680px;margin:64px auto 0}
 
-@media (max-width:1000px){.avl-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:1000px){
+  .avl-cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .avl-card[data-card="terms"]{grid-column:1 / -1}
+}
 @media (max-width:560px){
   .avl-hero{padding:40px 16px 40px}
   .avl-counts span{display:block;height:0;overflow:hidden;margin:0}
-  .avl-cards{grid-template-columns:1fr}
+  .avl-cards{gap:10px}
+  .avl-art{height:118px}
+  .avl-art-icons .avl-mosaic{grid-template-columns:repeat(7,44px);grid-auto-rows:44px;gap:5px}
+  .avl-art-icons img{border-radius:10px}
+  .avl-art-covers .avl-mosaic{grid-template-columns:repeat(7,50px);grid-auto-rows:75px;gap:5px}
+  .avl-art-gear .avl-mosaic{grid-template-columns:repeat(6,64px);grid-auto-rows:64px;gap:5px}
+  .avl-art-terms .avl-mosaic{gap:5px;left:8px;right:8px;top:10px}
+  .avl-art-terms span{font-size:13px;padding:7px 9px 6px}
+  .avl-card-body{padding:12px 12px 14px}
+  .avl-card h3{font-size:18px;letter-spacing:.12em}
+  .avl-card p{display:none}
+  .avl-go{margin-top:10px;font-size:13px;letter-spacing:.14em}
   .avl-search label{font-size:20px}
-  #sqs-paywall-page-root.avl-ready > #description{margin-top:48px}
+  .avl-close{padding:32px 16px 28px}
+  .avl-close h2{font-size:24px}
 }

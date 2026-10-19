@@ -1,9 +1,11 @@
 /* AV Library sign-in page (aveducate.com/the-av-library, logged out).
    A short loader in the site's footer code injection adds this file on pages
    that show Squarespace's member sign-in box (#sqs-paywall-page-root). It loads
-   join.css, then adds a hero, a teaser search and four cards. Squarespace's
-   Sign Up box and Log In button are hidden (Omar: the new section covers them),
-   but our buttons still click them, so Squarespace does the real sign up / log in.
+   join.css, then adds a hero, a teaser search, a card for each library section
+   (a snippet of its real pictures) and a closing JOIN THE AVE FAM box.
+   Squarespace's headline, description, Sign Up box and Log In button are
+   hidden (Omar: the new section covers them), but our buttons still click
+   Squarespace's, so Squarespace does the real sign up / log in.
    Data: stats.json and search.json, made by build/join_index.py. */
 (function () {
   var root = document.getElementById('sqs-paywall-page-root');
@@ -44,11 +46,18 @@
     document.head.appendChild(l);
   });
   if (!/AV Library/i.test(document.title)) document.title = title + ' \u2014 ' + document.title;
+  // one card per library section, in the library's own order and names; the
+  // picture area is a snippet of that section (kind: icons, covers, gear, terms)
   var CARDS = [
-    { key: 'tools', title: 'AV Tools', text: 'Apps and software for the job: calculators, test signals, show control and more.', go: 'Explore' },
-    { key: 'brands', title: 'Training & Certs', text: 'Courses, channels and certifications from AVIXA, Extron, QSC, grandMA and more.', go: 'Explore' },
-    { key: 'books', title: 'Books & Gear', text: 'Books for every part of the craft, plus the AVE WorkBox: the tools and gear for your kit.', go: 'Explore' },
-    { key: 'terms', title: 'AV Dictionary', text: 'Look up the language of AV: audio, video, lighting, rigging, film and XR.', go: 'Look up' }
+    { key: 'apps', title: 'Apps', kind: 'icons', text: 'Calculators, test signals and field tools for your phone and tablet.' },
+    { key: 'training', title: 'Training', kind: 'icons', text: 'Audio, video, lighting, networking and rigging courses from the brands you use.' },
+    { key: 'software', title: 'Software', kind: 'icons', text: 'AV, VJ and playback software, from show control to signage.' },
+    { key: 'books', title: 'Books', kind: 'covers', text: 'Video and color, lighting and power, audio, leadership and the business of AV.' },
+    { key: 'careers', title: 'Careers', kind: 'icons', text: 'Agencies, crew directories, labor forms and job boards.' },
+    { key: 'certs', title: 'Certs', kind: 'icons', text: 'Certifications for audio, video, lighting, networking and more.' },
+    { key: 'workbox', title: 'WorkBox', kind: 'gear', text: 'Gear and field essentials for your work box.' },
+    { key: 'community', title: 'Community', kind: 'icons', text: 'Podcasts and industry events for AV people.' },
+    { key: 'terms', title: 'AV Dictionary', kind: 'terms', text: 'Look up the language of AV, from audio and video to rigging and XR.' }
   ];
 
   function build() {
@@ -76,15 +85,19 @@
       + '</div>'
       + '<div class="avl-cards">' + CARDS.map(function (c) {
         return '<a class="avl-card" href="#avl-join" data-card="' + c.key + '">'
-          + '<div class="avl-art" data-art="' + c.key + '"></div>'
+          + '<div class="avl-art avl-art-' + c.kind + '" data-art="' + c.key + '"></div>'
           + '<div class="avl-card-body"><h3>' + esc(c.title) + '</h3><p>' + esc(c.text) + '</p>'
-          + '<div class="avl-num" data-num="' + c.key + '"></div>'
-          + '<span class="avl-go">' + esc(c.go) + ' &rarr;</span></div></a>';
-      }).join('') + '</div>';
+          + '<span class="avl-go" data-go="' + c.key + '">See all &rarr;</span></div></a>';
+      }).join('') + '</div>'
+      + '<div class="avl-close">'
+      + '<h2>Built for the AV community.</h2>'
+      + '<p data-close>One free membership to help you learn, grow, and get better at your craft.</p>'
+      + '<button type="button" class="avl-btn" data-join>Join the AVE Fam &rarr;</button>'
+      + '<button type="button" class="avl-close-login" data-login>Already a member? Log in.</button>'
+      + '</div>';
 
-    // the new section goes above everything; its title replaces the old headline.
-    // join.css hides the headline, the Sign Up box and the Log In button; the
-    // page's own description text stays, below the cards.
+    // the new section goes above everything; join.css hides Squarespace's
+    // headline, description, Sign Up box and Log In button.
     root.insertBefore(el, headline.parentNode === root ? headline : root.firstChild);
     root.classList.add('avl-ready');
 
@@ -95,31 +108,18 @@
       if (t.hasAttribute('data-login')) login(); else join();
     });
 
-    // counts and card artwork
+    // counts and each card's snippet
     fetch(base + 'stats.json').then(function (r) { return r.json(); }).then(function (s) {
-      var n = s.counts;
       $('[data-counts]', el).innerHTML = '<b>' + fmt(s.resources) + '</b>resources<span>&middot;</span><b>' + fmt(s.terms) + '</b>AV terms';
-      var nums = {
-        tools: fmt(n.apps) + ' apps · ' + fmt(n.software) + ' programs',
-        brands: fmt(n.training) + ' training · ' + fmt(n.certs) + ' certs',
-        books: fmt(n.books) + ' books · ' + fmt(n.workbox) + ' gear picks',
-        terms: fmt(s.terms) + ' terms'
-      };
-      Object.keys(nums).forEach(function (k) { $('[data-num="' + k + '"]', el).textContent = nums[k]; });
-      var a = s.art;
-      function grid(list) {
-        return '<div class="avl-grid">' + list.slice(0, 9).map(function (u) {
-          return '<img src="' + esc(src(u)) + '" alt="" loading="lazy">';
+      $('[data-close]', el).textContent = fmt(s.resources) + ' resources. ' + fmt(s.terms)
+        + ' AV terms. One free membership to help you learn, grow, and get better at your craft.';
+      CARDS.forEach(function (c) {
+        var count = c.key === 'terms' ? s.terms : s.counts[c.key], list = s.art[c.key] || [];
+        if (count) $('[data-go="' + c.key + '"]', el).innerHTML = 'See all ' + fmt(count) + ' &rarr;';
+        $('[data-art="' + c.key + '"]', el).innerHTML = '<div class="avl-mosaic">' + list.map(function (u) {
+          return c.kind === 'terms' ? '<span>' + esc(u) + '</span>' : '<img src="' + esc(src(u)) + '" alt="" loading="lazy">';
         }).join('') + '</div>';
-      }
-      $('[data-art="tools"]', el).innerHTML = grid(a.tools);
-      $('[data-art="brands"]', el).innerHTML = grid(a.brands);
-      $('[data-art="books"]', el).innerHTML = '<div class="avl-books">'
-        + a.covers.map(function (u) { return '<img class="cover" src="' + esc(u) + '" alt="" loading="lazy">'; }).join('')
-        + a.gear.map(function (u) { return '<img class="gear" src="' + esc(u) + '" alt="" loading="lazy">'; }).join('') + '</div>';
-      $('[data-art="terms"]', el).innerHTML = '<div class="avl-terms">' + a.terms.map(function (t) {
-        return '<div><b>' + esc(t[0]) + '</b><span>' + esc(t[1]) + '</span></div>';
-      }).join('') + '</div>';
+      });
     }).catch(function () {});
 
     // teaser search: names only, loaded the first time someone uses the box.
