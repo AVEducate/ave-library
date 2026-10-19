@@ -944,6 +944,22 @@
     "tag": "App"
   },
   {
+    "name": "VideoMaster Pro: EQ For Videos",
+    "vendor": "iOS / macOS",
+    "cost": "99.99",
+    "desc": "Equalizer and volume booster for the audio in your videos, on iPhone, iPad and Mac. Import a clip, shape the sound with a 6-band EQ or presets, then export it with no loss in video quality, at a smaller size for sharing, or as audio only. The free VideoMaster app (not Pro) lets you try it before buying.",
+    "url": "https://apps.apple.com/us/app/videomaster-pro-eq-for-videos/id1447753716",
+    "tag": "App"
+  },
+  {
+    "name": "Test Signal Generator",
+    "vendor": "iOS / macOS",
+    "cost": "Freemium",
+    "desc": "Broadcast-style test patterns from an iPhone, iPad or Mac, sent to an external display over HDMI or connected video hardware. Includes color bars, greyscale, zone plate, motion and moving-pixel tests, safe-area and geometry guides, 9:16, 4:5 and 1:1 framing guides, timecode and clock overlays, and audio reference tones. Handy for aligning projectors, checking LED walls and verifying a signal chain.",
+    "url": "https://apps.apple.com/us/app/test-signal-generator/id6781354860",
+    "tag": "App"
+  },
+  {
     "name": "Mini-Matrix",
     "vendor": "iOS",
     "cost": "FREE",
