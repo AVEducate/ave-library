@@ -34,6 +34,12 @@ h1 span{color:var(--white)}
 .stat-n.gold{color:var(--white)}
 .stat-l{font-size:10px;color:var(--muted);letter-spacing:.18em;text-transform:uppercase;margin-top:4px}
 .stat-d{display:none} /* row-end dividers looked broken when the stats wrap */
+/* the library's top area: a collage of every cover, logo and photo in the library
+   (hero-bg.jpg, built from the library's own images; the editable copy is in Canva),
+   darkened so the title stays readable and faded into the black page at the bottom */
+#library > .hero{background:linear-gradient(180deg,rgba(0,0,0,.64) 0%,rgba(0,0,0,.68) 50%,rgba(0,0,0,.9) 86%,#000 100%),url(hero-bg.jpg) center/cover no-repeat}
+#library > .hero h1,#library > .hero .stat-n{text-shadow:0 2px 18px rgba(0,0,0,.85)}
+#library > .hero .hero-sub,#library > .hero .stat-l,#library > .hero .eyebrow{text-shadow:0 1px 8px rgba(0,0,0,.9)}
 .totals{display:flex;justify-content:center;gap:16px 56px;flex-wrap:wrap;max-width:520px;margin:28px auto 0;padding-top:24px;border-top:1px solid var(--line)}
 .stat-dead .stat-n{color:var(--muted)}
 /* ── CONTROLS ── */
@@ -402,13 +408,14 @@ function makeBookCard(it) {
     + '</div></a></div>';
 }
 
-// ── ICON CARDS: Apps, Software, Community ─────────────────────────────────
+// ── ICON CARDS: Apps, Software, Training, Certs, Community ────────────────
 // These cards show an icon or logo on the left. Apps take it from
 // app-icons.json (app_icons.py: the App Store or Google Play icon, else the
-// app's website icon); Software and Community from software-icons.json and
-// community-icons.json (site_icons.py: copies kept in icons/). All three files
-// are keyed the same way as iconKey() below.
-var ICON_FILES = {apps: 'app-icons', software: 'software-icons', community: 'community-icons'};
+// app's website icon); the other sections from <section>-icons.json
+// (site_icons.py: copies kept in icons/). All the files are keyed the same
+// way as iconKey() below.
+var ICON_FILES = {apps: 'app-icons', software: 'software-icons', training: 'training-icons',
+                  certs: 'certs-icons', community: 'community-icons'};
 
 function iconKey(u) {
   var m = u.match(/(?:apps|itunes)\.apple\.com\/.*?\bid(\d+)/);
