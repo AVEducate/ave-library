@@ -418,14 +418,14 @@ function makeBookCard(it) {
     + '</div></a></div>';
 }
 
-// ── ICON CARDS: Apps, Software, Training, Certs, Community ────────────────
+// ── ICON CARDS: Apps, Software, Training, Careers, Certs, Community ───────
 // These cards show an icon or logo on the left. Apps take it from
 // app-icons.json (app_icons.py: the App Store or Google Play icon, else the
 // app's website icon); the other sections from <section>-icons.json
 // (site_icons.py: copies kept in icons/). All the files are keyed the same
 // way as iconKey() below.
 var ICON_FILES = {apps: 'app-icons', software: 'software-icons', training: 'training-icons',
-                  certs: 'certs-icons', community: 'community-icons'};
+                  careers: 'careers-icons', certs: 'certs-icons', community: 'community-icons'};
 
 function iconKey(u) {
   var m = u.match(/(?:apps|itunes)\.apple\.com\/.*?\bid(\d+)/);
