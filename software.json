@@ -144,11 +144,11 @@
     "tag": "AV Software"
   },
   {
-    "name": "Studio One Pro",
-    "vendor": "PreSonus",
+    "name": "Fender Studio Pro (formerly Studio One Pro)",
+    "vendor": "Fender (PreSonus)",
     "cost": "Paid",
     "desc": "Mac",
-    "url": "https://www.presonus.com/en/studio-one.html",
+    "url": "https://www.fender.com/pages/fender-studio-pro",
     "tag": "AV Software"
   },
   {
@@ -200,11 +200,11 @@
     "tag": "AV Software"
   },
   {
-    "name": "Studio One Pro",
-    "vendor": "PreSonus",
+    "name": "Fender Studio Pro (formerly Studio One Pro)",
+    "vendor": "Fender (PreSonus)",
     "cost": "Paid",
     "desc": "Windows",
-    "url": "https://www.presonus.com/en/studio-one.html",
+    "url": "https://www.fender.com/pages/fender-studio-pro",
     "tag": "AV Software"
   },
   {
@@ -544,7 +544,7 @@
     "tag": "AV Software"
   },
   {
-    "name": "Kardz (Video Test Pattern Software)",
+    "name": "Kards (Video Test Pattern Software)",
     "vendor": "Alteka Solutions",
     "cost": "FREE",
     "desc": "Mac",
@@ -784,7 +784,7 @@
     "tag": "AV Software"
   },
   {
-    "name": "Kardz (Video Test Pattern Software)",
+    "name": "Kards (Video Test Pattern Software)",
     "vendor": "Alteka Solutions",
     "cost": "FREE",
     "desc": "Windows",
@@ -896,7 +896,7 @@
     "tag": "VJ Software"
   },
   {
-    "name": "ArKaos Media Master Pro",
+    "name": "ChamSys MediaMaster Pro (formerly ArKaos)",
     "vendor": "Windows",
     "cost": "Paid",
     "desc": "Windows",
@@ -905,17 +905,17 @@
   },
   {
     "name": "ArKaos GrandVJ XT",
-    "vendor": "macOS/Windows",
+    "vendor": "Windows",
     "cost": "Paid",
-    "desc": "macOS/Windows",
+    "desc": "Windows",
     "url": "https://vj.arkaos.com/grandvj-xt/about",
     "tag": "VJ Software"
   },
   {
     "name": "ArKaos GrandVJ 2",
-    "vendor": "macOS/Windows",
+    "vendor": "Windows",
     "cost": "$499",
-    "desc": "macOS/Windows",
+    "desc": "Windows",
     "url": "https://vj.arkaos.com/grandvj/about",
     "tag": "VJ Software"
   },
@@ -992,14 +992,6 @@
     "tag": "VJ Software"
   },
   {
-    "name": "VJ Mode 1.5",
-    "vendor": "macOS",
-    "cost": "Free",
-    "desc": "macOS",
-    "url": "https://github.com/stavrosdidakis/VJ-Mode",
-    "tag": "VJ Software"
-  },
-  {
     "name": "NUVJ",
     "vendor": "Windows",
     "cost": "Paid",
@@ -1040,18 +1032,10 @@
     "tag": "VJ Software"
   },
   {
-    "name": "Makio 135",
-    "vendor": "macOS",
-    "cost": "Free",
-    "desc": "macOS",
-    "url": "https://makio135.com/",
-    "tag": "VJ Software"
-  },
-  {
     "name": "Bomb",
-    "vendor": "macOS/Windows",
+    "vendor": "Windows/Linux",
     "cost": "Free",
-    "desc": "macOS/Windows",
+    "desc": "Windows/Linux",
     "url": "https://draves.org/bomb/",
     "tag": "VJ Software"
   },

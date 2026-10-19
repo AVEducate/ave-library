@@ -42,7 +42,7 @@
     "tag": "Freelancer / Labor Form"
   },
   {
-    "name": "AV Matters",
+    "name": "AVFX (formerly AV Matters)",
     "vendor": "Freelancer / Labor Form",
     "desc": "Orlando, FL",
     "url": "https://www.avfx.com/careers/",
@@ -112,13 +112,6 @@
     "tag": "Freelancer / Labor Form"
   },
   {
-    "name": "Crew Me Up",
-    "vendor": "Freelancer / Labor Form",
-    "desc": "USA",
-    "url": "https://www.crewmeup.com/",
-    "tag": "Freelancer / Labor Form"
-  },
-  {
     "name": "CTS AVL",
     "vendor": "Freelancer / Labor Form",
     "desc": "Brentwood, TN",
@@ -154,10 +147,10 @@
     "tag": "Freelancer / Labor Form"
   },
   {
-    "name": "Sardis Events",
+    "name": "Ansera (formerly Sardis Events)",
     "vendor": "Freelancer / Labor Form",
     "desc": "Gurnee, IL",
-    "url": "https://sardis.lasso.io/register/",
+    "url": "https://ansera.lasso.io/register/",
     "tag": "Freelancer / Labor Form"
   },
   {
@@ -315,7 +308,7 @@
     "tag": "Freelancer / Labor Form"
   },
   {
-    "name": "Quest Show Servcies",
+    "name": "Quest Show Services",
     "vendor": "Freelancer / Labor Form",
     "desc": "USA",
     "url": "https://questshowservices.com/join-our-roster/",
@@ -483,10 +476,10 @@
     "tag": "Job Posting Site"
   },
   {
-    "name": "Sardis Events",
+    "name": "Ansera (formerly Sardis Events)",
     "vendor": "Job Posting Site",
     "desc": "Gurnee, IL",
-    "url": "https://sardis.lasso.io/register/",
+    "url": "https://ansera.lasso.io/register/",
     "tag": "Job Posting Site"
   },
   {
@@ -511,10 +504,10 @@
     "tag": "Agency"
   },
   {
-    "name": "360 Destination Group",
+    "name": "Cohera (formerly 360 Destination Group)",
     "vendor": "Agency",
     "desc": "USA",
-    "url": "https://www.360dg.com/",
+    "url": "https://meetcohera.com/",
     "tag": "Agency"
   },
   {
@@ -812,7 +805,7 @@
     "tag": "Agency"
   },
   {
-    "name": "Go With Live",
+    "name": "Ansera (formerly Go With Live)",
     "vendor": "Agency",
     "desc": "USA",
     "url": "https://ansera.com/",
@@ -980,10 +973,10 @@
     "tag": "Agency"
   },
   {
-    "name": "McVeigh",
+    "name": "MGME (McVeigh Global Meetings & Events)",
     "vendor": "Agency",
     "desc": "USA",
-    "url": "https://www.mcveigh.com/",
+    "url": "https://www.mgmeconnect.com/",
     "tag": "Agency"
   },
   {
@@ -1050,7 +1043,7 @@
     "tag": "Agency"
   },
   {
-    "name": "Production Glue",
+    "name": "TAIT (formerly Production Glue)",
     "vendor": "Agency",
     "desc": "USA",
     "url": "https://www.productionglue.com",
@@ -1176,7 +1169,7 @@
     "tag": "Agency"
   },
   {
-    "name": "WRG",
+    "name": "Emota (formerly WRG)",
     "vendor": "Agency",
     "desc": "USA",
     "url": "https://emotaexperiences.com/",
@@ -1327,13 +1320,6 @@
     "vendor": "Sports Crewing Company",
     "desc": "Worldwide",
     "url": "https://ltnglobal.com/",
-    "tag": "Crew Directory"
-  },
-  {
-    "name": "Lyon Video",
-    "vendor": "Sports Crewing Company",
-    "desc": "United States",
-    "url": "https://www.lyonvideo.com/",
     "tag": "Crew Directory"
   },
   {
@@ -1624,10 +1610,10 @@
     "tag": "Crew Directory"
   },
   {
-    "name": "QSR Productions",
+    "name": "RockForce (formerly QSR Productions)",
     "vendor": "Film & AV Crewing Company",
     "desc": "Oklahoma",
-    "url": "https://www.qsrproductionsllc.com/",
+    "url": "https://rockforce.com/",
     "tag": "Crew Directory"
   },
   {
