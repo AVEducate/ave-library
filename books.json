@@ -621,6 +621,15 @@
     "tag": "Video & Color"
   },
   {
+    "name": "Digital Video Pocket Guide",
+    "author": "Derrick Story",
+    "vendor": "Book",
+    "desc": "Compact field reference covering digital video formats, signal types, codec specifications, and connectivity standards used in professional video production. Designed to be kept on hand for quick lookup of technical specifications during shoots, installations, and system commissioning. A concise reference for video engineers and AV integrators.",
+    "url": "https://www.amazon.com/dp/0596005237?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
+    "img": "https://m.media-amazon.com/images/P/0596005237.01._SCLZZZZZZZ_.jpg",
+    "tag": "Video & Color"
+  },
+  {
     "name": "Electricity for the Entertainment Electrician & Technician",
     "author": "Richard Cadena",
     "vendor": "Book",
