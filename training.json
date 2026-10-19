@@ -211,7 +211,7 @@
     "name": "Adamson Audio Systems Webinars and Online Education",
     "vendor": "SND",
     "desc": "Adamson Systems webinar archive and online learning resources covering their professional loudspeaker systems, DSP tuning with the Adamson Software Suite, and best practices for deploying Adamson line arrays and point source systems in live event environments.",
-    "url": "https://www.adamsonaudio.com/support/training/",
+    "url": "https://legacy.adamson.ai/education/education",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -219,7 +219,7 @@
     "name": "AES Youtube Channel",
     "vendor": "SND",
     "desc": "The Audio Engineering Society's official YouTube channel featuring convention presentations, technical workshops, and interviews covering advances in audio science, recording, live sound, spatial audio, and emerging audio technology from the world's leading audio professionals.",
-    "url": "https://www.youtube.com/user/AudioEngSociety",
+    "url": "https://www.youtube.com/@AesOrgPage",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -227,7 +227,7 @@
     "name": "Allen & Heath Training Sessions - Webinars & Live Streaming & Mix Wizard",
     "vendor": "SND",
     "desc": "Allen & Heath's official training portal covering their full console lineup — dLive, Avantis, SQ, and Qu series. Webinars, tutorials, and live streaming sessions covering mixing techniques, network audio, MIDI control, and firmware features. Also includes Mix Wizard tutorial series.",
-    "url": "https://www.allen-heath.com/knowledge/training/",
+    "url": "https://www.allen-heath.com/community/learning-education/",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -235,7 +235,7 @@
     "name": "Avid Video Tutorials",
     "vendor": "SND",
     "desc": "Avid's video tutorial library covering Pro Tools, VENUE live consoles, and audio production workflows. Includes product walkthroughs, workflow tips, and feature deep-dives for audio engineers working with Avid's professional audio tools in studio and live event environments.",
-    "url": "https://www.avid.com/resource-center/video-tutorials",
+    "url": "https://www.youtube.com/@avid",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -251,7 +251,7 @@
     "name": "Crown Amplifier Training",
     "vendor": "SND",
     "desc": "Crown Audio's online training resources covering amplifier operation, system design, and technical best practices for Crown amplifier products including the DCi, CDi, and XTi series. Useful for technicians maintaining and deploying Crown amplifiers in live event and installed sound environments.",
-    "url": "https://www.crownaudio.com/en/tools/training",
+    "url": "https://training.harmanpro.com/",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -259,7 +259,7 @@
     "name": "D&B Audio Video Tutorials",
     "vendor": "SND",
     "desc": "D&B Audiotechnik's video tutorial library covering their professional loudspeaker systems, ArrayCalc simulation software, R1 remote control, and system optimization techniques. Focused on practical deployment and system tuning for live event and touring sound engineers.",
-    "url": "https://www.dbaudio.com/global/en/service-support/training/",
+    "url": "https://www.dbaudio.com/global/en/education/tutorials/by-topic/",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -267,7 +267,7 @@
     "name": "D&B Audio Webinars",
     "vendor": "SND",
     "desc": "D&B Audiotechnik's webinar archive covering topics including speaker system design, low-frequency optimization, system tuning, and d&b-specific technologies like Soundscape object-based audio. Ideal for engineers working with d&b systems in touring, corporate events, and installation.",
-    "url": "https://www.dbaudio.com/global/en/service-support/training/",
+    "url": "https://www.dbaudio.com/global/en/education/webinars/",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -299,7 +299,7 @@
     "name": "Dave Rat's Youtube Channel",
     "vendor": "SND",
     "desc": "YouTube channel by Dave Rat — veteran FOH engineer for Red Hot Chili Peppers and longtime touring professional. Covers live sound engineering techniques, console workflow, system design philosophy, and real-world insights from decades of touring at the highest level of live event production.",
-    "url": "https://www.youtube.com/daveratofficial",
+    "url": "https://www.youtube.com/@daverat",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -307,7 +307,7 @@
     "name": "DiGiCo S-Series 'How To' Videos",
     "vendor": "SND",
     "desc": "DiGiCo's YouTube channel featuring 'How To' video series for the S-Series consoles covering console navigation, patching, aux and matrix routing, monitoring workflows, and advanced mixing features. Essential viewing for engineers learning or transitioning to the DiGiCo S21, S31, and S61 platforms.",
-    "url": "https://www.youtube.com/@DiGiCoUK",
+    "url": "https://www.youtube.com/playlist?list=PLb66qqe0EtoNJF88QyrGyYKcghX1yd6O7",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -323,7 +323,7 @@
     "name": "Freespeak II Guide from IATSE Local 720",
     "vendor": "SND",
     "desc": "IATSE Local 720's guide to Clear-Com FreeSpeak II digital wireless intercom system — covering system setup, beltpack configuration, antenna placement, and troubleshooting. A practical field reference for production sound technicians working with FreeSpeak II wireless intercom in live event environments.",
-    "url": "https://www.clearcom.com/resource/freespeak-ii-wireless-intercom-system/",
+    "url": "https://www.clearcom.com/Products/Products-by-Technology/Wireless-Systems/FreeSpeak-II",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -344,18 +344,10 @@
     "tag": "Audio"
   },
   {
-    "name": "Intro to Audio Analyzers and SPL",
-    "vendor": "SND",
-    "desc": "YouTube tutorial introducing audio analyzers and sound pressure level (SPL) measurement tools used in live sound system optimization. Covers the basics of FFT analysis, transfer function measurements, and practical use of audio analyzers for system tuning and troubleshooting.",
-    "url": "https://www.youtube.com/watch?v=0rh5fmP-8RY",
-    "cost": "Free",
-    "tag": "Audio"
-  },
-  {
     "name": "JBL CBT Calculator Training",
     "vendor": "SND",
     "desc": "JBL Professional's CBT (Constant Beamwidth Transducer) column array product page and training resources covering CBT technology, coverage pattern control, and installation guidance. The CBT Calculator tool and accompanying tutorials are useful for audio engineers designing column speaker installations.",
-    "url": "https://jblpro.com/en/products/cbt",
+    "url": "https://jblpro.com/en-US/softwares/cbt-calculator-v1-3-0-1",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -363,7 +355,7 @@
     "name": "L'Acoustics Level 1 & 2 Training",
     "vendor": "SND",
     "desc": "L-Acoustics' official Level 1 and Level 2 certification training covering Soundvision 3D prediction software, amplified controller operation, system optimization, and network audio. Level 1 covers fundamentals; Level 2 covers advanced system design and rigging. Instructor-led courses with online components.",
-    "url": "https://www.l-acoustics.com/training/",
+    "url": "https://www.l-acoustics.com/education/courses/",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -371,15 +363,7 @@
     "name": "L'Acoustics Past Webinars",
     "vendor": "SND",
     "desc": "L-Acoustics' archive of past webinars and educational content covering topics including system tuning, L-ISA immersive audio, LA Network Manager, amplified controller configuration, and application-specific case studies from touring and installation projects.",
-    "url": "https://www.l-acoustics.com/training/",
-    "cost": "Free",
-    "tag": "Audio"
-  },
-  {
-    "name": "Learn Live Sound!",
-    "vendor": "SND",
-    "desc": "YouTube channel dedicated to live sound education covering console operation, system setup, gain structure, monitoring, and live mixing techniques. Practical content aimed at working live sound engineers and students entering the live event production industry.",
-    "url": "https://www.youtube.com/c/LearnLiveSound",
+    "url": "https://www.l-acoustics.com/education/scientific-resources/webinars/",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -395,7 +379,7 @@
     "name": "Martin Audio Webinars (Low Frequency Design, and some others)",
     "vendor": "SND",
     "desc": "Martin Audio's webinar series covering advanced topics in live sound including low-frequency array design, subwoofer configurations, wavefront propagation, and deployment best practices for Martin Audio systems. Technical content aimed at experienced audio engineers and system designers.",
-    "url": "https://www.martin-audio.com/resources/news-and-events/webinars",
+    "url": "https://martin-audio.com/training/webinars",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -419,7 +403,7 @@
     "name": "Pooch Sound Engineer Youtube Channel - FOH for Iron Maiden",
     "vendor": "SND",
     "desc": "YouTube channel by Paul 'Pooch' Bostaph — FOH engineer for Iron Maiden. Features live sound insights, console walkthroughs, mixing philosophy, and behind-the-scenes content from touring at arena and stadium level. Valuable real-world perspective from one of the industry's most experienced touring engineers.",
-    "url": "https://www.youtube.com/c/PoochVH1",
+    "url": "https://www.youtube.com/@PoochRabold",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -451,7 +435,7 @@
     "name": "Renkus Heinz Learn and Explore",
     "vendor": "SND",
     "desc": "Renkus-Heinz's Learn and Explore resource hub covering their ICONYX steerable column array technology, system application guides, and deployment best practices for intelligibility-focused installations. Useful for audio engineers and system designers working with beamsteerable speaker systems.",
-    "url": "https://www.renkus-heinz.com/products/learn-explore/",
+    "url": "https://renkus-heinz.com/learn/",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -467,7 +451,7 @@
     "name": "Shure Audio Webinars - Archived and Upcoming",
     "vendor": "SND",
     "desc": "Shure's archive of past and upcoming audio webinars covering wireless microphone techniques, RF coordination, audio networking, product deep-dives, and live sound applications. Free registration required for upcoming webinars; archived content freely accessible.",
-    "url": "https://www.shure.com/en-US/support/find-an-answer/shure-webinars",
+    "url": "https://www.shure.com/en-US/shure-academy/webinars",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -475,15 +459,7 @@
     "name": "Shure Tech Portal",
     "vendor": "SND",
     "desc": "Shure's comprehensive technical documentation portal covering all Shure product lines including wireless systems, networked audio, conferencing, and microphone technology. Includes user guides, technical FAQs, application notes, and firmware documentation for AV professionals and technicians.",
-    "url": "https://pubs.shure.com/guide/techportal",
-    "cost": "Free",
-    "tag": "Audio"
-  },
-  {
-    "name": "Simple Feedback Trainer",
-    "vendor": "SND",
-    "desc": "Free interactive browser-based tool for practicing feedback identification and elimination. Presents isolated frequency feedback tones for the user to identify and notch — a practical ear-training tool for live sound engineers learning to manage feedback in real event environments.",
-    "url": "https://simplefeedbacktrainer.com/",
+    "url": "https://www.shure.com/en-US/docs",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -491,7 +467,7 @@
     "name": "Smaart Demo Trial for 90 days",
     "vendor": "SND",
     "desc": "90-day free trial of Smaart Di v2 — Rational Acoustics' industry-standard dual-channel audio measurement software for real-time FFT analysis, transfer function measurement, and system optimization. Ideal for audio professionals learning system measurement and optimization techniques.",
-    "url": "https://www.rationalacoustics.com/smaart/smaart-di-v2/",
+    "url": "https://www.rationalacoustics.com/pages/demo-main-page",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -499,7 +475,7 @@
     "name": "Subwoofer Arrays: A Practical Guide by Electro-Voice",
     "vendor": "SND",
     "desc": "Electro-Voice's practical guide to subwoofer array configurations covering cardioid arrays, end-fire arrays, and gradient arrays. Essential reading for live sound engineers designing subwoofer deployments for concerts, corporate events, and installed sound applications.",
-    "url": "https://www.electrovoice.com/learn/",
+    "url": "https://products.electrovoice.com/download/8913",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -520,26 +496,10 @@
     "tag": "Audio"
   },
   {
-    "name": "Waves Soundgrid Certification",
-    "vendor": "SND",
-    "desc": "Waves Audio's SoundGrid certification program covering SoundGrid network audio infrastructure, server setup, plugin management, and low-latency live processing workflows. Certification validates competency in deploying Waves SoundGrid systems for live events and broadcast applications.",
-    "url": "https://www.waves.com/mixhub/soundgrid-certification/",
-    "cost": "Free",
-    "tag": "Audio"
-  },
-  {
-    "name": "Wireless Mic Techniques for Ear Rigs and Practical",
-    "vendor": "SND",
-    "desc": "Practical guidance on wireless microphone techniques for in-ear monitor (IEM) systems and earpiece rigs used in live theater, corporate events, and broadcast. Covers RF coordination, antenna placement, frequency selection, and troubleshooting for wireless IEM and lavalier microphone deployments.",
-    "url": "https://www.shure.com/en-US/microphones",
-    "cost": "Free",
-    "tag": "Audio"
-  },
-  {
     "name": "Yak Sound - Youtube Channel - FOH for Van Halen, Matchbox Twenty, Gwen Stefani",
     "vendor": "SND",
     "desc": "YouTube channel by David 'Yak' Rat — veteran FOH engineer for Van Halen, Matchbox Twenty, and Gwen Stefani. Features live sound content including console walkthroughs, system setup tips, career advice, and insights from decades of experience mixing at the highest level of touring production.",
-    "url": "https://www.youtube.com/c/YakSoundVideos",
+    "url": "https://www.youtube.com/@yaksound282",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -555,7 +515,7 @@
     "name": "Intro to Digico Theatre Software (Part I)",
     "vendor": "SND",
     "desc": "DiGiCo's YouTube tutorial series Part I covering the introduction to DiGiCo Theatre software — the dedicated console operating mode for theatrical production on DiGiCo consoles. Covers theatre-specific workflow features including scene-based show control, tracking, and theatre console layout.",
-    "url": "https://www.youtube.com/@DiGiCoUK",
+    "url": "https://www.youtube.com/watch?v=oIuqR684ipY",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -563,7 +523,7 @@
     "name": "Advanced Features and Programming for Digico Theatre Software (Part II)",
     "vendor": "SND",
     "desc": "DiGiCo's YouTube tutorial series Part II covering advanced features and programming in DiGiCo Theatre software. Covers complex cue programming, automation, multi-format show file management, and advanced theatre production workflows on DiGiCo consoles.",
-    "url": "https://www.youtube.com/@DiGiCoUK",
+    "url": "https://www.youtube.com/watch?v=NrP_FOBj_OQ",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -688,14 +648,6 @@
     "tag": "Audio"
   },
   {
-    "name": "Mixing Music — Talkin Music Guide",
-    "vendor": "Talkin Music",
-    "desc": "Online guide covering music mixing fundamentals including EQ, compression, levels, and arrangement considerations for music production. Useful foundational content for audio engineers transitioning into or expanding into music mixing alongside their live event work. Free browser-based resource.",
-    "url": "https://talkinmusic.com/musicproduction/mixing-music/",
-    "cost": "Free",
-    "tag": "Audio"
-  },
-  {
     "name": "Avid VENUE S6L Real-Time Mixing Workflows",
     "vendor": "Avid",
     "desc": "Avid's official training content covering real-time mixing workflows on the VENUE S6L live sound console platform. Covers mix workflow strategies, plug-in integration, Show file management, and best practices for live event mixing on the S6L. Free content from Avid's professional audio team.",
@@ -755,7 +707,7 @@
     "name": "Sennheiser Sound Academy",
     "vendor": "Sennheiser",
     "desc": "Sennheiser's official Sound Academy covering wireless microphone systems, RF coordination, network audio, and professional audio technology. Offers beginner through advanced courses for AV professionals working with Sennheiser wireless, conferencing, and broadcast audio products.",
-    "url": "https://education.sennheiser.com/",
+    "url": "https://www.sennheiser.com/en-us/learn",
     "cost": "Free",
     "tag": "Audio"
   },
@@ -787,15 +739,7 @@
     "name": "100 LEVEL COURSE – FOUNDATIONAL A/V",
     "vendor": "Atlona",
     "desc": "This course is designed to introduce the participant to fundamental foundational elements of Audio Video Distribution. Content will include terms and definitions, HDMI, common connection issues, 5-volt connection and hot plug, EDID, Audio, HDCP, bandwidth, differences in category cables, HDBaseT, 4k and basic trouble shooting techniques.",
-    "url": "https://atlona.com/training/",
-    "cost": "online - free",
-    "tag": "Video"
-  },
-  {
-    "name": "200 LEVEL COURSE – CIRCUIT-BASED SOLUTIONS",
-    "vendor": "Atlona",
-    "desc": "The Atlona Certified Technologist course will cover in detail the following product categories of Atlona Solutions: Switchers, Distribution Amplifiers, Extenders, Converters and Scalers and Audio solutions. The individual who successfully completes this course will take away a complete understanding of Atlona products and solutions for a wide variety of commercial and residential audio/video applications.",
-    "url": "https://atlona.com/training/",
+    "url": "https://hallresearch.com/training-aa",
     "cost": "online - free",
     "tag": "Video"
   },
@@ -811,7 +755,7 @@
     "name": "HDBaseT Installer Expert Program",
     "vendor": "HDBT",
     "desc": "HDBaseT Alliance's installer certification program covering HDBaseT technology for extending uncompressed HD video, audio, power, and control over a single CAT cable. Industry-recognized credential for AV installation professionals working with HDBaseT infrastructure.",
-    "url": "https://installers.hdbaset.org/lessons/",
+    "url": "https://experts.hdbaset.org/",
     "cost": "online - free",
     "tag": "Video"
   },
@@ -867,7 +811,7 @@
     "name": "Aftereffects Basics",
     "vendor": "VID",
     "desc": "Video Copilot's After Effects tutorial series covering motion graphics, visual effects, and compositing techniques. Industry-renowned resource for video professionals expanding their post-production skill set for event content creation and video design.",
-    "url": "https://www.youtube.com/c/VideoCopilot",
+    "url": "https://www.youtube.com/@VideoCopilot",
     "cost": "Free",
     "tag": "Video"
   },
@@ -875,7 +819,7 @@
     "name": "Analog Way's Live Premier & Midra 4K Simulator",
     "vendor": "VID",
     "desc": "Analog Way's Live Premier and Midra 4K offline simulator — a free software tool allowing video engineers to practice programming Analog Way seamless switchers without physical hardware. Essential for technicians preparing for live events using Analog Way products.",
-    "url": "https://www.analogway.com/americas/resources/training/",
+    "url": "https://academy.analogway.com/simulators",
     "cost": "Free",
     "tag": "Video"
   },
@@ -891,7 +835,7 @@
     "name": "Analog Way's Webinar Series",
     "vendor": "VID",
     "desc": "Analog Way's webinar series archive covering product tutorials, system design tips, and workflow guidance for their seamless switcher and LED processor product lines. Useful for video engineers working with Analog Way equipment in live events and corporate AV.",
-    "url": "https://www.analogway.com/americas/resources/training/",
+    "url": "https://www.youtube.com/@AnalogWayTV",
     "cost": "Free",
     "tag": "Video"
   },
@@ -899,7 +843,7 @@
     "name": "ATEM Switcher Simulator",
     "vendor": "VID",
     "desc": "Free browser-based ATEM Switcher simulator built by Damiaan Dufaux. Allows video engineers to practice Blackmagic ATEM switcher operation — transitions, keyers, macros, and multiview layouts — without requiring physical hardware.",
-    "url": "https://hvacrschool.com/atem/",
+    "url": "https://github.com/Dev1an/Atem-Simulator",
     "cost": "Free",
     "tag": "Video"
   },
@@ -907,7 +851,7 @@
     "name": "Barco EventMaster Basics",
     "vendor": "VID",
     "desc": "Barco's EventMaster Basics tutorial series covering the fundamentals of the EventMaster video processing and switching platform. Covers source management, screen destinations, presets, and basic event programming for corporate AV and live event video engineers.",
-    "url": "https://www.barco.com/en/support/training/image-processing/event-master-basics-training",
+    "url": "https://www.barco.com/en/support/training/image-processing",
     "cost": "Free",
     "tag": "Video"
   },
@@ -931,7 +875,7 @@
     "name": "Brightsign Video Tutorials",
     "vendor": "VID",
     "desc": "BrightSign's official video tutorial library covering digital signage player setup, content management, HTML5 development, networking, and BrightAuthor:connected software. Useful for AV technicians deploying BrightSign digital signage in corporate and live event environments.",
-    "url": "https://www.brightsign.biz/resources/videos/",
+    "url": "https://www.brightsign.biz/resources/tutorial-videos/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -947,7 +891,7 @@
     "name": "Camera Setup, Alignments, and Match Measurements",
     "vendor": "VID",
     "desc": "Tektronix tutorial series covering camera setup, optical alignment procedures, and colorimetry matching measurements for multi-camera broadcast and live event video productions. Technical content for video engineers responsible for camera shading and system alignment.",
-    "url": "https://www.tek.com/en/training",
+    "url": "https://www.telestream.net/video/resources.htm",
     "cost": "Free",
     "tag": "Video"
   },
@@ -963,7 +907,7 @@
     "name": "D3 Designer Basics Tutorials",
     "vendor": "VID",
     "desc": "disguise's official tutorial series for d3 Designer — their professional media server platform. Covers scene setup, layer management, mapping, and show file organization for video engineers programming disguise media servers in live events, touring, and broadcast.",
-    "url": "https://university.disguise.one/",
+    "url": "https://www.disguise.one/en/learn/elearning",
     "cost": "Free",
     "tag": "Video"
   },
@@ -971,7 +915,7 @@
     "name": "D3 Education General",
     "vendor": "VID",
     "desc": "disguise University's general education portal covering the full d3 and disguise platform including media server operation, notch integration, stage design workflows, and advanced programming techniques for professional media server operators.",
-    "url": "https://university.disguise.one/",
+    "url": "https://www.disguise.one/en/learn",
     "cost": "Free",
     "tag": "Video"
   },
@@ -979,15 +923,7 @@
     "name": "Hippotizer Webinars",
     "vendor": "VID",
     "desc": "Green Hippo's webinar archive covering Hippotizer media server operation, SHAPE 3D mapping, ZooKeeper control, and live performance workflows. Practical training for video engineers and VJs working with Hippotizer media servers in live events and touring.",
-    "url": "https://www.hippotizer.com/training",
-    "cost": "Free",
-    "tag": "Video"
-  },
-  {
-    "name": "Intro to DaVinci Resolve - Video Editting Software",
-    "vendor": "VID",
-    "desc": "DIH Online's introductory tutorial series for DaVinci Resolve covering the interface, timeline editing, color grading basics, and audio post workflows. A useful starting point for AV professionals expanding into video editing and post-production.",
-    "url": "https://www.youtube.com/c/DIHonline",
+    "url": "https://www.green-hippo.com/support/training/recorded-sessions/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -995,7 +931,7 @@
     "name": "Mbox Online Training",
     "vendor": "VID",
     "desc": "PRG's online training resources for Mbox media server software covering layer management, projection mapping, effects, and show file management. Useful for video engineers working with PRG Mbox in touring, theatrical, and corporate event environments.",
-    "url": "https://www.prg.com/en/training",
+    "url": "https://www.prg.com/en/technology/innovation/mbox-family",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1011,7 +947,7 @@
     "name": "NewTek Training - VIZ University - NDI - Tricaster - 3Play",
     "vendor": "VID",
     "desc": "NewTek (now Vizrt) training resources covering VIZ University courses, NDI networking protocol, TriCaster live production systems, and 3Play replay systems. Comprehensive training for live production switcher operators and broadcast engineers working with NewTek/Vizrt equipment.",
-    "url": "https://resources.vizrt.com/newtek/",
+    "url": "https://www.vizrt.com/viz-university/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1019,7 +955,7 @@
     "name": "Notch VFX Builder",
     "vendor": "VID",
     "desc": "Notch VFX Builder — free trial download of Notch real-time graphics software. Notch is used for creating generative visuals, motion graphics, and real-time VFX for live events, concerts, and broadcast. The Builder version allows full creation without a playback license.",
-    "url": "https://www.notchvr.com/download/",
+    "url": "https://www.notch.one/downloads",
     "cost": "Free Trial",
     "tag": "Video"
   },
@@ -1027,7 +963,7 @@
     "name": "Notch VFX Training",
     "vendor": "VID",
     "desc": "Notch Academy training resources covering Notch real-time VFX software for live event and broadcast applications. Tutorials range from beginner to advanced topics including node-based visual building, media integration, and performance optimization.",
-    "url": "https://www.notchvr.com/training/",
+    "url": "https://www.youtube.com/@NotchVFX/playlists",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1043,7 +979,7 @@
     "name": "Pixel Mapulator",
     "vendor": "VID",
     "desc": "Pixel Mapulator — free online tool by Blinking Things for generating custom LED pixel map files compatible with major media servers and LED processors. Useful for video engineers creating pixel maps for complex LED installations and interactive display surfaces.",
-    "url": "https://www.pixelmapulator.com/",
+    "url": "https://blinkingthings.com/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1059,7 +995,7 @@
     "name": "Qlab's OSC Dictionary",
     "vendor": "VID",
     "desc": "QLab's official OSC dictionary documenting all available OSC messages for remote control of QLab from external control systems. Essential reference for AV engineers integrating QLab with control systems, MIDI controllers, and show control networks.",
-    "url": "https://qlab.app/docs/v4/scripting/osc-dictionary/",
+    "url": "https://qlab.app/docs/v4/scripting/osc-dictionary-v4/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1075,7 +1011,7 @@
     "name": "Ross University - Ross Video",
     "vendor": "VID",
     "desc": "Ross University — Ross Video's online training portal covering their full product lineup including Carbonite and Acuity production switchers, XPression graphics, Ultrix routing, and openGear. Free and paid courses for broadcast engineers and live production video switcher operators.",
-    "url": "https://university.rossvideo.com/",
+    "url": "https://www.rossvideo.com/resources/ross-university/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1083,7 +1019,7 @@
     "name": "Test Partern Library",
     "vendor": "VID",
     "desc": "Murido's test pattern library providing a comprehensive collection of standard broadcast and AV test patterns for display calibration and signal verification. Includes color bars, grayscale ramps, geometry patterns, and resolution test charts for display alignment and quality checking.",
-    "url": "https://www.studiodaily.com/2010/07/test-patterns/",
+    "url": "https://www.avproglobal.com/pages/murideo-brand-test-patterns",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1091,7 +1027,7 @@
     "name": "Timecode and Frame Rates: Everything you need to know",
     "vendor": "VID",
     "desc": "Frame.io's comprehensive explainer covering timecode systems, frame rate standards (23.98, 24, 25, 29.97, 30fps), pull-up/pull-down, and the relationship between timecode and video sync. Essential knowledge for video engineers managing playback, recording, and multi-system synchronization.",
-    "url": "https://www.youtube.com/watch?v=ljKj3f-sCd0",
+    "url": "https://blog.frame.io/2017/07/17/timecode-and-frame-rates/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1123,7 +1059,7 @@
     "name": "VEGAS PRO Video Editting Software Tutorial",
     "vendor": "VID",
     "desc": "Vegas Pro video editing software tutorial series covering timeline editing, color grading, audio mixing, and effects workflows. Useful for AV professionals who use Vegas Pro for event content creation, video production, and post-production deliverables.",
-    "url": "https://www.vegascreativesoftware.com/us/tutorials/",
+    "url": "https://www.vegascreativesoftware.com/vegas-pro/learn/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1139,7 +1075,7 @@
     "name": "vMix - Digital Switcher/Encoder for Live Streaming",
     "vendor": "VID",
     "desc": "vMix — professional live production software for Windows combining video switching, streaming, recording, and virtual set functionality. The vMix website includes tutorials, workflows, and resources for live event producers and broadcast engineers using vMix as a software-based production switcher.",
-    "url": "https://www.vmix.com/learn/",
+    "url": "https://www.vmix.com/support/training-videos.aspx",
     "cost": "",
     "tag": "Video"
   },
@@ -1147,7 +1083,7 @@
     "name": "Watchout Media Server - Video Tutorials",
     "vendor": "VID",
     "desc": "Dataton's official Watchout media server training resources covering multi-display show production, timeline programming, content management, and Watchout system configuration. Essential training for video engineers programming Watchout-based media server systems in events and installation.",
-    "url": "https://www.dataton.com/training",
+    "url": "https://www.dataton.com/how-to-videos",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1171,7 +1107,7 @@
     "name": "Brompton Technologies Quick Training on their LED Controllers",
     "vendor": "VID",
     "desc": "Brompton Technology's quick training resources covering their Tessera LED processor platform — a high-performance LED video processing system widely used in touring, broadcast, and large-scale live events. Covers Tessera SX40 setup, calibration, and feature configuration.",
-    "url": "https://www.bromptontech.com/resources/",
+    "url": "https://www.bromptontech.com/video-category/training/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1179,15 +1115,7 @@
     "name": "Novastar LED Controller Training",
     "vendor": "VID",
     "desc": "NovaStar's LED controller training resources covering their full range of LED video processors and controllers including the VX, MX, and H-series. Covers system configuration, screen settings, multi-card management, and Kompass playback software for live event LED walls.",
-    "url": "https://www.novastar.tech/learning-center/",
-    "cost": "Free",
-    "tag": "Video"
-  },
-  {
-    "name": "Free Looping Visuals - Free Content",
-    "vendor": "VID",
-    "desc": "Free looping visual content collection for use in live event production — royalty-free, endlessly looping video clips suitable for event backdrops, stage screens, and ambient visuals. Available at no cost for AV professionals and event producers needing background content.",
-    "url": "https://drive.google.com/drive/folders/1tQGMWk2jxUO3tpIlUEFBLHJXvPqnQJqL",
+    "url": "https://www.novastar.tech/video/novastarOnlineWorkshops.html?catid=17",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1195,7 +1123,7 @@
     "name": "Presenter View App for PDFs on Mac OS",
     "vendor": "VID",
     "desc": "Slide Pilot — presenter view app for PDF documents on macOS. Allows presenters and operators to display PDF slide decks with a private presenter view showing notes and upcoming slides. Useful for event technicians managing PDF-based presentations on Mac systems.",
-    "url": "https://slidepilot.app/",
+    "url": "https://slidepilotapp.com/en/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1211,15 +1139,7 @@
     "name": "OSC Control for Powerpoint",
     "vendor": "VID",
     "desc": "OSC Point — open-source tool for controlling Microsoft PowerPoint presentations via OSC (Open Sound Control) messages. Allows integration of PowerPoint slide control into show control networks, enabling cue-based slide advancement from QLab, show control systems, or custom controllers.",
-    "url": "https://github.com/phbaer/oscpoint",
-    "cost": "Free",
-    "tag": "Video"
-  },
-  {
-    "name": "Test Pattern Library",
-    "vendor": "VID",
-    "desc": "Comprehensive test pattern library providing broadcast and AV-standard test patterns for display calibration and system verification. Includes color bars, grayscale ramps, and geometry patterns used by video engineers for display alignment, projector calibration, and signal path verification.",
-    "url": "https://www.studiodaily.com/2010/07/test-patterns/",
+    "url": "https://oscpoint.com/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1228,14 +1148,6 @@
     "vendor": "VID",
     "desc": "PerfectCue — wireless cue light and presenter remote system for live events and broadcast. Used by stage managers, directors, and show callers to signal cues to talent and crew. The PerfectCue programmer tool allows customization of cue light sequences and timing.",
     "url": "https://perfectcue.com/",
-    "cost": "Free",
-    "tag": "Video"
-  },
-  {
-    "name": "Pierre Henry's AV Database",
-    "vendor": "VID",
-    "desc": "Pierre Henry's AV Database — a long-running community resource cataloguing AV equipment specifications, signal charts, connector pinouts, and technical reference data for professional AV equipment. A practical reference for technicians troubleshooting and specifying AV system components.",
-    "url": "https://www.avdatabase.com/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1272,18 +1184,10 @@
     "tag": "Video"
   },
   {
-    "name": "Powerpoint and Macbooks: How to use mirrored Presenter View in a 3 screen setup",
-    "vendor": "Presentation Tools",
-    "desc": "Tutorial covering how to use Presenter View in PowerPoint with MacBooks in mirrored display mode — a common challenge in corporate AV. Explains display configuration settings to enable presenter notes on the laptop while showing full-screen slides on the room display.",
-    "url": "https://www.youtube.com/watch?v=Zjiqz6k5Szk",
-    "cost": "FREE",
-    "tag": "Video"
-  },
-  {
     "name": "Pro Filmmaker Apps for all platforms",
     "vendor": "Pro Filmmaker",
     "desc": "Pro Filmmaker Apps — curated directory of professional filmmaking and video production apps across iOS, Android, and desktop platforms. Covers apps for shot planning, on-set tools, reference, and production management. A useful resource for video-focused AV professionals.",
-    "url": "https://profilmmaker.app/",
+    "url": "https://profilmmakerapps.com/",
     "cost": "FREE",
     "tag": "Video"
   },
@@ -1299,7 +1203,7 @@
     "name": "Blackmagic Design",
     "vendor": "YouTube",
     "desc": "Blackmagic Design's official training and certification portal covering DaVinci Resolve, ATEM production switchers, HyperDeck recorders, and the broader Blackmagic ecosystem. Free self-paced courses with certification available for video engineers and colorists.",
-    "url": "https://www.blackmagicdesign.com/training",
+    "url": "https://www.blackmagicdesign.com/products/davinciresolve/training",
     "cost": "FREE",
     "tag": "Video"
   },
@@ -1312,18 +1216,10 @@
     "tag": "Video"
   },
   {
-    "name": "StreamTek (Anthony Burokas)",
-    "vendor": "YouTube",
-    "desc": "StreamTek by Anthony Burokas — YouTube channel covering live streaming, video production, and broadcast technology for professionals transitioning into or working in live streaming and hybrid event production. Practical, workflow-focused content for video and streaming engineers.",
-    "url": "https://www.youtube.com/c/StreamTek",
-    "cost": "FREE",
-    "tag": "Video"
-  },
-  {
     "name": "vMix Training Videos",
     "vendor": "vMix",
     "desc": "vMix Training Videos — the official vMix tutorial library covering live production workflows, software configuration, streaming setup, virtual sets, and advanced vMix features. Essential training for live production engineers using vMix as a software production switcher.",
-    "url": "https://www.vmix.com/learn/",
+    "url": "https://www.vmix.com/support/training-videos.aspx",
     "cost": "FREE",
     "tag": "Video"
   },
@@ -1355,7 +1251,7 @@
     "name": "Analogway Training Classes",
     "vendor": "Analogway",
     "desc": "Analog Way's official training classes covering their live presentation switchers, seamless scalers, and LED processors. Covers EventMaster and LiveCore platform operation, system configuration, and show programming for video engineers working with Analog Way products.",
-    "url": "https://www.analogway.com/emea/training-support/classes/",
+    "url": "https://academy.analogway.com/in-person-trainings/training-sessions",
     "cost": "Free/Paid",
     "tag": "Video"
   },
@@ -1411,7 +1307,7 @@
     "name": "AV Pro Edge Training",
     "vendor": "AV Pro Edge",
     "desc": "AV Pro Edge's training resources covering their HDBaseT distribution, matrix switching, and AV-over-IP product lines. Covers system design, configuration, and troubleshooting for AV integrators working with AV Pro Edge distribution and extension products in residential and commercial installations.",
-    "url": "https://www.avpro.training/edge.html",
+    "url": "https://training.avproglobal.com/avpro-edge/all-courses",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1427,7 +1323,7 @@
     "name": "Mersive Learning Lab",
     "vendor": "Mersive",
     "desc": "Mersive's official training portal covering Solstice wireless collaboration and digital signage platform. Covers deployment, network configuration, advanced features, and certification for AV professionals and IT administrators working with Mersive Solstice in corporate and higher education environments.",
-    "url": "https://www.mersive.com/learning/",
+    "url": "https://mersive.learnupon.com/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1435,7 +1331,7 @@
     "name": "Planar Academy",
     "vendor": "Planar",
     "desc": "Planar's official training and certification program covering their LCD, LED, and specialty display product lines including Planar UltraRes, Clarity Matrix, and Leyard LED systems. Covers product knowledge, installation, and configuration for AV integrators working with Planar display solutions.",
-    "url": "https://www.planar.com/resources/training/",
+    "url": "https://www.planar.com/training/",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1467,7 +1363,7 @@
     "name": "Capture Visualization Software Student Edition",
     "vendor": "Capture Visualization",
     "desc": "Capture Visualization Software Student Edition — free version of the industry-leading Capture lighting visualization and pre-programming software. Allows lighting students and professionals to build virtual rigs, program shows offline, and visualize lighting designs before load-in.",
-    "url": "https://www.capture.se/Products/Capture-Student",
+    "url": "https://www.capture.se/Downloads/Download-Capture",
     "cost": "Free Demo or $615CAD",
     "tag": "Lighting"
   },
@@ -1475,7 +1371,7 @@
     "name": "Chauvet Lighting Video Tutorials",
     "vendor": "Chauvet Lighting",
     "desc": "Chauvet Professional's video tutorial library covering fixture operation, DMX addressing, wireless control, and application guides for Chauvet Professional products. Useful for lighting technicians working with Chauvet fixtures in touring, corporate events, and installation.",
-    "url": "https://www.chauvetprofessional.com/tools/educational-resources/",
+    "url": "https://chauvetprofessional.com/videos/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1483,7 +1379,7 @@
     "name": "City Theatrical Training Videos",
     "vendor": "City Theatrical",
     "desc": "City Theatrical's video tutorial series covering their wireless DMX products including SHoW DMX, MultiQ, and Multiverse systems. Practical guides for lighting technicians deploying City Theatrical wireless DMX infrastructure in live events and theatrical productions.",
-    "url": "https://www.citytheatrical.com/training",
+    "url": "https://www.citytheatrical.com/resources/videos",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1491,7 +1387,7 @@
     "name": "Colour and Light Courses",
     "vendor": "Illuminating Engineering Society",
     "desc": "Colour and Light online course package covering color theory for lighting designers — including additive and subtractive color mixing, color temperature, LED spectral output, and practical color mixing for live event and theatrical lighting applications.",
-    "url": "https://www.youtube.com/c/lightandcolourcourses",
+    "url": "https://elearning.ies.org/products/light-color-course-package",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1507,7 +1403,7 @@
     "name": "ETC - Hamilton Programming Project",
     "vendor": "ETC - Howell Binkley, et all",
     "desc": "ETC's Hamilton Programming Project — a free educational resource providing a complete EOS console show file for the Broadway musical Hamilton. Used by lighting programmers to practice console programming, learn show file organization, and study professional Broadway-level programming techniques.",
-    "url": "https://www.etcconnect.com/Training/Hamilton/",
+    "url": "https://www.etcconnect.com/Hamilton/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1523,7 +1419,7 @@
     "name": "ETC On Headset Training",
     "vendor": "ETC",
     "desc": "ETC On Headset — ETC's conversational video training series covering practical lighting console topics in an informal interview format. Topics range from fixture patching and color mixing to network configuration and troubleshooting, accessible to lighting technicians at all experience levels.",
-    "url": "https://www.etcconnect.com/Training/On-Headset/",
+    "url": "https://www.etcconnect.com/OnHeadset/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1531,7 +1427,7 @@
     "name": "ETC Study Hall Videos - Consoles, Color Theory, Rigging, Etc..",
     "vendor": "ETC",
     "desc": "ETC Study Hall — ETC's free video training library covering consoles, color theory, dimming, networking, rigging safety, and entertainment electrical topics. A broad educational resource for lighting and AV professionals working with ETC equipment or seeking foundational industry knowledge.",
-    "url": "https://www.etcconnect.com/Training/Study-Hall/",
+    "url": "https://www.youtube.com/@etcstudyhall18",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1539,7 +1435,7 @@
     "name": "ETC Learning Stages - Various Videos and Training on ETC Products",
     "vendor": "ETC",
     "desc": "ETC Learning Stages — ETC's structured online learning platform offering progressive training on EOS Family consoles and other ETC products through guided video modules. Includes beginner through advanced pathways for lighting programmers and technicians.",
-    "url": "https://www.etcconnect.com/Training/Learning-Stages/",
+    "url": "https://learningstage.etcconnect.com/",
     "cost": "Free up to $15",
     "tag": "Lighting"
   },
@@ -1547,7 +1443,7 @@
     "name": "Grand MA3 for GrandMA2 Programmers (26 part series)",
     "vendor": "Cat West",
     "desc": "26-part YouTube video series by experienced MA programmer teaching GrandMA3 to users migrating from GrandMA2. Covers the MA3 interface, show file structure, executor layout, cue programming, and the key conceptual differences between MA2 and MA3 platforms.",
-    "url": "https://www.youtube.com/playlist?list=PLKkQHpit5LB5U_SaFWEDeqaFt6H5FVbf0",
+    "url": "https://www.youtube.com/playlist?list=PL-MzFx0gs5CpIA7i1K2iU5ZIbNzPNGfuW",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1579,7 +1475,7 @@
     "name": "Jands Vista Video Tutorials",
     "vendor": "Jands Australia",
     "desc": "Jands Vista video tutorial series covering the Vista lighting console platform — patch, programming, effects, timeline, and show file management. Useful for lighting programmers working with Jands Vista consoles in theatrical and live event production environments.",
-    "url": "https://www.jands.com/training/",
+    "url": "https://www.vistabychromaq.com/vista-3-training-series/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1587,7 +1483,7 @@
     "name": "Learn Hog4",
     "vendor": "High End Systems",
     "desc": "Learn Hog4 training resources covering the High End Systems Hog 4 console platform — fixture library management, programmer workflow, cuelist organization, effects engine, and show file structure. Free training content for lighting programmers using Hog 4 consoles.",
-    "url": "https://www.highend.com/training/",
+    "url": "https://www.etcconnect.com/Learn-Hog/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1603,15 +1499,7 @@
     "name": "Leprecon Lighting Video Tutorials",
     "vendor": "Leprecon Lighting",
     "desc": "Leprecon Lighting video tutorial series covering their LP-X lighting console and dimmer systems. Useful for lighting technicians working with Leprecon equipment in theatrical, educational, and fixed installation environments.",
-    "url": "https://www.lepreconlighting.com/support/",
-    "cost": "Free",
-    "tag": "Lighting"
-  },
-  {
-    "name": "Lighting Trainer",
-    "vendor": "Lighting Trainer",
-    "desc": "Lighting Trainer — online resource for entertainment lighting education covering console programming, fixture technology, DMX networking, and practical show production. Structured content for lighting technicians building foundational and advanced technical skills.",
-    "url": "https://www.lightingtechnician.com/",
+    "url": "https://www.youtube.com/@LepreconLighting",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1619,7 +1507,7 @@
     "name": "Live Performance Electrical Cert - For British Columbia",
     "vendor": "ACT SAFE",
     "desc": "ACT SAFE's Live Performance Electrical Certification program for British Columbia — covering electrical safety standards, portable power distribution practices, and legal requirements for entertainment electricians operating in BC. Required for certain productions in British Columbia, Canada.",
-    "url": "https://www.actsafe.ca/programs/",
+    "url": "https://actsafe.ca/courses-workshops/live-performance-electrical-certification/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1627,7 +1515,7 @@
     "name": "MA2 Crash Course Video Tutorials",
     "vendor": "Chris Jackson",
     "desc": "Chris Jackson's GrandMA2 Crash Course YouTube series offering a fast-paced introduction to MA2 console operation. Covers core workflow from patch through programming and playback in a practical, accessible format. One of the most recommended free resources for learning GrandMA2 independently.",
-    "url": "https://www.youtube.com/playlist?list=PLBEDg0dg2dFxkWFULRqBJtZgT8h6SqLQn",
+    "url": "https://www.youtube.com/watch?v=ZoyhaQ196Nk",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1643,7 +1531,7 @@
     "name": "Martin Learning Sessions Archive",
     "vendor": "Various",
     "desc": "Martin Professional's archived Learning Sessions webinar library covering fixture technology, control protocols, P3 LED infrastructure, and product-specific training for Martin fixtures. A free resource for technicians maintaining and programming Martin moving lights and LED products.",
-    "url": "https://www.martin.com/en/support/learning-sessions",
+    "url": "https://www.martin.com/en-US/martin-learning-sessions",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1651,7 +1539,7 @@
     "name": "MartinPro's Resources for Online Learning",
     "vendor": "Martin Pro",
     "desc": "Martin Professional's online resource hub for product training, technical documentation, firmware updates, and archived webinar recordings. Covers Martin's full fixture lineup including MAC moving lights, architectural LED, and VDO video systems for touring and installation professionals.",
-    "url": "https://www.martin.com/en/support/learning-sessions",
+    "url": "https://www.martin.com/en-US/training",
     "cost": "Free/Various",
     "tag": "Lighting"
   },
@@ -1659,7 +1547,7 @@
     "name": "Online Lighting Lab",
     "vendor": "Matt Kizer",
     "desc": "Matt Kizer's free interactive Online Lighting Lab — a browser-based virtual environment for experimenting with lighting parameters including beam angles, color mixing, gobos, and fixture behavior without physical hardware. A valuable learning and pre-visualization tool for lighting students and emerging professionals.",
-    "url": "https://www.onlinelightinglab.com/",
+    "url": "https://scenicandlighting.com/lightlabs/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1667,7 +1555,7 @@
     "name": "Onyx Lighting Control Training",
     "vendor": "Obsidian Control Systems",
     "desc": "Obsidian Control Systems' training library for the ONYX lighting console platform covering patching, programming, effects, and fixture management. Free training through Obsidian's website and YouTube channel for the ONYX platform used in corporate events, touring, and theatrical production.",
-    "url": "https://obsidiancontrol.com/training/",
+    "url": "https://www.obsidiancontrol.com/pages/onyx-training-videos",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1675,15 +1563,7 @@
     "name": "QLC+ - Raspberry Pi LX Controller",
     "vendor": "Q Light Plus",
     "desc": "Tutorial series on using QLC+ open-source lighting control software with a Raspberry Pi as a low-cost DMX controller. Covers software setup, fixture configuration, scene programming, and hardware interface. An excellent resource for education, small productions, and AV professionals needing affordable DMX control.",
-    "url": "https://www.qlcplus.org/docs/",
-    "cost": "Free",
-    "tag": "Lighting"
-  },
-  {
-    "name": "The Basics of Grounding Electrical Systems",
-    "vendor": "Lorenzo Mari",
-    "desc": "Lorenzo Mari's educational resource covering the fundamentals of electrical grounding for entertainment and AV professionals. Explains grounding and bonding principles, common grounding mistakes in live event power distribution, and practical safety considerations for production electricians.",
-    "url": "https://lorenzomari.com/grounding/",
+    "url": "https://docs.qlcplus.org/v4",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1691,7 +1571,7 @@
     "name": "The Lighting Archive - Old Broadway Lighting Plots",
     "vendor": "The Lighting Archive",
     "desc": "The Lighting Archive — an online database of archived Broadway and professional theatrical lighting plots. A historical resource for lighting designers and programmers studying classic production lighting design, plot organization, and the evolution of professional theatrical lighting practice.",
-    "url": "https://www.thelightingarchive.org/",
+    "url": "https://thelightingarchive.org/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1723,7 +1603,7 @@
     "name": "WYSIWYG and BlackTrax Training",
     "vendor": "Cast Group (Creators of Blacktrax)",
     "desc": "BlackTrax and WYSIWYG training resources covering CAST Software's professional visualization and real-time tracking platform. Covers WYSIWYG lighting design and pre-programming software as well as BlackTrax real-time performer tracking integration for moving light automation in live events.",
-    "url": "https://blacktrax.cast-soft.com/training/",
+    "url": "https://academy.cast-soft.com/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1739,7 +1619,7 @@
     "name": "Learn Hog 4",
     "vendor": "ETC Connect",
     "desc": "High End Systems' Learn Hog 4 training resources covering the Hog 4 lighting console — programmer workflow, cuelist organization, fixture library management, and advanced show programming. Free online training for lighting programmers working with Hog 4 consoles in live events and theatrical production.",
-    "url": "https://www.etcconnect.com/Support/Tutorials/Learn-Hog-4-Video-Series/Season-2.aspx",
+    "url": "https://www.etcconnect.com/Learn-Hog/",
     "cost": "FREE",
     "tag": "Lighting"
   },
@@ -1755,7 +1635,7 @@
     "name": "ACT Lighting Knowledge Base & Support Portal",
     "vendor": "ACT Lighting",
     "desc": "ACT Lighting's online knowledge base and support portal covering GrandMA, Martin, and other product lines distributed by ACT. Contains training articles, troubleshooting guides, firmware notes, and how-to documentation for working with ACT-distributed lighting products. Free access for all users.",
-    "url": "https://support.actlighting.com/knowledgeBase/7374771",
+    "url": "https://support.actentertainment.com/knowledgeBase",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -1835,7 +1715,7 @@
     "name": "AMX / Harman Control Systems Training",
     "vendor": "AMX / Harman",
     "desc": "AMX's official training portal covering NetLinx Studio programming, AMX control processor configuration, touch panel design, and integration of AMX control systems with third-party AV equipment. Includes beginner through advanced courses for AV control system programmers and technicians.",
-    "url": "https://unilearn.harmanpro.com/",
+    "url": "https://training.harmanpro.com/",
     "cost": "Free/Paid",
     "tag": "Control"
   },
@@ -1843,7 +1723,7 @@
     "name": "Savant Training & Certification Portal",
     "vendor": "Savant",
     "desc": "Savant's training and certification resources covering Savant OS programming, blueprint configuration, smart home system integration, and deployment of Savant residential and commercial automation systems. Required training for Savant authorized dealers and programmers.",
-    "url": "https://training.savant.com/",
+    "url": "https://university.savant.com/",
     "cost": "Paid",
     "tag": "Control"
   },
@@ -1859,7 +1739,7 @@
     "name": "Essentials of AV Technology",
     "vendor": "AVIXA",
     "desc": "AVIXA's core foundational course covering essential audiovisual technology concepts including signal flow, display technologies, audio systems, and control infrastructure. Builds the technical vocabulary and conceptual framework needed for entry-level AV professional roles. Earns RUs toward AVIXA CTS certification.",
-    "url": "https://www.avixa.org/training-section/essentials-of-av-technology",
+    "url": "https://www.avixa.org/training-certification/courses/cts-1-av-technology",
     "cost": "",
     "tag": "General"
   },
@@ -1907,7 +1787,7 @@
     "name": "CTS Prep",
     "vendor": "AVIXA",
     "desc": "AVIXA's official preparation course for the Certified Technology Specialist (CTS) examination. Reviews all domains covered in the CTS exam including AV design, installation, operation, and project management. The most direct structured preparation available for AVIXA's entry-level professional certification.",
-    "url": "https://www.avixa.org/training-certification/cts",
+    "url": "https://www.avixa.org/training-certification/courses/cts-2-applied-av-and-av-project-process",
     "cost": "",
     "tag": "General"
   },
@@ -1915,7 +1795,7 @@
     "name": "CTS",
     "vendor": "AVIXA",
     "desc": "AVIXA's Certified Technology Specialist certification — the most widely recognized entry-level professional credential in the AV industry. Demonstrates competency across AV system design, installation, operation, and troubleshooting. Held by tens of thousands of AV professionals worldwide and often required for employment at leading AV companies.",
-    "url": "https://www.avixa.org/training-certification/cts",
+    "url": "https://www.avixa.org/training-certification/certification/cts-certification",
     "cost": "",
     "tag": "General"
   },
@@ -1923,7 +1803,7 @@
     "name": "CTS-I",
     "vendor": "AVIXA",
     "desc": "AVIXA's Certified Technology Specialist — Installation credential, demonstrating advanced competency in AV system design and installation. Requires passing a rigorous exam covering system architecture, signal distribution, structured cabling, and project management. Widely recognized by employers as validation of professional-level AV integration expertise.",
-    "url": "https://www.avixa.org/training-certification/cts-i",
+    "url": "https://www.avixa.org/training-certification/certification/cts-i-certification",
     "cost": "",
     "tag": "General"
   },
@@ -1955,7 +1835,7 @@
     "name": "Event Setup for AV Techs Online",
     "vendor": "AVIXA",
     "desc": "AVIXA's online course covering the setup, operation, and teardown procedures for AV equipment in live event environments. Addresses the specific workflows and best practices for event-focused AV technicians working in hotels, conference centers, and event venues.",
-    "url": "https://www.avtrain.com/event-setup-av-techs",
+    "url": "https://www.avixa.org/training-certification/courses/event-setup-for-av-techs-online",
     "cost": "",
     "tag": "General"
   },
@@ -2019,7 +1899,7 @@
     "name": "Drafty App Youtube Tutorials",
     "vendor": "General",
     "desc": "Drafty App YouTube tutorial series covering Drafty — a mobile drafting and AV system documentation app for creating signal flow diagrams, cable schedules, and system layouts on iPad and iPhone. Useful for AV professionals who document show systems in the field.",
-    "url": "https://www.youtube.com/c/DraftyApp",
+    "url": "https://www.youtube.com/@drafty251",
     "cost": "Free",
     "tag": "General"
   },
@@ -2035,7 +1915,7 @@
     "name": "Hazard Identification in the work enviroment",
     "vendor": "General",
     "desc": "IATSE International Training Trust's hazard identification course covering workplace hazard recognition, risk assessment, and safety planning for entertainment industry workers. Covers common live event production hazards including electrical, rigging, manual handling, and environmental risks.",
-    "url": "https://www.iatse-intl.org/resources/safety-resources/",
+    "url": "https://www.iatsetrainingtrust.org/safetyfirst",
     "cost": "Free",
     "tag": "General"
   },
@@ -2051,7 +1931,7 @@
     "name": "Learn about LASERS!",
     "vendor": "General",
     "desc": "X-Laser's free educational resource covering laser safety, regulatory compliance, and practical operation of professional laser systems in live event environments. Covers variance applications, safety officer responsibilities, and technical requirements for deploying lasers in entertainment production.",
-    "url": "https://x-laser.com/pages/resources",
+    "url": "https://www.xlaser.com/pages/laser-faq",
     "cost": "Free",
     "tag": "General"
   },
@@ -2083,7 +1963,7 @@
     "name": "VectorWorks Daily Webinars",
     "vendor": "General",
     "desc": "Vectorworks' free daily webinar series covering Vectorworks Spotlight for entertainment design, Vectorworks Architect, and industry-specific workflows. Includes introductory and advanced topics for AV professionals and designers using Vectorworks for production planning and technical drawing.",
-    "url": "https://www.vectorworks.net/training/webinars",
+    "url": "https://university.vectorworks.net/course/index.php?tagfilter%5Btype%5D=content+type-4-webinars",
     "cost": "Free",
     "tag": "General"
   },
@@ -2160,14 +2040,6 @@
     "tag": "General"
   },
   {
-    "name": "EESA Bulletins and Guidelines",
-    "vendor": "EESA",
-    "desc": "Technical bulletins and safety guidelines published by the Entertainment Electrical Safety Association (EESA) for live event production electricians. Covers portable power distribution safety, grounding, overcurrent protection, and best practices for entertainment venues. An important compliance and safety reference for power techs.",
-    "url": "https://www.eesa.info",
-    "cost": "Free",
-    "tag": "General"
-  },
-  {
     "name": "Television, Film, Live Performance and Event Electrical Guidelines",
     "vendor": "ESTA / PLASA",
     "desc": "Industry-standard electrical guidelines developed by ESTA/PLASA for television, film, live performance, and live event production. Covers safe working practices, equipment standards, and technical requirements for entertainment industry electrical work. A key compliance reference for production electricians and AV companies.",
@@ -2219,7 +2091,7 @@
     "name": "Event Safety Alliance Standards & Guidelines",
     "vendor": "Event Safety Alliance",
     "desc": "Event Safety Alliance's standards and guidelines covering crowd management, production safety, emergency planning, and risk assessment for live events. Essential reading for event production professionals responsible for safety planning and compliance in live event environments.",
-    "url": "https://eventsafetyalliance.org/standards-guidance",
+    "url": "https://eventsafetyalliance.org/standards-guidance-2",
     "cost": "FREE",
     "tag": "General"
   },
@@ -2291,15 +2163,7 @@
     "name": "Evolve Media Group — Learn Portal",
     "vendor": "Evolve Media Group",
     "desc": "Learning portal from Evolve Media Group offering training content for live event production professionals covering video, audio, and production management topics. Also home to The Tech Forward Podcast which covers industry trends and career development for AV professionals. Free access to available content.",
-    "url": "http://www.evolvemediagroup.com/learn/",
-    "cost": "Free",
-    "tag": "General"
-  },
-  {
-    "name": "AV Tech Info Blog & Resources",
-    "vendor": "AV Tech Info",
-    "desc": "Resource blog covering AV technology, installation tips, troubleshooting guides, and industry news for working AV technicians. A community-driven knowledge hub with practical how-to content for integrators and live event professionals. Free access with no login required.",
-    "url": "https://avtechinfo.wordpress.com",
+    "url": "https://evolveacademy.live/",
     "cost": "Free",
     "tag": "General"
   },
@@ -2331,7 +2195,7 @@
     "name": "Exertis Almo E4 AV Tour Education",
     "vendor": "Exertis Almo",
     "desc": "Exertis Almo's education program covering the latest commercial AV products, technologies, and market trends through their E4 AV Tour series. Provides dealer and integrator training on digital signage, unified communications, and commercial display solutions across multiple vendor product lines.",
-    "url": "https://www.exertisalmo.com/education",
+    "url": "https://e4experience.com/",
     "cost": "Free",
     "tag": "General"
   },
@@ -2355,7 +2219,7 @@
     "name": "Aurora Multimedia Academy",
     "vendor": "Aurora Multimedia",
     "desc": "Aurora Multimedia's training and education resources covering their IPX AV-over-IP, control systems, and collaboration products. Provides product knowledge and configuration training for AV integrators working with Aurora's networked AV distribution and control infrastructure.",
-    "url": "https://auroramultimedia.com/education/academy",
+    "url": "https://auroramultimedia.com/in-person-training",
     "cost": "Free",
     "tag": "General"
   },
@@ -2392,14 +2256,6 @@
     "tag": "Rigging"
   },
   {
-    "name": "Industrial Automation eAcademy",
-    "vendor": "Rigging",
-    "desc": "Schneider Electric's Industrial Automation eAcademy — online training covering programmable logic controllers, industrial networking, motion control, and automation systems. Relevant for AV and rigging professionals working with motorized rigging, automation systems, and show control infrastructure in theatrical and live event environments.",
-    "url": "https://www.se.com/us/en/work/solutions/lms/",
-    "cost": "",
-    "tag": "Rigging"
-  },
-  {
     "name": "PODCAST - Circuit & Gear - About scenic automation and show control",
     "vendor": "Rigging",
     "desc": "Circuit & Gear Podcast by Harry Beauregard — a podcast covering scenic automation, show control, and the technical side of live entertainment production. Valuable content for AV professionals working with motorized rigging, automation systems, and integrated show control networks.",
@@ -2411,15 +2267,7 @@
     "name": "PODCAST - Shackles, Burlap, and Lies",
     "vendor": "Rigging",
     "desc": "Shackles, Burlap, and Lies Podcast by Entertainment Rigging Services — a podcast dedicated to entertainment rigging covering hardware, safety, inspection, load calculations, and rigging practices for live event and theatrical production. An industry resource for working riggers and production professionals.",
-    "url": "https://www.entertainmentrigging.com/",
-    "cost": "",
-    "tag": "Rigging"
-  },
-  {
-    "name": "TAIT Towers - IQ Training Video Series",
-    "vendor": "Rigging",
-    "desc": "TAIT Towers' iQ Training Video Series covering TAIT's powered flying and automation systems including the Navigator control platform. Free online training for operators and technicians working with TAIT automation equipment in theatrical and live event production environments.",
-    "url": "https://info.taittowers.com/iq-training",
+    "url": "https://entertainmentriggingservices.com/podcast.html",
     "cost": "",
     "tag": "Rigging"
   },
@@ -2427,7 +2275,7 @@
     "name": "User’s Guide For Lifting",
     "vendor": "Rigging",
     "desc": "Crosby Group's User's Guide for Lifting — the industry-standard reference manual covering safe use of wire rope slings, shackles, hooks, rigging hardware, and load attachment points. Required reading for riggers, crane operators, and production professionals responsible for overhead lifting in live event environments.",
-    "url": "https://www.thecrosbygroup.com/resources/",
+    "url": "https://gear.kitocrosby.com/product/users-guide-9999875/",
     "cost": "",
     "tag": "Rigging"
   },
@@ -2435,7 +2283,7 @@
     "name": "Safety Webinar: Proper use of Shackles",
     "vendor": "Rigging",
     "desc": "Columbus McKinnon's safety webinar on proper shackle use — covering shackle types, load ratings, pin retention, inspection criteria, and common misuse patterns. Essential safety training for entertainment riggers and production professionals who work with shackles in overhead rigging applications.",
-    "url": "https://www.columbusmckinnon.com/resources/",
+    "url": "https://www.cmco.com/en-us/training/recorded-webinars/rigging/",
     "cost": "",
     "tag": "Rigging"
   },
@@ -2472,26 +2320,10 @@
     "tag": "VC & Networking"
   },
   {
-    "name": "Cisco Video Network Specialist",
-    "vendor": "Cisco",
-    "desc": "The Cisco Video Network Specialist program enables traditional analog audio-visual professionals to extend their careers into the growing Video-over-IP network job role",
-    "url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/specialist/video-network.html",
-    "cost": "$1200/ Online",
-    "tag": "VC & Networking"
-  },
-  {
-    "name": "CCNA Collaboration",
-    "vendor": "Cisco",
-    "desc": "Cisco's professional certification track covering unified communications, video conferencing infrastructure, call control, and collaboration applications. Prepares AV and IT professionals to design and manage enterprise-grade video collaboration systems. Highly valued for corporate AV roles where Cisco infrastructure is common.",
-    "url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html",
-    "cost": "",
-    "tag": "VC & Networking"
-  },
-  {
     "name": "CCNP Collaboration",
     "vendor": "Cisco",
     "desc": "Advanced Cisco certification covering enterprise collaboration architecture, multi-site deployment, QoS for voice and video, and integration of Cisco collaboration platforms. Designed for experienced AV/IT professionals managing complex corporate video and UC environments. One of the most recognized credentials in enterprise AV networking.",
-    "url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/professional/ccnp-collaboration.html",
+    "url": "https://www.cisco.com/site/us/en/learn/training-certifications/certifications/collaboration/ccnp-collaboration/index.html",
     "cost": "",
     "tag": "VC & Networking"
   },
@@ -2587,7 +2419,7 @@
     "name": "Basic Computer Networking for Theatre",
     "vendor": "General",
     "desc": "Free introductory resource on basic computer networking concepts for theatrical production — covering IP addressing, subnets, switches, VLANs, and common network configurations used in show control, DMX-over-IP, and AV-over-IP systems in live performance environments.",
-    "url": "https://www.figuretheatre.org/resources/networking",
+    "url": "https://qlab.app/docs/v5/tutorials/basic-networking/",
     "cost": "",
     "tag": "VC & Networking"
   },
@@ -2644,14 +2476,6 @@
     "vendor": "Ookla",
     "desc": "Browser-based internet speed test. Essential before hosting or joining a virtual event.",
     "url": "https://www.speedtest.net/",
-    "cost": "Free",
-    "tag": "VC & Networking"
-  },
-  {
-    "name": "Home Lighting Tips for Zoom & Video Calls",
-    "vendor": "Jennifer Boyle Photography",
-    "desc": "Practical lighting tips for video calls including key light placement and background lighting.",
-    "url": "https://jenniferboylephotography.com/2020/04/14/tip-1-home-lighting-tips-for-zoom/",
     "cost": "Free",
     "tag": "VC & Networking"
   },
@@ -2749,14 +2573,6 @@
     "desc": "Netgear's official training and certification program covering managed switches, wireless networking, and network security for business environments. Relevant for AV professionals who design and deploy Netgear network infrastructure for AV-over-IP, Dante audio networking, and enterprise AV installations.",
     "url": "https://www.netgear.academy/",
     "cost": "Free/Paid",
-    "tag": "VC & Networking"
-  },
-  {
-    "name": "ClearOne Training",
-    "vendor": "ClearOne",
-    "desc": "ClearOne's training and certification resources covering their conferencing audio, beamforming microphone arrays, and video collaboration product lines. Covers BMA CT, CONVERGE Pro 2, and UNITE cameras for AV professionals designing and integrating ClearOne systems in conference room environments.",
-    "url": "https://www.clearone.com/training-all",
-    "cost": "Free",
     "tag": "VC & Networking"
   }
 ]

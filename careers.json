@@ -21,13 +21,6 @@
     "tag": "Freelancer / Labor Form"
   },
   {
-    "name": "Audio Visual Registry",
-    "vendor": "Freelancer / Labor Form",
-    "desc": "",
-    "url": "https://www.avrlabor.com/join-the-crew",
-    "tag": "Freelancer / Labor Form"
-  },
-  {
     "name": "AV Actions",
     "vendor": "Freelancer / Labor Form",
     "desc": "Alexandria, VA",
@@ -52,7 +45,7 @@
     "name": "AV Matters",
     "vendor": "Freelancer / Labor Form",
     "desc": "Orlando, FL",
-    "url": "https://avmatters.lasso.io/register/",
+    "url": "https://www.avfx.com/careers/",
     "tag": "Freelancer / Labor Form"
   },
   {
@@ -66,7 +59,7 @@
     "name": "AV-ator",
     "vendor": "Freelancer / Labor Form",
     "desc": "Denver, CO",
-    "url": "https://avator.lasso.io/register/",
+    "url": "https://av-ator.com/",
     "tag": "Freelancer / Labor Form"
   },
   {
@@ -87,7 +80,7 @@
     "name": "Axios Pro Solutions",
     "vendor": "Freelancer / Labor Form",
     "desc": "Orlando, FL",
-    "url": "https://axiosprosolutions.com/join-the-team-1",
+    "url": "https://axiosprosolutions.com/crew",
     "tag": "Freelancer / Labor Form"
   },
   {
@@ -122,7 +115,7 @@
     "name": "Crew Me Up",
     "vendor": "Freelancer / Labor Form",
     "desc": "USA",
-    "url": "https://www.crewmeup.com/production-services",
+    "url": "https://www.crewmeup.com/",
     "tag": "Freelancer / Labor Form"
   },
   {
@@ -325,7 +318,7 @@
     "name": "Quest Show Servcies",
     "vendor": "Freelancer / Labor Form",
     "desc": "USA",
-    "url": "http://www.questshowservices.com/join-our-team/",
+    "url": "https://questshowservices.com/join-our-roster/",
     "tag": "Freelancer / Labor Form"
   },
   {
@@ -448,31 +441,10 @@
     "tag": "Job Posting Site"
   },
   {
-    "name": "EDM Jobs",
-    "vendor": "Job Posting Site",
-    "desc": "San Francisco, CA",
-    "url": "https://edmjobs.com/",
-    "tag": "Job Posting Site"
-  },
-  {
-    "name": "Music Jobs",
-    "vendor": "Job Posting Site",
-    "desc": "USA",
-    "url": "https://www.music-jobs.com/usa/jobsboard?jtg=395&town=27332&l=Nashville%2C+TN&q=",
-    "tag": "Job Posting Site"
-  },
-  {
     "name": "Barefoot Student",
     "vendor": "Job Posting Site",
     "desc": "USA",
     "url": "https://www.barefootstudent.com/jobs?keyword=audiovisual&city=&location=&miles=75",
-    "tag": "Job Posting Site"
-  },
-  {
-    "name": "Smart Home Hire",
-    "vendor": "Job Posting Site",
-    "desc": "USA",
-    "url": "https://www.smarthomehire.com/jobs/",
     "tag": "Job Posting Site"
   },
   {
@@ -490,24 +462,10 @@
     "tag": "Job Posting Site"
   },
   {
-    "name": "Media Match",
-    "vendor": "Job Posting Site",
-    "desc": "USA",
-    "url": "https://www.media-match.com/usa/jobsboard?gad_source=1&gclid=CjwKCAiAgoq7BhBxEiwAVcW0LOoVFICgHQSGlVzvSMKgWc2YNX-Fn7nMWfG39HQ09zxXcW86u-6EAhoCLKAQAvD_BwE",
-    "tag": "Job Posting Site"
-  },
-  {
     "name": "Production Hub",
     "vendor": "Job Posting Site",
     "desc": "USA",
     "url": "https://www.productionhub.com/crew-and-vendor-leads",
-    "tag": "Job Posting Site"
-  },
-  {
-    "name": "2025 Crew Directory (Crew Call)",
-    "vendor": "Job Posting Site",
-    "desc": "USA",
-    "url": "https://docs.google.com/spreadsheets/d/15oKsc3AXelLM5GDM1XDFKOb1RGN0Pmmi/edit?usp=sharing&ouid=113897037829573498707&rtpof=true&sd=true",
     "tag": "Job Posting Site"
   },
   {
@@ -840,13 +798,6 @@
     "tag": "Agency"
   },
   {
-    "name": "Glen & Glen Productions",
-    "vendor": "Agency",
-    "desc": "USA",
-    "url": "https://www.glennandglennproductions.com",
-    "tag": "Agency"
-  },
-  {
     "name": "Global Events Agency",
     "vendor": "Agency",
     "desc": "UK / MidEast",
@@ -864,7 +815,7 @@
     "name": "Go With Live",
     "vendor": "Agency",
     "desc": "USA",
-    "url": "https://gowithlive.com",
+    "url": "https://ansera.com/",
     "tag": "Agency"
   },
   {
@@ -1176,13 +1127,6 @@
     "tag": "Agency"
   },
   {
-    "name": "Studio Firefly",
-    "vendor": "Agency",
-    "desc": "USA",
-    "url": "https://www.studiofirefly.com",
-    "tag": "Agency"
-  },
-  {
     "name": "Tencue",
     "vendor": "Agency",
     "desc": "USA",
@@ -1235,7 +1179,7 @@
     "name": "WRG",
     "vendor": "Agency",
     "desc": "USA",
-    "url": "https://wrg.tceg.com",
+    "url": "https://emotaexperiences.com/",
     "tag": "Agency"
   },
   {
@@ -1397,20 +1341,6 @@
     "vendor": "Sports Crewing Company / Film & AV Crewing Company",
     "desc": "Florida",
     "url": "https://www.northbeachmedia.com/index",
-    "tag": "Crew Directory"
-  },
-  {
-    "name": "Pacific Coast Crewing",
-    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
-    "desc": "OR, WA, MT, ID",
-    "url": "http://www.pacificcoastcrewing.com/home.html",
-    "tag": "Crew Directory"
-  },
-  {
-    "name": "PCS Productions",
-    "vendor": "Sports Crewing Company",
-    "desc": "Texas",
-    "url": "https://www.pcsproductions.com/",
     "tag": "Crew Directory"
   },
   {
@@ -1631,13 +1561,6 @@
     "tag": "Crew Directory"
   },
   {
-    "name": "ATEAM Tech Services",
-    "vendor": "Film & AV Crewing Company",
-    "desc": "United States",
-    "url": "https://www.ateamtechservices.com/",
-    "tag": "Crew Directory"
-  },
-  {
     "name": "Big Shoulders Productions",
     "vendor": "Film & AV Crewing Company",
     "desc": "United States",
@@ -1708,13 +1631,6 @@
     "tag": "Crew Directory"
   },
   {
-    "name": "Reliant Staffing",
-    "vendor": "Film & AV Crewing Company",
-    "desc": "Philadelphia, PA",
-    "url": "http://ravstaffing.com/",
-    "tag": "Crew Directory"
-  },
-  {
     "name": "ShoPros",
     "vendor": "Film & AV Crewing Company",
     "desc": "Ohio",
@@ -1736,13 +1652,6 @@
     "tag": "Crew Directory"
   },
   {
-    "name": "TNK Productions",
-    "vendor": "Film & AV Crewing Company",
-    "desc": "Arizona",
-    "url": "https://tnkproductions.net/",
-    "tag": "Crew Directory"
-  },
-  {
     "name": "Secret Weapons Studios",
     "vendor": "Online Crewing Platform",
     "desc": "Worldwide",
@@ -1753,7 +1662,7 @@
     "name": "ShareGrid",
     "vendor": "Online Crewing Platform",
     "desc": "United States",
-    "url": "https://gigs.sharegrid.com/?query=Chicago%2C+IL",
+    "url": "https://www.sharegrid.com/chicago/crews",
     "tag": "Crew Directory"
   },
   {
@@ -1795,7 +1704,7 @@
     "name": "Kwokman Productions",
     "vendor": "Sports Crewing Company / Film & AV Crewing Company",
     "desc": "United States",
-    "url": "https://www.kwok.tv/",
+    "url": "https://www.kwokmanproductions.com/",
     "tag": "Crew Directory"
   },
   {
@@ -1887,13 +1796,6 @@
     "vendor": "Film & AV Crewing Company / Independent Crewer",
     "desc": "United States",
     "url": "https://atomic-tv.com/",
-    "tag": "Crew Directory"
-  },
-  {
-    "name": "CrewInk, Inc",
-    "vendor": "Film & AV Crewing Company",
-    "desc": "Colorado",
-    "url": "https://sites.google.com/a/crewink.com/www/",
     "tag": "Crew Directory"
   },
   {
@@ -2020,13 +1922,6 @@
     "vendor": "Independent Crewer",
     "desc": "Hawai'i",
     "url": "https://davidwoo.com/",
-    "tag": "Crew Directory"
-  },
-  {
-    "name": "Alex Harris — Alexander Audio LLC",
-    "vendor": "Independent Crewer",
-    "desc": "New York, New Jersey, PA",
-    "url": "http://www.alexanderaudiony.com",
     "tag": "Crew Directory"
   },
   {

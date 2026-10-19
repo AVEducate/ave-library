@@ -52,7 +52,7 @@
     "vendor": "LAWO",
     "cost": "FREE",
     "desc": "Online",
-    "url": "https://www.lawo.com/support/lawo-online-academy.html",
+    "url": "https://academy.lawo.com/",
     "tag": "Audio"
   },
   {
@@ -116,7 +116,7 @@
     "vendor": "Sony Professional",
     "cost": "Paid",
     "desc": "Sony Professional's certification program for display and IP video production systems. Validates proficiency in Sony professional display products, IP live production workflows, and broadcast camera systems for AV professionals and systems integrators working with Sony Pro equipment.",
-    "url": "https://training.sony-europe.com/",
+    "url": "https://pro.sony/ue_US/support-services/technical-training",
     "tag": "Video"
   },
   {
@@ -132,7 +132,7 @@
     "vendor": "SynAudCon",
     "cost": "Paid",
     "desc": "Online",
-    "url": "https://www.synaudcon.com/",
+    "url": "https://www.prosoundtraining.com/",
     "tag": "Audio"
   },
   {
@@ -204,7 +204,7 @@
     "vendor": "Event Safety Alliance",
     "cost": "Paid",
     "desc": "Both/Hybrid",
-    "url": "https://eventsafetyalliance.org/standards-guidance",
+    "url": "https://eventsafetyalliance.org/opportunities",
     "tag": "General AV"
   },
   {
@@ -284,7 +284,7 @@
     "vendor": "Columbus McKinnon Training",
     "cost": "Paid",
     "desc": "Both/Hybrid",
-    "url": "https://training.cmco.com/collections/cm-et-training",
+    "url": "https://www.cmco.com/en-us/training/in-person-online-classes-and-webinars/",
     "tag": "Rigging"
   },
   {
@@ -328,19 +328,11 @@
     "tag": "Video"
   },
   {
-    "name": "Purple Tally Training",
-    "vendor": "Purple Tally Training",
-    "cost": "Paid",
-    "desc": "Online",
-    "url": "https://www.purpletally.com/",
-    "tag": "Video"
-  },
-  {
     "name": "Certified Public Bookkeeper (CPB)",
     "vendor": "National Association of Certified Public Bookkeepers",
     "cost": "Paid",
     "desc": "Online",
-    "url": "https://www.nacpb.org/certification/cpb/",
+    "url": "https://www.nacpb.org/license/certified-public-bookkeeper-license",
     "tag": "Business / Finance"
   },
   {
@@ -364,7 +356,7 @@
     "vendor": "ETA International",
     "cost": "Paid",
     "desc": "ETA International's suite of electronics certifications for AV professionals: CET (Certified Electronics Technician) covers general electronics foundation; CST (Certified Service Technician) covers electronics servicing; CAT (Commercial Audio Technician) covers installation and troubleshooting of commercial sound systems.",
-    "url": "https://www.etai.org/",
+    "url": "https://www.etai.org/specialty_certifications.html",
     "tag": "General AV"
   },
   {
@@ -388,7 +380,7 @@
     "vendor": "CEDIA",
     "cost": "Paid",
     "desc": "CEDIA's suite of residential AV and smart home certifications: IST (Integrated Systems Technician) for system integration; ESC-D (Designer) for system design and documentation; CIT (Cabling & Infrastructure Technician) for structured wiring; and Networking Specialist for residential network design. Industry-recognized credentials for home technology professionals.",
-    "url": "https://www.cedia.org/education-certification",
+    "url": "https://cedia.org/smart-home-professionals/education/certification/",
     "tag": "Automation"
   },
   {

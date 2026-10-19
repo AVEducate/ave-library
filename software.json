@@ -4,7 +4,7 @@
     "vendor": "Shure",
     "cost": "FREE",
     "desc": "Browser",
-    "url": "https://pubs.shure.com/guide/techportal",
+    "url": "https://www.shure.com/en-US/support/tools",
     "tag": "AV Software"
   },
   {
@@ -76,7 +76,7 @@
     "vendor": "DT Videolabs",
     "cost": "Paid",
     "desc": "Mac",
-    "url": "https://www.dtvideolabs.com/instacue/",
+    "url": "https://www.dtvideolabs.com/dt-videolabs-instacue/",
     "tag": "AV Software"
   },
   {
@@ -92,7 +92,7 @@
     "vendor": "Prodcom",
     "cost": "Paid",
     "desc": "Mac",
-    "url": "https://www.prodcom.net/",
+    "url": "https://prodcom.io/",
     "tag": "AV Software"
   },
   {
@@ -188,7 +188,7 @@
     "vendor": "Professional Wireless Systems",
     "cost": "Paid",
     "desc": "Windows",
-    "url": "https://www.professionalwireless.com/software/ias/",
+    "url": "https://www.professionalwireless.com/intermod-analysis/",
     "tag": "AV Software"
   },
   {
@@ -292,7 +292,7 @@
     "vendor": "Chamsys",
     "cost": "FREE",
     "desc": "Mac",
-    "url": "https://chamsys.co.uk/downloads",
+    "url": "https://downloads.chamsys.co.uk/magicq",
     "tag": "AV Software"
   },
   {
@@ -308,7 +308,7 @@
     "vendor": "Chamsys",
     "cost": "FREE",
     "desc": "Windows",
-    "url": "https://chamsys.co.uk/downloads",
+    "url": "https://downloads.chamsys.co.uk/magicq",
     "tag": "AV Software"
   },
   {
@@ -548,31 +548,7 @@
     "vendor": "Alteka Solutions",
     "cost": "FREE",
     "desc": "Mac",
-    "url": "https://alteka.solutions/kardz/",
-    "tag": "AV Software"
-  },
-  {
-    "name": "Coyote Flex",
-    "vendor": "Sonoran Video Systems",
-    "cost": "Paid",
-    "desc": "Mac",
-    "url": "https://sonoranvideosystems.com/",
-    "tag": "AV Software"
-  },
-  {
-    "name": "Coyote Server",
-    "vendor": "Sonoran Video Systems",
-    "cost": "Paid",
-    "desc": "Mac",
-    "url": "https://sonoranvideosystems.com/",
-    "tag": "AV Software"
-  },
-  {
-    "name": "Coyote Server",
-    "vendor": "Sonoran Video Systems",
-    "cost": "Paid",
-    "desc": "Mac",
-    "url": "https://sonoranvideosystems.com/",
+    "url": "https://alteka.solutions/kards",
     "tag": "AV Software"
   },
   {
@@ -636,7 +612,7 @@
     "vendor": "Telescript",
     "cost": "Paid",
     "desc": "Mac",
-    "url": "https://www.telescriptintl.com/",
+    "url": "https://www.telescript.com/software/",
     "tag": "AV Software"
   },
   {
@@ -724,7 +700,7 @@
     "vendor": "OSCPoint",
     "cost": "FREE",
     "desc": "Windows",
-    "url": "https://www.oscpoint.com/",
+    "url": "https://oscpoint.com/",
     "tag": "AV Software"
   },
   {
@@ -732,7 +708,7 @@
     "vendor": "Panasonic",
     "cost": "FREE",
     "desc": "Windows",
-    "url": "https://panasonic.net/cns/sav/en/products/software/",
+    "url": "https://pro-av.panasonic.net/en/software/mps/",
     "tag": "AV Software"
   },
   {
@@ -812,7 +788,7 @@
     "vendor": "Alteka Solutions",
     "cost": "FREE",
     "desc": "Windows",
-    "url": "https://alteka.solutions/kardz/",
+    "url": "https://alteka.solutions/kards",
     "tag": "AV Software"
   },
   {
@@ -821,14 +797,6 @@
     "cost": "Paid",
     "desc": "Windows",
     "url": "https://www.iewsolutions.com/",
-    "tag": "AV Software"
-  },
-  {
-    "name": "Coyote Flex",
-    "vendor": "Sonoran Video Systems",
-    "cost": "Paid",
-    "desc": "Windows",
-    "url": "https://sonoranvideosystems.com/",
     "tag": "AV Software"
   },
   {
@@ -892,7 +860,7 @@
     "vendor": "Telescript",
     "cost": "Paid",
     "desc": "Windows",
-    "url": "https://www.telescriptintl.com/",
+    "url": "https://www.telescript.com/software/",
     "tag": "AV Software"
   },
   {
@@ -928,19 +896,11 @@
     "tag": "VJ Software"
   },
   {
-    "name": "CoGe",
-    "vendor": "macOS",
-    "cost": "Free/Paid",
-    "desc": "macOS",
-    "url": "https://cogevj.hu/",
-    "tag": "VJ Software"
-  },
-  {
     "name": "ArKaos Media Master Pro",
     "vendor": "Windows",
     "cost": "Paid",
     "desc": "Windows",
-    "url": "https://arkaos.com/",
+    "url": "https://chamsyslighting.com/product/mediamaster-software/",
     "tag": "VJ Software"
   },
   {
@@ -948,7 +908,7 @@
     "vendor": "macOS/Windows",
     "cost": "Paid",
     "desc": "macOS/Windows",
-    "url": "https://arkaos.com/",
+    "url": "https://vj.arkaos.com/grandvj-xt/about",
     "tag": "VJ Software"
   },
   {
@@ -956,7 +916,7 @@
     "vendor": "macOS/Windows",
     "cost": "$499",
     "desc": "macOS/Windows",
-    "url": "https://arkaos.com/",
+    "url": "https://vj.arkaos.com/grandvj/about",
     "tag": "VJ Software"
   },
   {
@@ -1032,19 +992,11 @@
     "tag": "VJ Software"
   },
   {
-    "name": "Motion Dive 5",
-    "vendor": "macOS/Windows",
-    "cost": "Paid",
-    "desc": "macOS/Windows",
-    "url": "https://motiondive.zendesk.com/",
-    "tag": "VJ Software"
-  },
-  {
     "name": "VJ Mode 1.5",
-    "vendor": "link is dead",
+    "vendor": "macOS",
     "cost": "Free",
     "desc": "macOS",
-    "url": "https://www.vj-mode.com/",
+    "url": "https://github.com/stavrosdidakis/VJ-Mode",
     "tag": "VJ Software"
   },
   {
@@ -1064,19 +1016,11 @@
     "tag": "VJ Software"
   },
   {
-    "name": "Pixel Toy",
-    "vendor": "macOS",
-    "cost": "Free",
-    "desc": "macOS",
-    "url": "https://www.pixeltoy.org/",
-    "tag": "VJ Software"
-  },
-  {
     "name": "VPT",
     "vendor": "macOS",
     "cost": "Free",
     "desc": "macOS",
-    "url": "https://haakonlotsberg.net/vpt.html",
+    "url": "https://hcgilje.wordpress.com/vpt/",
     "tag": "VJ Software"
   },
   {
@@ -1085,14 +1029,6 @@
     "cost": "Free",
     "desc": "Windows",
     "url": "http://flxer.net/",
-    "tag": "VJ Software"
-  },
-  {
-    "name": "KVB",
-    "vendor": "macOS",
-    "cost": "Free",
-    "desc": "macOS",
-    "url": "https://www.kob.be/kvb/",
     "tag": "VJ Software"
   },
   {
@@ -1108,7 +1044,7 @@
     "vendor": "macOS",
     "cost": "Free",
     "desc": "macOS",
-    "url": "https://www.makio135.com/",
+    "url": "https://makio135.com/",
     "tag": "VJ Software"
   },
   {
@@ -1116,31 +1052,7 @@
     "vendor": "macOS/Windows",
     "cost": "Free",
     "desc": "macOS/Windows",
-    "url": "https://www.livelab.dk/bomb/",
-    "tag": "VJ Software"
-  },
-  {
-    "name": "2V-P",
-    "vendor": "macOS/Windows",
-    "cost": "Free",
-    "desc": "macOS/Windows",
-    "url": "https://2v-p.com/",
-    "tag": "VJ Software"
-  },
-  {
-    "name": "Kraken",
-    "vendor": "Windows",
-    "cost": "Free",
-    "desc": "Windows",
-    "url": "https://www.krakenvj.com/",
-    "tag": "VJ Software"
-  },
-  {
-    "name": "GRoK",
-    "vendor": "Windows",
-    "cost": "Free",
-    "desc": "Windows",
-    "url": "https://www.grokpulse.com/",
+    "url": "https://draves.org/bomb/",
     "tag": "VJ Software"
   },
   {
@@ -1156,7 +1068,7 @@
     "vendor": "macOS",
     "cost": "Paid",
     "desc": "macOS",
-    "url": "https://www.djmixerpro.com/",
+    "url": "https://www.djmixersoft.com/",
     "tag": "VJ Software"
   },
   {
@@ -1176,19 +1088,11 @@
     "tag": "VJ Software"
   },
   {
-    "name": "Ganuza",
-    "vendor": "macOS/Windows",
-    "cost": "Free",
-    "desc": "macOS/Windows",
-    "url": "https://ganuza.io/",
-    "tag": "VJ Software"
-  },
-  {
     "name": "Vezer",
     "vendor": "macOS",
     "cost": "Paid",
     "desc": "macOS",
-    "url": "https://www.vezerapp.hu/",
+    "url": "https://imimot.com/vezer",
     "tag": "VJ Software"
   },
   {
@@ -1280,14 +1184,6 @@
     "tag": "Playback Pro"
   },
   {
-    "name": "AV PLAYBACK",
-    "vendor": "macOS/iOS",
-    "cost": "FREE",
-    "desc": "macOS/iOS",
-    "url": "https://apps.apple.com/us/app/av-playback/id1443697588",
-    "tag": "Playback Pro"
-  },
-  {
     "name": "PRO VIDEO PLAYER",
     "vendor": "macOS",
     "cost": "FREE/Paid",
@@ -1301,14 +1197,6 @@
     "cost": "Paid",
     "desc": "macOS",
     "url": "https://imimot.com/mitti/",
-    "tag": "Playback Pro"
-  },
-  {
-    "name": "COYOTE",
-    "vendor": "Windows",
-    "cost": "Paid",
-    "desc": "Windows",
-    "url": "https://sonoranvideosystems.com/",
     "tag": "Playback Pro"
   },
   {

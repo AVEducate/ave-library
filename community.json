@@ -30,7 +30,7 @@
   {
     "name": "Learn Stage Lighting",
     "vendor": "Podcast",
-    "url": "https://www.learnstagelighting.com/podcasts/the-learn-stage-lighting-podcast",
+    "url": "https://podcasts.apple.com/us/podcast/the-learn-stage-lighting-podcast/id1347712973",
     "desc": "Tips, tricks, and training for stage lighting across band, church, DJ, and theatre contexts. Biweekly. Active through 2024.",
     "tag": "Podcast"
   },
@@ -58,7 +58,7 @@
   {
     "name": "SoundGirls Podcast",
     "vendor": "Podcast",
-    "url": "https://soundgirls.org/category/podcast/",
+    "url": "https://soundgirls.org/the-soundgirls-podcast/",
     "desc": "Interviews with audio professionals supporting diversity and inclusion in the sound industry. From SoundGirls.org.",
     "tag": "Podcast"
   },
@@ -133,13 +133,6 @@
     "tag": "Podcast"
   },
   {
-    "name": "IT AV",
-    "vendor": "Podcast",
-    "url": "https://podcasts.apple.com/us/podcast/it-av/id1183779112",
-    "desc": "From AVNation — AV through the lens of the IT professional. Covers security, bandwidth, and network-based AV systems.",
-    "tag": "Podcast"
-  },
-  {
     "name": "Radio Check",
     "vendor": "Podcast",
     "url": "https://podcasts.apple.com/us/podcast/radio-check-life-in-the-concert-touring-industry/id1525741903",
@@ -207,20 +200,6 @@
     "vendor": "Orlando, FL / Las Vegas, NV\n(rotates annually) | June",
     "url": "https://www.infocommshow.org/",
     "desc": "The largest professional AV trade show in North America. Produced by AVIXA. Covers audio, video, lighting, control, digital signage, AV/IT convergence, corporate AV, and live events. CTS certification sessions available. Best for: All AV professionals L3–L7, especially systems integration and corporate AV.",
-    "tag": "Industry Events"
-  },
-  {
-    "name": "AV Pro Reunion",
-    "vendor": "Orlando, FL | Late July / August",
-    "url": "https://avproreunion.com/",
-    "desc": "Annual gathering for AV professionals focused on community building, networking, and career development in the AV industry. Best for: All AV professionals looking to connect with the broader community.",
-    "tag": "Industry Events"
-  },
-  {
-    "name": "Pirate University",
-    "vendor": "New York, NY | August",
-    "url": "https://www.pirateuniversity.org/",
-    "desc": "Hands-on training and education event for live entertainment and event production professionals. Practical skills development covering lighting, audio, video, and production disciplines. Best for: L2–L5 live event professionals seeking hands-on training.",
     "tag": "Industry Events"
   },
   {
