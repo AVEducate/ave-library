@@ -422,5 +422,16 @@
     "desc": "AMX's certification tracks for control system programmers: ACP (Authorized Control Programmer) covers NetLinx Studio programming and AMX control system deployment; ACE covers advanced programming and integration of AMX control systems in commercial AV environments.",
     "url": "https://www.amx.com/training",
     "tag": "Automation"
+  },
+  {
+    "name": "Purple Tally Training",
+    "vendor": "Purple Tally Training",
+    "cost": "Paid",
+    "desc": "Online",
+    "url": "",
+    "tag": "Video",
+    "archived": true,
+    "archived_reason": "Website offline",
+    "old_url": "https://www.purpletally.com/"
   }
 ]

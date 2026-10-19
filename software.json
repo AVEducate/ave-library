@@ -1214,5 +1214,148 @@
     "desc": "BrightSign OS",
     "url": "https://www.brightsign.biz/",
     "tag": "Digital Signage"
+  },
+  {
+    "name": "Coyote Flex",
+    "vendor": "Sonoran Video Systems",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "",
+    "tag": "AV Software",
+    "archived": true,
+    "archived_reason": "Website offline",
+    "old_url": "https://sonoranvideosystems.com/"
+  },
+  {
+    "name": "Coyote Server",
+    "vendor": "Sonoran Video Systems",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "",
+    "tag": "AV Software",
+    "archived": true,
+    "archived_reason": "Website offline",
+    "old_url": "https://sonoranvideosystems.com/"
+  },
+  {
+    "name": "Coyote Flex",
+    "vendor": "Sonoran Video Systems",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "",
+    "tag": "AV Software",
+    "archived": true,
+    "archived_reason": "Website offline",
+    "old_url": "https://sonoranvideosystems.com/"
+  },
+  {
+    "name": "CoGe",
+    "vendor": "macOS",
+    "cost": "Free/Paid",
+    "desc": "macOS",
+    "url": "",
+    "tag": "VJ Software",
+    "archived": true,
+    "archived_reason": "Software discontinued",
+    "old_url": "https://cogevj.hu/"
+  },
+  {
+    "name": "Z Vector",
+    "vendor": "macOS/Windows",
+    "cost": "Paid",
+    "desc": "macOS/Windows",
+    "url": "",
+    "tag": "VJ Software",
+    "archived": true,
+    "archived_reason": "Domain taken over",
+    "old_url": ""
+  },
+  {
+    "name": "Motion Dive 5",
+    "vendor": "macOS/Windows",
+    "cost": "Paid",
+    "desc": "macOS/Windows",
+    "url": "",
+    "tag": "VJ Software",
+    "archived": true,
+    "archived_reason": "Software discontinued",
+    "old_url": "https://motiondive.zendesk.com/"
+  },
+  {
+    "name": "VJ Mode 1.5",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "",
+    "tag": "VJ Software",
+    "archived": true,
+    "archived_reason": "Software discontinued",
+    "old_url": "https://www.vj-mode.com/"
+  },
+  {
+    "name": "Pixel Toy",
+    "vendor": "macOS",
+    "cost": "Free",
+    "desc": "macOS",
+    "url": "",
+    "tag": "VJ Software",
+    "archived": true,
+    "archived_reason": "Domain now for sale",
+    "old_url": ""
+  },
+  {
+    "name": "2V-P",
+    "vendor": "macOS/Windows",
+    "cost": "Free",
+    "desc": "macOS/Windows",
+    "url": "",
+    "tag": "VJ Software",
+    "archived": true,
+    "archived_reason": "Website offline",
+    "old_url": "https://2v-p.com/"
+  },
+  {
+    "name": "Kraken",
+    "vendor": "Windows",
+    "cost": "Free",
+    "desc": "Windows",
+    "url": "",
+    "tag": "VJ Software",
+    "archived": true,
+    "archived_reason": "Website offline",
+    "old_url": "https://www.krakenvj.com/"
+  },
+  {
+    "name": "GRoK",
+    "vendor": "Windows",
+    "cost": "Free",
+    "desc": "Windows",
+    "url": "",
+    "tag": "VJ Software",
+    "archived": true,
+    "archived_reason": "Website offline",
+    "old_url": "https://www.grokpulse.com/"
+  },
+  {
+    "name": "AV PLAYBACK",
+    "vendor": "macOS/iOS",
+    "cost": "FREE",
+    "desc": "macOS/iOS",
+    "url": "",
+    "tag": "Playback Pro",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "https://apps.apple.com/us/app/av-playback/id1443697588"
+  },
+  {
+    "name": "COYOTE",
+    "vendor": "Windows",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "",
+    "tag": "Playback Pro",
+    "archived": true,
+    "archived_reason": "Website offline",
+    "old_url": "https://sonoranvideosystems.com/"
   }
 ]

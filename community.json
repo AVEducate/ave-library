@@ -168,6 +168,16 @@
     "tag": "Podcast"
   },
   {
+    "name": "IT AV",
+    "vendor": "Podcast",
+    "url": "",
+    "desc": "From AVNation — AV through the lens of the IT professional. Covers security, bandwidth, and network-based AV systems.",
+    "tag": "Podcast",
+    "archived": true,
+    "archived_reason": "Podcast ended",
+    "old_url": "https://podcasts.apple.com/us/podcast/it-av/id1183779112"
+  },
+  {
     "name": "LPS — Live Production Summit",
     "vendor": "Palm Springs, CA\n(Grand Hyatt Indian Wells) | January",
     "url": "https://liveproductionsummit.com/",
@@ -222,5 +232,15 @@
     "url": "https://www.avixa.org/",
     "desc": "AVIXA (Audiovisual and Integrated Experience Association) produces InfoComm, hosts CTS certification programs, publishes industry standards, and runs year-round professional development events, webinars, and community programs including AVIXA Xchange. Best for: All AV professionals seeking certification, standards, and industry community at any level.",
     "tag": "Industry Events"
+  },
+  {
+    "name": "Pirate University",
+    "vendor": "New York, NY | August",
+    "url": "",
+    "desc": "Hands-on training and education event for live entertainment and event production professionals. Practical skills development covering lighting, audio, video, and production disciplines. Best for: L2–L5 live event professionals seeking hands-on training.",
+    "tag": "Industry Events",
+    "archived": true,
+    "archived_reason": "Domain taken over",
+    "old_url": ""
   }
 ]

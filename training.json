@@ -728,6 +728,61 @@
     "tag": "Audio"
   },
   {
+    "name": "Intro to Audio Analyzers and SPL",
+    "vendor": "SND",
+    "desc": "YouTube tutorial introducing audio analyzers and sound pressure level (SPL) measurement tools used in live sound system optimization. Covers the basics of FFT analysis, transfer function measurements, and practical use of audio analyzers for system tuning and troubleshooting.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Audio",
+    "archived": true,
+    "archived_reason": "Video deleted",
+    "old_url": "https://www.youtube.com/watch?v=0rh5fmP-8RY"
+  },
+  {
+    "name": "Learn Live Sound!",
+    "vendor": "SND",
+    "desc": "YouTube channel dedicated to live sound education covering console operation, system setup, gain structure, monitoring, and live mixing techniques. Practical content aimed at working live sound engineers and students entering the live event production industry.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Audio",
+    "archived": true,
+    "archived_reason": "YouTube channel deleted",
+    "old_url": "https://www.youtube.com/c/LearnLiveSound"
+  },
+  {
+    "name": "Various Audio Training on troubleshooting audio",
+    "vendor": "SND",
+    "desc": "The Pro Audio Files' collection of audio troubleshooting tutorials, techniques articles, and practical guides covering common live sound and studio audio problems. A broad collection of free and paid content from working engineers covering real-world audio problem-solving scenarios.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Audio",
+    "archived": true,
+    "archived_reason": "Domain now for sale",
+    "old_url": ""
+  },
+  {
+    "name": "Waves Soundgrid Certification",
+    "vendor": "SND",
+    "desc": "Waves Audio's SoundGrid certification program covering SoundGrid network audio infrastructure, server setup, plugin management, and low-latency live processing workflows. Certification validates competency in deploying Waves SoundGrid systems for live events and broadcast applications.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Audio",
+    "archived": true,
+    "archived_reason": "Certification retired",
+    "old_url": "https://www.waves.com/mixhub/soundgrid-certification/"
+  },
+  {
+    "name": "Mixing Music — Talkin Music Guide",
+    "vendor": "Talkin Music",
+    "desc": "Online guide covering music mixing fundamentals including EQ, compression, levels, and arrangement considerations for music production. Useful foundational content for audio engineers transitioning into or expanding into music mixing alongside their live event work. Free browser-based resource.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Audio",
+    "archived": true,
+    "archived_reason": "Website certificate broken",
+    "old_url": "https://talkinmusic.com/musicproduction/mixing-music/"
+  },
+  {
     "name": "CC106: Core Curriculum | Video Essentials",
     "vendor": "Harman",
     "desc": "Harman Professional's foundational video training course covering display technology, signal distribution, video resolution, aspect ratios, and AV signal flow. Part of the Harman Core Curriculum series and earns RUs toward AVIXA CTS certification.",
@@ -1320,6 +1375,83 @@
     "tag": "Video"
   },
   {
+    "name": "200 LEVEL COURSE – CIRCUIT-BASED SOLUTIONS",
+    "vendor": "Atlona",
+    "desc": "The Atlona Certified Technologist course will cover in detail the following product categories of Atlona Solutions: Switchers, Distribution Amplifiers, Extenders, Converters and Scalers and Audio solutions. The individual who successfully completes this course will take away a complete understanding of Atlona products and solutions for a wide variety of commercial and residential audio/video applications.",
+    "url": "",
+    "cost": "online - free",
+    "tag": "Video",
+    "archived": true,
+    "archived_reason": "Course retired",
+    "old_url": "https://atlona.com/training/"
+  },
+  {
+    "name": "ATEM Switcher Simulator",
+    "vendor": "VID",
+    "desc": "Free browser-based ATEM Switcher simulator built by Damiaan Dufaux. Allows video engineers to practice Blackmagic ATEM switcher operation — transitions, keyers, macros, and multiview layouts — without requiring physical hardware.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Video",
+    "archived": true,
+    "archived_reason": "Simulator taken offline",
+    "old_url": "https://hvacrschool.com/atem/"
+  },
+  {
+    "name": "Intro to DaVinci Resolve - Video Editting Software",
+    "vendor": "VID",
+    "desc": "DIH Online's introductory tutorial series for DaVinci Resolve covering the interface, timeline editing, color grading basics, and audio post workflows. A useful starting point for AV professionals expanding into video editing and post-production.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Video",
+    "archived": true,
+    "archived_reason": "YouTube channel deleted",
+    "old_url": "https://www.youtube.com/c/DIHonline"
+  },
+  {
+    "name": "Free Looping Visuals - Free Content",
+    "vendor": "VID",
+    "desc": "Free looping visual content collection for use in live event production — royalty-free, endlessly looping video clips suitable for event backdrops, stage screens, and ambient visuals. Available at no cost for AV professionals and event producers needing background content.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Video",
+    "archived": true,
+    "archived_reason": "Shared folder deleted",
+    "old_url": "https://drive.google.com/drive/folders/1tQGMWk2jxUO3tpIlUEFBLHJXvPqnQJqL"
+  },
+  {
+    "name": "Pierre Henry's AV Database",
+    "vendor": "VID",
+    "desc": "Pierre Henry's AV Database — a long-running community resource cataloguing AV equipment specifications, signal charts, connector pinouts, and technical reference data for professional AV equipment. A practical reference for technicians troubleshooting and specifying AV system components.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Video",
+    "archived": true,
+    "archived_reason": "Domain now for sale",
+    "old_url": ""
+  },
+  {
+    "name": "Powerpoint and Macbooks: How to use mirrored Presenter View in a 3 screen setup",
+    "vendor": "Presentation Tools",
+    "desc": "Tutorial covering how to use Presenter View in PowerPoint with MacBooks in mirrored display mode — a common challenge in corporate AV. Explains display configuration settings to enable presenter notes on the laptop while showing full-screen slides on the room display.",
+    "url": "",
+    "cost": "FREE",
+    "tag": "Video",
+    "archived": true,
+    "archived_reason": "Video deleted",
+    "old_url": "https://www.youtube.com/watch?v=Zjiqz6k5Szk"
+  },
+  {
+    "name": "StreamTek (Anthony Burokas)",
+    "vendor": "YouTube",
+    "desc": "StreamTek by Anthony Burokas — YouTube channel covering live streaming, video production, and broadcast technology for professionals transitioning into or working in live streaming and hybrid event production. Practical, workflow-focused content for video and streaming engineers.",
+    "url": "",
+    "cost": "FREE",
+    "tag": "Video",
+    "archived": true,
+    "archived_reason": "YouTube channel deleted",
+    "old_url": "https://www.youtube.com/c/StreamTek"
+  },
+  {
     "name": "Astera Academy Webinar Tutorials",
     "vendor": "Astera",
     "desc": "Astera LED's Academy webinar series covering AsteraApp software, wireless LED fixture operation, DMX programming, and advanced use of Astera Titan Tubes, NYX Bulbs, and other Astera products. Free on-demand content for lighting technicians working with Astera wireless LED systems.",
@@ -1614,6 +1746,39 @@
     "url": "https://support.actentertainment.com/knowledgeBase",
     "cost": "Free",
     "tag": "Lighting"
+  },
+  {
+    "name": "Lighting Trainer",
+    "vendor": "Lighting Trainer",
+    "desc": "Lighting Trainer — online resource for entertainment lighting education covering console programming, fixture technology, DMX networking, and practical show production. Structured content for lighting technicians building foundational and advanced technical skills.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Lighting",
+    "archived": true,
+    "archived_reason": "Domain now for sale",
+    "old_url": ""
+  },
+  {
+    "name": "Lighting White Papers on DMX from Doug Fleenor",
+    "vendor": "Doug Fleenor",
+    "desc": "Doug Fleenor Design's white paper collection covering DMX512 protocol fundamentals, signal distribution, splitters, isolation, opto-coupling, and common DMX troubleshooting scenarios. Authoritative technical reference for lighting and AV professionals working with DMX systems.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Lighting",
+    "archived": true,
+    "archived_reason": "Domain now for sale",
+    "old_url": ""
+  },
+  {
+    "name": "The Basics of Grounding Electrical Systems",
+    "vendor": "Lorenzo Mari",
+    "desc": "Lorenzo Mari's educational resource covering the fundamentals of electrical grounding for entertainment and AV professionals. Explains grounding and bonding principles, common grounding mistakes in live event power distribution, and practical safety considerations for production electricians.",
+    "url": "",
+    "cost": "Free",
+    "tag": "Lighting",
+    "archived": true,
+    "archived_reason": "Domain now for sale",
+    "old_url": ""
   },
   {
     "name": "CC103: Core Curriculum | Control Essentials",
@@ -2216,6 +2381,28 @@
     "tag": "General"
   },
   {
+    "name": "EESA Bulletins and Guidelines",
+    "vendor": "EESA",
+    "desc": "Technical bulletins and safety guidelines published by the Entertainment Electrical Safety Association (EESA) for live event production electricians. Covers portable power distribution safety, grounding, overcurrent protection, and best practices for entertainment venues. An important compliance and safety reference for power techs.",
+    "url": "",
+    "cost": "Free",
+    "tag": "General",
+    "archived": true,
+    "archived_reason": "Domain taken over",
+    "old_url": ""
+  },
+  {
+    "name": "AV Tech Info Blog & Resources",
+    "vendor": "AV Tech Info",
+    "desc": "Resource blog covering AV technology, installation tips, troubleshooting guides, and industry news for working AV technicians. A community-driven knowledge hub with practical how-to content for integrators and live event professionals. Free access with no login required.",
+    "url": "",
+    "cost": "Free",
+    "tag": "General",
+    "archived": true,
+    "archived_reason": "Blog deleted",
+    "old_url": "https://avtechinfo.wordpress.com"
+  },
+  {
     "name": "A4i.tv's Rigging Videos",
     "vendor": "Rigging",
     "desc": "A4i.tv's rigging video library covering entertainment rigging techniques, hardware selection, load calculations, and rigging safety for live event and theatrical production. Free video content from A4i.tv covering practical rigging knowledge for working riggers and production technicians.",
@@ -2278,6 +2465,28 @@
     "url": "https://www.youtube.com/@JessicaCloverRushing/featured",
     "cost": "FREE",
     "tag": "Rigging"
+  },
+  {
+    "name": "Industrial Automation eAcademy",
+    "vendor": "Rigging",
+    "desc": "Schneider Electric's Industrial Automation eAcademy — online training covering programmable logic controllers, industrial networking, motion control, and automation systems. Relevant for AV and rigging professionals working with motorized rigging, automation systems, and show control infrastructure in theatrical and live event environments.",
+    "url": "",
+    "cost": "",
+    "tag": "Rigging",
+    "archived": true,
+    "archived_reason": "Course retired",
+    "old_url": "https://www.se.com/us/en/work/solutions/lms/"
+  },
+  {
+    "name": "TAIT Towers - IQ Training Video Series",
+    "vendor": "Rigging",
+    "desc": "TAIT Towers' iQ Training Video Series covering TAIT's powered flying and automation systems including the Navigator control platform. Free online training for operators and technicians working with TAIT automation equipment in theatrical and live event production environments.",
+    "url": "",
+    "cost": "",
+    "tag": "Rigging",
+    "archived": true,
+    "archived_reason": "Training series retired",
+    "old_url": "https://info.taittowers.com/iq-training"
   },
   {
     "name": "Collaboration Systems Design Guide",
@@ -2550,5 +2759,49 @@
     "url": "https://www.netgear.academy/",
     "cost": "Free/Paid",
     "tag": "VC & Networking"
+  },
+  {
+    "name": "Cisco Video Network Specialist",
+    "vendor": "Cisco",
+    "desc": "The Cisco Video Network Specialist program enables traditional analog audio-visual professionals to extend their careers into the growing Video-over-IP network job role",
+    "url": "",
+    "cost": "$1200/ Online",
+    "tag": "VC & Networking",
+    "archived": true,
+    "archived_reason": "Certification retired",
+    "old_url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/specialist/video-network.html"
+  },
+  {
+    "name": "CCNA Collaboration",
+    "vendor": "Cisco",
+    "desc": "Cisco's professional certification track covering unified communications, video conferencing infrastructure, call control, and collaboration applications. Prepares AV and IT professionals to design and manage enterprise-grade video collaboration systems. Highly valued for corporate AV roles where Cisco infrastructure is common.",
+    "url": "",
+    "cost": "",
+    "tag": "VC & Networking",
+    "archived": true,
+    "archived_reason": "Certification retired",
+    "old_url": "https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html"
+  },
+  {
+    "name": "Home Lighting Tips for Zoom & Video Calls",
+    "vendor": "Jennifer Boyle Photography",
+    "desc": "Practical lighting tips for video calls including key light placement and background lighting.",
+    "url": "",
+    "cost": "Free",
+    "tag": "VC & Networking",
+    "archived": true,
+    "archived_reason": "Website offline",
+    "old_url": "https://jenniferboylephotography.com/2020/04/14/tip-1-home-lighting-tips-for-zoom/"
+  },
+  {
+    "name": "ClearOne Training",
+    "vendor": "ClearOne",
+    "desc": "ClearOne's training and certification resources covering their conferencing audio, beamforming microphone arrays, and video collaboration product lines. Covers BMA CT, CONVERGE Pro 2, and UNITE cameras for AV professionals designing and integrating ClearOne systems in conference room environments.",
+    "url": "",
+    "cost": "Free",
+    "tag": "VC & Networking",
+    "archived": true,
+    "archived_reason": "Training discontinued",
+    "old_url": "https://www.clearone.com/training-all"
   }
 ]
