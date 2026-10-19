@@ -108,6 +108,10 @@ h1 span{color:var(--white)}
 .app-dead .px{width:36px;height:36px}
 .dead-reason{font-family:var(--mono);font-size:9px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;line-height:1.4;text-align:right}
 .book-card.dead .dead-reason{text-align:left}
+/* ── WORKBOX: product photo cards, laid out like the books ── */
+.gear-img{width:100%;aspect-ratio:1/1;object-fit:contain;background:#fff;padding:12px;display:block}
+.gear-ph{background:#151515}
+.gear-card.dead .gear-img{filter:grayscale(1);opacity:.5}
 /* ── DICT CARDS ── */
 .dict-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
 .dict-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;transition:.15s}
@@ -398,9 +402,14 @@ function makeBookCard(it) {
     + '</div></a></div>';
 }
 
-// ── APP CARDS ─────────────────────────────────────────────────────────────
-// Icons come from app-icons.json (built by app_icons.py): the App Store or
-// Google Play icon, keyed the same way as below, else the app's website icon.
+// ── ICON CARDS: Apps, Software, Community ─────────────────────────────────
+// These cards show an icon or logo on the left. Apps take it from
+// app-icons.json (app_icons.py: the App Store or Google Play icon, else the
+// app's website icon); Software and Community from software-icons.json and
+// community-icons.json (site_icons.py: copies kept in icons/). All three files
+// are keyed the same way as iconKey() below.
+var ICON_FILES = {apps: 'app-icons', software: 'software-icons', community: 'community-icons'};
+
 function iconKey(u) {
   var m = u.match(/(?:apps|itunes)\.apple\.com\/.*?\bid(\d+)/);
   if (m) return 'ios:' + m[1];
@@ -442,24 +451,29 @@ function monogram(name) {
 
 function appIconFail(img) { img.outerHTML = monogram(img.getAttribute('data-name')); }
 
-function appIcon(it) {
+function cardIcon(it, key) {
   if (it.archived) return '<span class="app-icon app-dead" aria-hidden="true">' + pixelGrid() + '</span>';
-  var src = (CACHE['app-icons'] || {})[iconKey(it.url || '')];
+  var src = (CACHE[ICON_FILES[key]] || {})[iconKey(it.url || '')];
   return src
     ? '<img class="app-icon" src="' + esc(src) + '" alt="" loading="lazy" data-name="' + esc(it.name || '') + '" onerror="appIconFail(this)">'
     : monogram(it.name);
 }
 
-function makeAppCard(it) {
+// Apps get the iPhone / Android symbols in the foot; Software and Community keep their tag
+function makeIconCard(it, key) {
   var u = it.url || '', dead = !!it.archived, link = !dead && u.startsWith('http');
-  var inner = '<div class="app-head">' + appIcon(it)
+  var mail = !dead && !link && u.includes('@');
+  var inner = '<div class="app-head">' + cardIcon(it, key)
     + '<div class="app-meta"><div class="card-top"><span class="vendor">' + (esc(it.vendor || '') || '&mdash;') + '</span>'
     + (dead ? '' : costBadge(it.cost || '')) + '</div>'
     + '<div class="card-name">' + esc(it.name) + '</div></div></div>'
     + (it.desc ? '<div class="card-desc">' + esc(it.desc) + '</div>' : '')
-    + '<div class="card-foot">' + platformIcons(it.vendor, dead)
+    + '<div class="card-foot">'
+    + (key === 'apps' ? platformIcons(it.vendor, dead)
+                      : '<span class="tag-chip ' + (TC[it.tag] || 't-general') + '">' + esc(it.tag || '') + '</span>')
     + (dead ? '<span class="dead-reason">' + esc(it.archived_reason || 'No longer available') + '</span>'
-            : (link ? '<span class="card-link">Visit &rarr;</span>' : ''))
+            : link ? '<span class="card-link">Visit &rarr;</span>'
+            : mail ? '<a class="card-link" href="mailto:' + esc(u) + '">Email &rarr;</a>' : '')
     + '</div>';
   return link
     ? '<div class="card app-card"><a href="' + esc(u) + '" target="_blank" rel="noopener">' + inner + '</a></div>'
@@ -489,6 +503,25 @@ function makeDeadBookCard(it) {
 }
 
 function entries(n) { return n.toLocaleString() + (n === 1 ? ' entry' : ' entries'); }
+
+// WorkBox: product photo cards laid out like the books (Amazon photos sit on white)
+function makeGearCard(it) {
+  var n = esc(it.name || ''), u = it.url || '', dead = !!it.archived;
+  var isAmz = u.includes('amazon.com') || u.includes('amzn.to');
+  // Amazon answers some image links with a blank 1x1 gif instead of an error
+  var pic = it.img
+    ? '<img class="gear-img" src="' + esc(it.img) + '" alt="' + n + '" loading="lazy" onload="if(this.naturalWidth<10)this.onerror()" onerror="this.outerHTML=\'<div class=&quot;gear-img gear-ph&quot;></div>\'">'
+    : '<div class="gear-img gear-ph"></div>';
+  var body = '<div class="book-body"><div class="book-title">' + n + '</div>'
+    + '<div class="book-foot"><span class="book-tag">' + esc(it.vendor || 'WorkBox') + '</span>'
+    + (dead ? '<span class="dead-reason">' + esc(it.archived_reason || 'No longer available') + '</span>'
+            : '<span class="book-buy">' + (isAmz ? 'Buy on Amazon' : 'Shop') + ' &rarr;</span>') + '</div>'
+    + (isAmz && !dead ? '<div class="book-aff">Affiliate &mdash; supports AVE</div>' : '')
+    + '</div>';
+  return dead
+    ? '<div class="book-card gear-card dead">' + pic + body + '</div>'
+    : '<div class="book-card gear-card"><a href="' + esc(u) + '" target="_blank" rel="noopener">' + pic + body + '</a></div>';
+}
 
 function deadBlock(dead, make, gridClass) {
   if (!dead.length) return '';
@@ -582,8 +615,10 @@ function renderSections(filter, q) {
   showLoading('Loading resources...');
 
   var promises = keys.map(function(k){ return loadData(k); });
-  // app icons are a nice-to-have: without them the cards show a letter
-  if (keys.indexOf('apps') >= 0) promises.push(loadData('app-icons').catch(function(){ return {}; }));
+  // icons are a nice-to-have: without them the cards show a letter
+  keys.forEach(function(k) {
+    if (ICON_FILES[k]) promises.push(loadData(ICON_FILES[k]).catch(function(){ return {}; }));
+  });
 
   Promise.all(promises).then(function(results) {
     var html = '';
@@ -619,13 +654,15 @@ function renderSections(filter, q) {
       } else {
         var sec = SECTIONS.find(function(s){ return s.key === key; });
         if (!sec) return;
-        var make = key === 'apps' ? makeAppCard : makeCard;
+        var gear = key === 'workbox';
+        var make = gear ? makeGearCard
+          : ICON_FILES[key] ? function(it){ return makeIconCard(it, key); } : makeCard;
         html += '<div class="sec">'
           + '<div class="sec-head"><div class="sec-icon">' + sec.icon + '</div>'
           + '<div class="sec-title">' + sec.title + '</div>'
           + '<div class="sec-badge">' + entries(live.length) + '</div></div>'
-          + (live.length ? '<div class="grid">' + live.map(function(it){ return make(it); }).join('') + '</div>' : '')
-          + deadBlock(dead, key === 'apps' ? makeAppCard : makeDeadCard, 'grid')
+          + (live.length ? '<div class="' + (gear ? 'book-grid' : 'grid') + '">' + live.map(function(it){ return make(it); }).join('') + '</div>' : '')
+          + deadBlock(dead, make === makeCard ? makeDeadCard : make, gear ? 'book-grid' : 'grid')
           + '</div><div class="divider"></div>';
       }
     });
@@ -636,8 +673,8 @@ function renderSections(filter, q) {
     }
 
     main.innerHTML = html;
-    document.getElementById('rcount').textContent = total.toLocaleString() + ' results'
-      + (deadTotal ? ' · ' + deadTotal.toLocaleString() + ' dead pixels' : '');
+    document.getElementById('rcount').textContent = total.toLocaleString() + (total === 1 ? ' result' : ' results')
+      + (deadTotal ? ' · ' + deadTotal.toLocaleString() + (deadTotal === 1 ? ' dead pixel' : ' dead pixels') : '');
   }).catch(function(err) {
     main.innerHTML = '<div class="empty"><div class="empty-icon">⚠️</div><div class="empty-txt">Could not load data. ' + err.message + '</div></div>';
   });
