@@ -352,14 +352,6 @@
     "tag": "AV Software"
   },
   {
-    "name": "PiXtimer Pro",
-    "vendor": "piXap",
-    "cost": "Paid",
-    "desc": "Mac",
-    "url": "https://apps.apple.com/us/app/pixedid/id1513186628",
-    "tag": "AV Software"
-  },
-  {
     "name": "SpeakerTimerPro",
     "vendor": "DT Videolabs",
     "cost": "Paid",
@@ -373,14 +365,6 @@
     "cost": "FREE",
     "desc": "Windows",
     "url": "https://www.fieldtemplate.com/softsymbols",
-    "tag": "AV Software"
-  },
-  {
-    "name": "PiXtimer Pro",
-    "vendor": "piXap",
-    "cost": "Paid",
-    "desc": "Windows",
-    "url": "https://apps.apple.com/us/app/pixedid/id1513186628",
     "tag": "AV Software"
   },
   {
@@ -1357,5 +1341,27 @@
     "archived": true,
     "archived_reason": "Website offline",
     "old_url": "https://sonoranvideosystems.com/"
+  },
+  {
+    "name": "PiXtimer Pro",
+    "vendor": "piXap",
+    "cost": "Paid",
+    "desc": "Mac",
+    "url": "",
+    "tag": "AV Software",
+    "archived": true,
+    "archived_reason": "Software discontinued",
+    "old_url": "https://apps.apple.com/us/app/pixedid/id1513186628"
+  },
+  {
+    "name": "PiXtimer Pro",
+    "vendor": "piXap",
+    "cost": "Paid",
+    "desc": "Windows",
+    "url": "",
+    "tag": "AV Software",
+    "archived": true,
+    "archived_reason": "Software discontinued",
+    "old_url": "https://apps.apple.com/us/app/pixedid/id1513186628"
   }
 ]
