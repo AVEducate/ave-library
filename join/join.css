@@ -103,18 +103,9 @@
 @media (max-width:560px){
   .avl-hero{padding:40px 16px 40px}
   .avl-counts span{display:block;height:0;overflow:hidden;margin:0}
-  .avl-cards{gap:10px}
-  .avl-art{height:118px}
-  .avl-art-icons .avl-mosaic{grid-template-columns:repeat(7,44px);grid-auto-rows:44px;gap:5px}
-  .avl-art-icons img{border-radius:10px}
-  .avl-art-covers .avl-mosaic{grid-template-columns:repeat(7,50px);grid-auto-rows:75px;gap:5px}
-  .avl-art-gear .avl-mosaic{grid-template-columns:repeat(6,64px);grid-auto-rows:64px;gap:5px}
-  .avl-art-terms .avl-mosaic{gap:5px;left:8px;right:8px;top:10px}
-  .avl-art-terms span{font-size:13px;padding:7px 9px 6px}
-  .avl-card-body{padding:12px 12px 14px}
-  .avl-card h3{font-size:18px;letter-spacing:.12em}
-  .avl-card p{display:none}
-  .avl-go{margin-top:10px;font-size:13px;letter-spacing:.14em}
+  /* phones: one card per row, full width (Omar), same card as on desktop */
+  .avl-cards{grid-template-columns:1fr;gap:12px}
+  .avl-art{height:150px}
   .avl-search label{font-size:20px}
   .avl-close{padding:32px 16px 28px}
   .avl-close h2{font-size:24px}
