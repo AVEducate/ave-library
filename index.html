@@ -34,6 +34,8 @@ h1 span{color:var(--white)}
 .stat-n.gold{color:var(--white)}
 .stat-l{font-size:10px;color:var(--muted);letter-spacing:.18em;text-transform:uppercase;margin-top:4px}
 .stat-d{display:none} /* row-end dividers looked broken when the stats wrap */
+.totals{display:flex;justify-content:center;gap:16px 56px;flex-wrap:wrap;max-width:520px;margin:28px auto 0;padding-top:24px;border-top:1px solid var(--line)}
+.stat-dead .stat-n{color:var(--muted)}
 /* ── CONTROLS ── */
 .controls{max-width:1200px;margin:0 auto;padding:24px 24px 0;display:flex;flex-direction:column;gap:14px}
 .search-wrap{position:relative;color:var(--white)}
@@ -79,6 +81,33 @@ h1 span{color:var(--white)}
 .b-label{background:transparent;color:var(--muted);border:1px solid var(--line)}
 /* tag chips: one monochrome style for every category */
 .tag-chip{font-size:9px;padding:2px 8px;border-radius:8px;font-family:var(--mono);text-transform:uppercase;letter-spacing:.06em;background:transparent;color:#bdbdbd;border:1px solid #3a3a3a}
+/* ── APP CARDS: store icon on the left, iPhone / Android symbols in the foot ── */
+.app-head{display:flex;align-items:flex-start;gap:12px}
+.app-icon{flex:0 0 48px;width:48px;height:48px;border-radius:11px;border:1px solid var(--line);background:#151515;object-fit:cover;display:block}
+.app-mono{display:flex;align-items:center;justify-content:center;font-family:var(--display);font-size:22px;color:var(--muted)}
+.app-meta{flex:1;min-width:0;display:flex;flex-direction:column;gap:6px}
+.plat{display:inline-flex;align-items:center;gap:9px}
+.plat svg{width:17px;height:17px;display:block;fill:#454545}
+.plat .ios.on{fill:#fff}
+.plat .android.on{fill:#3ddc84} /* Android brand green */
+/* ── DEAD PIXELS: resources that are no longer active, kept as an archive ── */
+.px rect{fill:#5a5a5a}
+.px .px-dead{fill:#000;stroke:#5a5a5a;stroke-width:1.5}
+.dead-sec{margin-top:32px}
+.dead-head{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.dead-head .px{width:16px;height:16px;flex:0 0 16px}
+.dead-title{font-family:var(--display);font-weight:500;font-size:17px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.dead-note{font-size:12px;color:#808080;letter-spacing:.06em;line-height:1.5;margin-bottom:16px}
+.card.dead,.book-card.dead{background:transparent;border-style:dashed;border-color:#3a3a3a}
+.card.dead:hover,.book-card.dead:hover{background:transparent;border-color:#3a3a3a;transform:none}
+.card.dead .card-name,.book-card.dead .book-title{color:#bdbdbd}
+.card.dead .card-desc{color:#8a8a8a}
+.book-card.dead{display:flex;flex-direction:column}
+.book-card.dead .book-cover{filter:grayscale(1);opacity:.5;background:#e6e6e6} /* light backing so dark or see-through covers still read */
+.app-dead{display:flex;align-items:center;justify-content:center}
+.app-dead .px{width:36px;height:36px}
+.dead-reason{font-family:var(--mono);font-size:9px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;line-height:1.4;text-align:right}
+.book-card.dead .dead-reason{text-align:left}
 /* ── DICT CARDS ── */
 .dict-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
 .dict-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;transition:.15s}
@@ -118,6 +147,7 @@ h1 span{color:var(--white)}
 .cta{text-align:center;padding:56px 24px 64px;border-top:1px solid var(--line)}
 .cta h3{font-family:var(--display);font-weight:600;font-size:30px;letter-spacing:.14em;margin-right:-.14em;color:var(--white);margin-bottom:10px}
 .cta p{font-size:15px;color:var(--text);letter-spacing:.1em;margin-bottom:24px}
+.cta-row{display:flex;justify-content:center;flex-wrap:wrap;gap:12px}
 .disclosure{font-size:12px;color:var(--muted);letter-spacing:.1em;max-width:720px;margin:32px auto 0;line-height:1.5}
 .cta p.disclosure{font-size:12px;color:var(--muted);margin-bottom:0}
 /* ── SIGN-UP GATE (shown when the library is opened outside aveducate.com) ── */
@@ -169,6 +199,10 @@ h1 span{color:var(--white)}
     <div class="stat-d"></div>
     <div class="stat"><div class="stat-n gold">10,223</div><div class="stat-l">AV Terms</div></div>
   </div>
+  <div class="totals">
+    <div class="stat"><div class="stat-n" data-total="live">&ndash;</div><div class="stat-l">Live Resources</div></div>
+    <div class="stat stat-dead"><div class="stat-n" data-total="dead">&ndash;</div><div class="stat-l">Dead Pixels</div></div>
+  </div>
 </div>
 
 <div class="controls">
@@ -196,7 +230,10 @@ h1 span{color:var(--white)}
 <div class="cta">
   <h3>GOT A RESOURCE TO ADD?</h3>
   <p>Help grow the library for the whole AV community.</p>
-  <a class="cta-btn" href="mailto:info@aveducate.com">Submit a Resource</a>
+  <div class="cta-row">
+    <a class="cta-btn" href="mailto:info@aveducate.com">Submit a Resource</a>
+    <a class="cta-btn" href="https://www.aveducate.com/support" target="_top">Donate to the AVE Mission</a>
+  </div>
   <p class="disclosure">[ AV Educate ] is a 501(c)(3) nonprofit. As an Amazon Associate, AV Educate earns from qualifying purchases &mdash; at no extra cost to you.</p>
 </div>
 </div>
@@ -293,15 +330,25 @@ function preloadAll() {
   keys.forEach(function(k){ loadData(k).then(function(){ updateStats(); }).catch(function(){}); });
 }
 
-// hero counts follow the data files, so they stay right when the sheet grows
+// hero counts follow the data files, so they stay right when the sheet grows.
+// Archived cards ("archived": true) are Dead Pixels: they only count in the
+// Dead Pixels total, never in a section's count.
+var TOTAL_KEYS = ['apps','training','software','books','certs','careers','community','workbox'];
 function updateStats() {
   document.querySelectorAll('[data-stat]').forEach(function(el) {
     var key = el.getAttribute('data-stat');
     var src = key === 'podcasts' ? CACHE.community : CACHE[key];
     if (!src) return;
-    var n = key === 'podcasts' ? src.filter(function(it){ return it.tag === 'Podcast'; }).length : src.length;
+    var n = src.filter(function(it){ return !it.archived && (key !== 'podcasts' || it.tag === 'Podcast'); }).length;
     el.textContent = n.toLocaleString();
   });
+  if (!TOTAL_KEYS.every(function(k){ return CACHE[k]; })) return;
+  var live = 0, dead = 0;
+  TOTAL_KEYS.forEach(function(k) {
+    CACHE[k].forEach(function(it){ if (it.archived) dead++; else live++; });
+  });
+  document.querySelector('[data-total="live"]').textContent = live.toLocaleString();
+  document.querySelector('[data-total="dead"]').textContent = dead.toLocaleString();
 }
 
 // ── HELPERS ───────────────────────────────────────────────────────────────
@@ -349,6 +396,107 @@ function makeBookCard(it) {
     + '<span class="book-buy">' + (isAmz ? 'Buy on Amazon' : 'Shop') + ' &rarr;</span></div>'
     + (isAmz ? '<div class="book-aff">Affiliate &mdash; supports AVE</div>' : '')
     + '</div></a></div>';
+}
+
+// ── APP CARDS ─────────────────────────────────────────────────────────────
+// Icons come from app-icons.json (built by app_icons.py): the App Store or
+// Google Play icon, keyed the same way as below, else the app's website icon.
+function iconKey(u) {
+  var m = u.match(/(?:apps|itunes)\.apple\.com\/.*?\bid(\d+)/);
+  if (m) return 'ios:' + m[1];
+  m = u.match(/play\.google\.com\/store\/apps\/details\?(?:.*&)?id=([\w.]+)/);
+  if (m) return 'android:' + m[1];
+  return u;
+}
+
+// Simple Icons (CC0) paths
+var APPLE_PATH = 'M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701';
+var ANDROID_PATH = 'M18.4395 5.5586c-.675 1.1664-1.352 2.3318-2.0274 3.498-.0366-.0155-.0742-.0286-.1113-.043-1.8249-.6957-3.484-.8-4.42-.787-1.8551.0185-3.3544.4643-4.2597.8203-.084-.1494-1.7526-3.021-2.0215-3.4864a1.1451 1.1451 0 0 0-.1406-.1914c-.3312-.364-.9054-.4859-1.379-.203-.475.282-.7136.9361-.3886 1.5019 1.9466 3.3696-.0966-.2158 1.9473 3.3593.0172.031-.4946.2642-1.3926 1.0177C2.8987 12.176.452 14.772 0 18.9902h24c-.119-1.1108-.3686-2.099-.7461-3.0683-.7438-1.9118-1.8435-3.2928-2.7402-4.1836a12.1048 12.1048 0 0 0-2.1309-1.6875c.6594-1.122 1.312-2.2559 1.9649-3.3848.2077-.3615.1886-.7956-.0079-1.1191a1.1001 1.1001 0 0 0-.8515-.5332c-.5225-.0536-.9392.3128-1.0488.5449zm-.0391 8.461c.3944.5926.324 1.3306-.1563 1.6503-.4799.3197-1.188.0985-1.582-.4941-.3944-.5927-.324-1.3307.1563-1.6504.4727-.315 1.1812-.1086 1.582.4941zM7.207 13.5273c.4803.3197.5506 1.0577.1563 1.6504-.394.5926-1.1038.8138-1.584.4941-.48-.3197-.5503-1.0577-.1563-1.6504.4008-.6021 1.1087-.8106 1.584-.4941z';
+
+// white Apple / green Android when the app is on that platform, grey when not
+function platformIcons(vendor, dead) {
+  var v = (vendor || '').toLowerCase();
+  var ios = !dead && /\bios\b|iphone|ipad/.test(v), android = !dead && /android/.test(v);
+  function icon(cls, on, label, path) {
+    return '<svg class="' + cls + (on ? ' on' : '') + '" viewBox="0 0 24 24" role="img" aria-label="' + label + '">'
+      + '<title>' + label + '</title><path d="' + path + '"/></svg>';
+  }
+  return '<span class="plat">'
+    + icon('ios', ios, ios ? 'On iPhone and iPad' : 'Not on iPhone', APPLE_PATH)
+    + icon('android', android, android ? 'On Android' : 'Not on Android', ANDROID_PATH)
+    + '</span>';
+}
+
+// a 3x3 pixel panel with one pixel out: the Dead Pixels mark
+function pixelGrid() {
+  var r = '';
+  for (var y = 0; y < 3; y++) for (var x = 0; x < 3; x++)
+    r += '<rect x="' + (4 + x * 14) + '" y="' + (4 + y * 14) + '" width="12" height="12" rx="2"'
+      + (x === 2 && y === 0 ? ' class="px-dead"' : '') + '/>';
+  return '<svg class="px" viewBox="0 0 48 48" aria-hidden="true">' + r + '</svg>';
+}
+
+function monogram(name) {
+  return '<span class="app-icon app-mono" aria-hidden="true">' + esc((name || '?').trim().charAt(0).toUpperCase()) + '</span>';
+}
+
+function appIconFail(img) { img.outerHTML = monogram(img.getAttribute('data-name')); }
+
+function appIcon(it) {
+  if (it.archived) return '<span class="app-icon app-dead" aria-hidden="true">' + pixelGrid() + '</span>';
+  var src = (CACHE['app-icons'] || {})[iconKey(it.url || '')];
+  return src
+    ? '<img class="app-icon" src="' + esc(src) + '" alt="" loading="lazy" data-name="' + esc(it.name || '') + '" onerror="appIconFail(this)">'
+    : monogram(it.name);
+}
+
+function makeAppCard(it) {
+  var u = it.url || '', dead = !!it.archived, link = !dead && u.startsWith('http');
+  var inner = '<div class="app-head">' + appIcon(it)
+    + '<div class="app-meta"><div class="card-top"><span class="vendor">' + (esc(it.vendor || '') || '&mdash;') + '</span>'
+    + (dead ? '' : costBadge(it.cost || '')) + '</div>'
+    + '<div class="card-name">' + esc(it.name) + '</div></div></div>'
+    + (it.desc ? '<div class="card-desc">' + esc(it.desc) + '</div>' : '')
+    + '<div class="card-foot">' + platformIcons(it.vendor, dead)
+    + (dead ? '<span class="dead-reason">' + esc(it.archived_reason || 'No longer available') + '</span>'
+            : (link ? '<span class="card-link">Visit &rarr;</span>' : ''))
+    + '</div>';
+  return link
+    ? '<div class="card app-card"><a href="' + esc(u) + '" target="_blank" rel="noopener">' + inner + '</a></div>'
+    : '<div class="card app-card' + (dead ? ' dead' : '') + '">' + inner + '</div>';
+}
+
+// ── DEAD PIXELS ───────────────────────────────────────────────────────────
+// No link on purpose: the address is gone, or now belongs to someone else.
+function makeDeadCard(it) {
+  return '<div class="card dead"><div class="card-top"><span class="vendor">' + (esc(it.vendor || '') || '&mdash;') + '</span></div>'
+    + '<div class="card-name">' + esc(it.name) + '</div>'
+    + (it.desc ? '<div class="card-desc">' + esc(it.desc) + '</div>' : '')
+    + '<div class="card-foot"><span class="tag-chip">' + esc(it.tag || '') + '</span>'
+    + '<span class="dead-reason">' + esc(it.archived_reason || 'No longer available') + '</span></div></div>';
+}
+
+function makeDeadBookCard(it) {
+  var n = esc(it.name || ''), cover = it.img || it.cover || '';
+  var img = cover
+    ? '<img class="book-cover" src="' + esc(cover) + '" alt="' + n + '" loading="lazy" onerror="this.outerHTML=\'<div class=&quot;book-cover-ph&quot;>📚</div>\'">'
+    : '<div class="book-cover-ph">📚</div>';
+  return '<div class="book-card dead">' + img + '<div class="book-body"><div class="book-title">' + n + '</div>'
+    + (it.author ? '<div class="book-author">' + esc(it.author) + '</div>' : '')
+    + '<div class="book-foot"><span class="book-tag">' + esc(it.tag && it.tag !== 'Book' ? it.tag : 'Book') + '</span>'
+    + '<span class="dead-reason">' + esc(it.archived_reason || 'No longer available') + '</span></div>'
+    + '</div></div>';
+}
+
+function entries(n) { return n.toLocaleString() + (n === 1 ? ' entry' : ' entries'); }
+
+function deadBlock(dead, make, gridClass) {
+  if (!dead.length) return '';
+  return '<div class="dead-sec"><div class="dead-head">' + pixelGrid()
+    + '<div class="dead-title">Dead Pixels</div>'
+    + '<div class="sec-badge">' + entries(dead.length) + '</div></div>'
+    + '<p class="dead-note">Resources we have collected over the years that are no longer active. Kept here as an archive.</p>'
+    + '<div class="' + gridClass + '">' + dead.map(function(it){ return make(it); }).join('') + '</div></div>';
 }
 
 function makeDictCard(it) {
@@ -434,12 +582,14 @@ function renderSections(filter, q) {
   showLoading('Loading resources...');
 
   var promises = keys.map(function(k){ return loadData(k); });
+  // app icons are a nice-to-have: without them the cards show a letter
+  if (keys.indexOf('apps') >= 0) promises.push(loadData('app-icons').catch(function(){ return {}; }));
 
   Promise.all(promises).then(function(results) {
     var html = '';
-    var total = 0;
+    var total = 0, deadTotal = 0;
 
-    results.forEach(function(data, i) {
+    results.slice(0, keys.length).forEach(function(data, i) {
       var key = keys[i];
       var items = data.slice();
 
@@ -453,23 +603,29 @@ function renderSections(filter, q) {
       }
 
       if (!items.length && q) return;
-      total += items.length;
+      var live = items.filter(function(it){ return !it.archived; });
+      var dead = items.filter(function(it){ return it.archived; });
+      total += live.length;
+      deadTotal += dead.length;
 
       if (key === 'books') {
         html += '<div class="sec">'
           + '<div class="sec-head"><div class="sec-icon">📚</div>'
           + '<div class="sec-title">Books &amp; Reference</div>'
-          + '<div class="sec-badge">' + items.length + ' entries</div></div>'
-          + '<div class="book-grid">' + items.map(makeBookCard).join('') + '</div>'
+          + '<div class="sec-badge">' + entries(live.length) + '</div></div>'
+          + (live.length ? '<div class="book-grid">' + live.map(makeBookCard).join('') + '</div>' : '')
+          + deadBlock(dead, makeDeadBookCard, 'book-grid')
           + '</div><div class="divider"></div>';
       } else {
         var sec = SECTIONS.find(function(s){ return s.key === key; });
         if (!sec) return;
+        var make = key === 'apps' ? makeAppCard : makeCard;
         html += '<div class="sec">'
           + '<div class="sec-head"><div class="sec-icon">' + sec.icon + '</div>'
           + '<div class="sec-title">' + sec.title + '</div>'
-          + '<div class="sec-badge">' + items.length.toLocaleString() + ' entries</div></div>'
-          + '<div class="grid">' + items.map(makeCard).join('') + '</div>'
+          + '<div class="sec-badge">' + entries(live.length) + '</div></div>'
+          + (live.length ? '<div class="grid">' + live.map(function(it){ return make(it); }).join('') + '</div>' : '')
+          + deadBlock(dead, key === 'apps' ? makeAppCard : makeDeadCard, 'grid')
           + '</div><div class="divider"></div>';
       }
     });
@@ -480,7 +636,8 @@ function renderSections(filter, q) {
     }
 
     main.innerHTML = html;
-    document.getElementById('rcount').textContent = total.toLocaleString() + ' results';
+    document.getElementById('rcount').textContent = total.toLocaleString() + ' results'
+      + (deadTotal ? ' · ' + deadTotal.toLocaleString() + ' dead pixels' : '');
   }).catch(function(err) {
     main.innerHTML = '<div class="empty"><div class="empty-icon">⚠️</div><div class="empty-txt">Could not load data. ' + err.message + '</div></div>';
   });

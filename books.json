@@ -1438,5 +1438,29 @@
     "url": "https://robertasneve.com/products/filmset-chronicles",
     "img": "https://robertasneve.com/cdn/shop/files/UMS_9030-2_00faaab7-81c9-43de-b9b8-f94410752ab6.jpg?v=1696868210&width=400",
     "tag": "Music & Culture"
+  },
+  {
+    "name": "On-The-Job Speech Training",
+    "author": "Raymond Franklin",
+    "vendor": "Book",
+    "desc": "",
+    "url": "",
+    "img": "https://m.media-amazon.com/images/I/41w7BwInNHL._SL500_.jpg",
+    "tag": "Leadership",
+    "archived": true,
+    "archived_reason": "Amazon listing gone",
+    "old_url": "https://www.amazon.com/dp/B00DPM70G2"
+  },
+  {
+    "name": "HDMI Uncensored",
+    "author": "Jeffrey A. Boccaccio, Derek R. Flickinger",
+    "vendor": "Book",
+    "desc": "",
+    "url": "",
+    "img": "https://images.squarespace-cdn.com/content/v1/65b8078755ddd303f05675d7/ebecaad0-1235-4324-99d7-020695e7d639/HDMI-Uncensored-Paperback-Thumb.png",
+    "tag": "Video & Color",
+    "archived": true,
+    "archived_reason": "Domain taken over",
+    "old_url": ""
   }
 ]
