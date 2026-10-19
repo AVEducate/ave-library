@@ -112,12 +112,12 @@
     "tag": "Audio"
   },
   {
-    "name": "Sony Professional",
-    "vendor": "Sony Display / IP Video Specialist",
-    "cost": "Sony Professional's certification program for display and IP video production systems. Validates proficiency in Sony professional display products, IP live production workflows, and broadcast camera systems for AV professionals and systems integrators working with Sony Pro equipment.",
-    "desc": "https://pro.sony/ue_US/support-services/technical-training",
+    "name": "Sony Display / IP Video Specialist",
+    "vendor": "Sony Professional",
+    "cost": "Paid",
+    "desc": "Sony Professional's certification program for display and IP video production systems. Validates proficiency in Sony professional display products, IP live production workflows, and broadcast camera systems for AV professionals and systems integrators working with Sony Pro equipment.",
     "url": "https://training.sony-europe.com/",
-    "tag": "Paid"
+    "tag": "Video"
   },
   {
     "name": "Dante Mastery",
@@ -344,91 +344,91 @@
     "tag": "Business / Finance"
   },
   {
-    "name": "Savant",
-    "vendor": "Savant Programmer / Authorized Integrator Certification",
-    "cost": "Savant's certification tracks for home automation integrators and programmers — covering Savant system programming, configuration, and deployment of smart home and commercial automation systems. Includes Programmer and Authorized Integrator credential levels.",
-    "desc": "https://community.savantlabs.io/c/savant-certification",
-    "url": "https://training.savant.com/",
-    "tag": "Paid"
+    "name": "Savant Programmer / Authorized Integrator Certification",
+    "vendor": "Savant",
+    "cost": "Paid",
+    "desc": "Savant's certification tracks for home automation integrators and programmers — covering Savant system programming, configuration, and deployment of smart home and commercial automation systems. Includes Programmer and Authorized Integrator credential levels.",
+    "url": "https://community.savantlabs.io/c/savant-certification",
+    "tag": "Automation"
   },
   {
-    "name": "Josh.ai",
-    "vendor": "Josh.ai Certified Dealer",
-    "cost": "Josh.ai's certification for authorized dealers integrating the Josh.ai voice control platform into residential and commercial smart environments. Covers system setup, device integration, and voice automation configuration for smart home AV professionals.",
-    "desc": "https://josh.ai/integrators",
-    "url": "https://www.josh.ai/partners/",
-    "tag": "Paid"
+    "name": "Josh.ai Certified Dealer",
+    "vendor": "Josh.ai",
+    "cost": "Paid",
+    "desc": "Josh.ai's certification for authorized dealers integrating the Josh.ai voice control platform into residential and commercial smart environments. Covers system setup, device integration, and voice automation configuration for smart home AV professionals.",
+    "url": "https://josh.ai/integrators",
+    "tag": "Automation"
   },
   {
-    "name": "ETA International",
-    "vendor": "CET / CST / CAT — Electronics & Audio Technician Certifications",
-    "cost": "ETA International's suite of electronics certifications for AV professionals: CET (Certified Electronics Technician) covers general electronics foundation; CST (Certified Service Technician) covers electronics servicing; CAT (Commercial Audio Technician) covers installation and troubleshooting of commercial sound systems.",
-    "desc": "https://www.etai.org/specialty_certifications.html",
+    "name": "CET / CST / CAT — Electronics & Audio Technician Certifications",
+    "vendor": "ETA International",
+    "cost": "Paid",
+    "desc": "ETA International's suite of electronics certifications for AV professionals: CET (Certified Electronics Technician) covers general electronics foundation; CST (Certified Service Technician) covers electronics servicing; CAT (Commercial Audio Technician) covers installation and troubleshooting of commercial sound systems.",
     "url": "https://www.etai.org/",
-    "tag": "Paid"
+    "tag": "General AV"
   },
   {
-    "name": "D-Tools",
-    "vendor": "D-Tools System Integrator Certification",
-    "cost": "D-Tools' certification for AV system integrators covering use of D-Tools SI software for AV system design, documentation, project management, and proposal generation. Validates proficiency in the industry-leading AV project documentation platform.",
-    "desc": "https://www.d-tools.com/professional-services-packages",
-    "url": "https://www.d-tools.com/training/",
-    "tag": "Paid"
+    "name": "D-Tools System Integrator Certification",
+    "vendor": "D-Tools",
+    "cost": "Paid",
+    "desc": "D-Tools' certification for AV system integrators covering use of D-Tools SI software for AV system design, documentation, project management, and proposal generation. Validates proficiency in the industry-leading AV project documentation platform.",
+    "url": "https://www.d-tools.com/professional-services-packages",
+    "tag": "General AV"
   },
   {
-    "name": "Control4 / SnapAV",
-    "vendor": "Control4 Certified Programmer",
-    "cost": "Control4's certification for system programmers covering Control4 OS3 programming, driver development, system configuration, and integration of third-party devices into Control4 smart home and commercial automation systems.",
-    "desc": "https://www.control4.com/for/integrators",
-    "url": "https://www.control4.com/training/",
-    "tag": "Paid"
+    "name": "Control4 Certified Programmer",
+    "vendor": "Control4 / SnapAV",
+    "cost": "Paid",
+    "desc": "Control4's certification for system programmers covering Control4 OS3 programming, driver development, system configuration, and integration of third-party devices into Control4 smart home and commercial automation systems.",
+    "url": "https://www.control4.com/for/integrators",
+    "tag": "Automation"
   },
   {
-    "name": "CEDIA",
-    "vendor": "CEDIA Certifications — IST / ESC-D / CIT / Networking Specialist",
-    "cost": "CEDIA's suite of residential AV and smart home certifications: IST (Integrated Systems Technician) for system integration; ESC-D (Designer) for system design and documentation; CIT (Cabling & Infrastructure Technician) for structured wiring; and Networking Specialist for residential network design. Industry-recognized credentials for home technology professionals.",
-    "desc": "https://cedia.org/smart-home-professionals/certifications/",
+    "name": "CEDIA Certifications — IST / ESC-D / CIT / Networking Specialist",
+    "vendor": "CEDIA",
+    "cost": "Paid",
+    "desc": "CEDIA's suite of residential AV and smart home certifications: IST (Integrated Systems Technician) for system integration; ESC-D (Designer) for system design and documentation; CIT (Cabling & Infrastructure Technician) for structured wiring; and Networking Specialist for residential network design. Industry-recognized credentials for home technology professionals.",
     "url": "https://www.cedia.org/education-certification",
-    "tag": "Paid"
+    "tag": "Automation"
   },
   {
-    "name": "Bose Professional",
-    "vendor": "Bose ControlSpace Designer Certification",
-    "cost": "Bose Professional's certification covering ControlSpace Designer software for DSP configuration and loudspeaker system design. Validates proficiency in programming Bose PowerMatch amplifiers, RoomMatch arrays, and installed sound systems using ControlSpace DSP platform.",
-    "desc": "https://boseprofessional.com/resources/learning-center",
-    "url": "https://pro.bose.com/en_us/support/training.html",
-    "tag": "Paid"
+    "name": "Bose ControlSpace Designer Certification",
+    "vendor": "Bose Professional",
+    "cost": "Paid",
+    "desc": "Bose Professional's certification covering ControlSpace Designer software for DSP configuration and loudspeaker system design. Validates proficiency in programming Bose PowerMatch amplifiers, RoomMatch arrays, and installed sound systems using ControlSpace DSP platform.",
+    "url": "https://boseprofessional.com/resources/learning-center",
+    "tag": "Audio"
   },
   {
-    "name": "BICSI",
-    "vendor": "RCDD — Registered Communications Distribution Designer",
-    "cost": "BICSI's prestigious RCDD credential for professionals who design, integrate, and implement information and communications technology (ICT) systems. Covers structured cabling, telecommunications infrastructure, and distribution system design — a globally recognized certification for AV and IT infrastructure professionals.",
-    "desc": "https://www.bicsi.org/education-certification/certification/rcdd/become-an-rcdd",
-    "url": "https://www.bicsi.org/education-certification/certifications/rcdd",
-    "tag": "Paid"
+    "name": "RCDD — Registered Communications Distribution Designer",
+    "vendor": "BICSI",
+    "cost": "Paid",
+    "desc": "BICSI's prestigious RCDD credential for professionals who design, integrate, and implement information and communications technology (ICT) systems. Covers structured cabling, telecommunications infrastructure, and distribution system design — a globally recognized certification for AV and IT infrastructure professionals.",
+    "url": "https://www.bicsi.org/education-certification/certification/rcdd/become-an-rcdd",
+    "tag": "Networking"
   },
   {
-    "name": "Avnu Alliance",
-    "vendor": "Milan Certified Engineer",
-    "cost": "Avnu Alliance's Milan Certified Engineer credential validating expertise in Milan AVB/TSN network interoperability — the deterministic, time-synchronized audio networking standard used in professional live sound and installed AV. Covers Milan network design, device configuration, and troubleshooting.",
-    "desc": "https://avnu.org/avnu-certification/",
-    "url": "https://avnu.org/milan/",
-    "tag": "Paid"
+    "name": "Milan Certified Engineer",
+    "vendor": "Avnu Alliance",
+    "cost": "Paid",
+    "desc": "Avnu Alliance's Milan Certified Engineer credential validating expertise in Milan AVB/TSN network interoperability — the deterministic, time-synchronized audio networking standard used in professional live sound and installed AV. Covers Milan network design, device configuration, and troubleshooting.",
+    "url": "https://avnu.org/avnu-certification/",
+    "tag": "Networking"
   },
   {
-    "name": "AQAV",
-    "vendor": "AQAV Certifications — CQT / CQL / CQD",
-    "cost": "AQAV's (Association for Quality in Audio Visual Technology) suite of quality certifications for AV professionals: CQT (Certified Quality Technician) ensures installed systems meet AV quality standards; CQL (Certified Quality Leader) covers managing and implementing AV quality programs; CQD (Certified Quality Designer) ensures system design meets AV quality standards.",
-    "desc": "https://www.aqav.org/certifications",
-    "url": "https://www.aqav.org/",
-    "tag": "Paid"
+    "name": "AQAV Certifications — CQT / CQL / CQD",
+    "vendor": "AQAV",
+    "cost": "Paid",
+    "desc": "AQAV's (Association for Quality in Audio Visual Technology) suite of quality certifications for AV professionals: CQT (Certified Quality Technician) ensures installed systems meet AV quality standards; CQL (Certified Quality Leader) covers managing and implementing AV quality programs; CQD (Certified Quality Designer) ensures system design meets AV quality standards.",
+    "url": "https://www.aqav.org/certifications",
+    "tag": "General AV"
   },
   {
-    "name": "AMX / Harman",
-    "vendor": "AMX Certified Programmer (ACP) / AMX ACE Certification",
-    "cost": "AMX's certification tracks for control system programmers: ACP (Authorized Control Programmer) covers NetLinx Studio programming and AMX control system deployment; ACE covers advanced programming and integration of AMX control systems in commercial AV environments.",
-    "desc": "https://www.amx.com/training",
-    "url": "https://training.harmanpro.com/",
-    "tag": "Paid"
+    "name": "AMX Certified Programmer (ACP) / AMX ACE Certification",
+    "vendor": "AMX / Harman",
+    "cost": "Paid",
+    "desc": "AMX's certification tracks for control system programmers: ACP (Authorized Control Programmer) covers NetLinx Studio programming and AMX control system deployment; ACE covers advanced programming and integration of AMX control systems in commercial AV environments.",
+    "url": "https://www.amx.com/training",
+    "tag": "Automation"
   }
 ]

@@ -1293,5 +1293,768 @@
     "desc": "USA",
     "url": "https://www.bluesteps.com/blog/6-ways-optimize-your-linkedin-profiles-keywords",
     "tag": "Career Resource"
+  },
+  {
+    "name": "A Crew For You",
+    "vendor": "Sports Crewing Company / Independent Crewer",
+    "desc": "Florida",
+    "url": "https://acrew4u.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Alliance Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "MS, TN, AR",
+    "url": "https://www.allianceproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Assignment Desk",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://assignmentdesk.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Barry Fialk, Inc.",
+    "vendor": "Sports Crewing Company",
+    "desc": "CT, NY, NJ",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Brace Video, LLC",
+    "vendor": "Sports Crewing Company",
+    "desc": "MN, ND, SD",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Buckeye Crewing Company",
+    "vendor": "Sports Crewing Company",
+    "desc": "Ohio",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Burke Brothers Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "Arizona",
+    "url": "https://bbptv.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Concom",
+    "vendor": "Sports Crewing Company",
+    "desc": "Worldwide",
+    "url": "http://www.concom.tv/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Crewing Alliance",
+    "vendor": "Sports Crewing Company",
+    "desc": "United States",
+    "url": "http://www.crewingalliance.com/index.html",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Dome Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "Canada",
+    "url": "https://www.domeproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Ehman Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "Hawaii",
+    "url": "https://www.ehmanproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Flood Stream",
+    "vendor": "Sports Crewing Company",
+    "desc": "AZ, NV, CA, CO, NM, TX, OR, WA, UT, OK",
+    "url": "https://floodstream.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "LTN Global",
+    "vendor": "Sports Crewing Company",
+    "desc": "Worldwide",
+    "url": "https://ltnglobal.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Lyon Video",
+    "vendor": "Sports Crewing Company",
+    "desc": "United States",
+    "url": "https://www.lyonvideo.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "North Beach Media",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "Florida",
+    "url": "https://www.northbeachmedia.com/index",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Pacific Coast Crewing",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "OR, WA, MT, ID",
+    "url": "http://www.pacificcoastcrewing.com/home.html",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "PCS Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "Texas",
+    "url": "https://www.pcsproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Pettigrew Crewing",
+    "vendor": "Sports Crewing Company",
+    "desc": "Southern California",
+    "url": "https://www.pettigrewcrewing.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Pittsburgh Crewing Company",
+    "vendor": "Sports Crewing Company",
+    "desc": "PA, WV, OH",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "PMTV",
+    "vendor": "Sports Crewing Company",
+    "desc": "United States",
+    "url": "https://www.pmtv.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "SBTVcrews, Inc.",
+    "vendor": "Sports Crewing Company / Independent Crewer",
+    "desc": "MD, DC, VA",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Second Wind Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "NC, SC, GA, AL, TN",
+    "url": "http://swpro.tv/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Sportstaff, Inc.",
+    "vendor": "Sports Crewing Company / Independent Crewer",
+    "desc": "MO, KS, NE, IA, OK",
+    "url": "http://www.sportstaffcrews.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Total Production Services",
+    "vendor": "Sports Crewing Company",
+    "desc": "United States",
+    "url": "https://www.tpsweb.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "TRO Crewing, Inc.",
+    "vendor": "Sports Crewing Company",
+    "desc": "Arizona",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Tupelo Honey",
+    "vendor": "Sports Crewing Company",
+    "desc": "United States",
+    "url": "https://www.tupelohoney.net/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Ultimate Productions, LLC",
+    "vendor": "Sports Crewing Company",
+    "desc": "CO, WY, UT",
+    "url": "https://ultimateproductions.tv/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Yes Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "LA, MS",
+    "url": "https://www.yesproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Alan Bernstein — Alan Bernstein, LLC",
+    "vendor": "Independent Crewer",
+    "desc": "Michigan",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Chrisanne Bellas",
+    "vendor": "Independent Crewer",
+    "desc": "New York",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Dan Quinn — Leverage Crewing, LLC",
+    "vendor": "Independent Crewer",
+    "desc": "Wisconsin",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Eliot Parker",
+    "vendor": "Independent Crewer",
+    "desc": "New Orleans, LA",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Gary Mosley",
+    "vendor": "Independent Crewer",
+    "desc": "WV, KY",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Glenn Sanchez",
+    "vendor": "Independent Crewer",
+    "desc": "New Mexico",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Kelley Dorner — Clarion-Chicago, LLC",
+    "vendor": "Independent Crewer",
+    "desc": "IL, IN, MI, MN, WI",
+    "url": "http://www.clarionchicago.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Kenneth Schlein",
+    "vendor": "Independent Crewer",
+    "desc": "Texas",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Mark Ballard — Mark Ballard Remotes",
+    "vendor": "Independent Crewer",
+    "desc": "New York",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Mark Fratto — Linacre Media",
+    "vendor": "Independent Crewer",
+    "desc": "MA, CT, RI, NY, PA, NJ, MD, DC, VA",
+    "url": "http://linacremedia.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Michael Nathanson — MJN Productions",
+    "vendor": "Independent Crewer",
+    "desc": "Massachusetts",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Mike Haller — St. Louis Video Crew",
+    "vendor": "Independent Crewer",
+    "desc": "St. Louis, MO",
+    "url": "https://stlouisvideocrew.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Patrick Allen — L2 Productions",
+    "vendor": "Independent Crewer",
+    "desc": "Texas",
+    "url": "https://www.l2productions.tv/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Ray Colaiacovo — Digital Waves Productions",
+    "vendor": "Independent Crewer",
+    "desc": "United States",
+    "url": "https://digitalwaveproductions.tv/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Sam Schrade — DNA Studios",
+    "vendor": "Independent Crewer",
+    "desc": "TX, OK, LA, MS, AL, AK, FL",
+    "url": "https://www.dnastudios.tv/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Scott McClain",
+    "vendor": "Independent Crewer",
+    "desc": "Nevada",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Stephen Jensen — Stephen Jensen Productions",
+    "vendor": "Independent Crewer",
+    "desc": "Las Vegas, NV",
+    "url": "https://www.sjp.vegas/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Tim Cushing",
+    "vendor": "Independent Crewer",
+    "desc": "Oklahoma",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Travis Brocato — Bounce Multimedia",
+    "vendor": "Independent Crewer",
+    "desc": "Texas",
+    "url": "https://www.bouncemultimedia.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Array Crew",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "United States and Canada",
+    "url": "https://arraycrew.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "ATEAM Tech Services",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://www.ateamtechservices.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Big Shoulders Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://www.bigshoulders.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Complete Crewing",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Chicago, IL",
+    "url": "https://completecrewing.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Crew One Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "GA, TN",
+    "url": "https://www.crew1.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Event and Media Technologies",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://eventmediatech.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Eye Magic Productions",
+    "vendor": "Film & AV Crewing Company / Independent Crewer",
+    "desc": "Worldwide",
+    "url": "https://www.eyemagicproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Film Quality Services",
+    "vendor": "Film & AV Crewing Company / Independent Crewer",
+    "desc": "Georgia",
+    "url": "https://www.filmqualityservices.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Hands 4 Events",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Belgium",
+    "url": "http://www.hands4events.be/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Power On Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "LA, TX, FL",
+    "url": "https://www.poweronav.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "ProForce Solutions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://www.proforcesolutions.net/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "QSR Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Oklahoma",
+    "url": "https://www.qsrproductionsllc.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Reliant Staffing",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Philadelphia, PA",
+    "url": "http://ravstaffing.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "ShoPros",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Ohio",
+    "url": "https://www.shoprosle.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Snake Byte Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Worldwide",
+    "url": "https://www.snakebyteproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "The Hollywood Arsenal",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "L.A., NY, MIA",
+    "url": "http://thehollywoodarsenal.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "TNK Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Arizona",
+    "url": "https://tnkproductions.net/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Secret Weapons Studios",
+    "vendor": "Online Crewing Platform",
+    "desc": "Worldwide",
+    "url": "https://secretweapon.studio/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "ShareGrid",
+    "vendor": "Online Crewing Platform",
+    "desc": "United States",
+    "url": "https://gigs.sharegrid.com/?query=Chicago%2C+IL",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Staff Me Up",
+    "vendor": "Online Crewing Platform",
+    "desc": "Worldwide",
+    "url": "https://staffmeup.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Behind The Scenes Productions",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "Washington DC",
+    "url": "http://btspav.com",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Broadcast Service Group",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://www.broadcastservicegroup.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Delack Media Group",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "Illinois",
+    "url": "https://delackmediagroup.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Insight Productions",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://insightproductionusa.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Kwokman Productions",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://www.kwok.tv/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Live Logic Productions",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "Florida",
+    "url": "https://livelogicproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Mayonnaise Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "Colorado, CO, Denver, Summit County",
+    "url": "https://mayonnaise.productions/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Neverends Production Services",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://www.neverends.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "New York Video Crews",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "New York",
+    "url": "https://newyorkvideocrews.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Northzero Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "New York, United States",
+    "url": "http://northzeroproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Purple Tally Productions",
+    "vendor": "Sports Crewing Company",
+    "desc": "MN, ND, SD",
+    "url": "http://purpletallyproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "REMSHO",
+    "vendor": "Sports Crewing Company",
+    "desc": "United States",
+    "url": "https://www.remsho.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Skillshot Media",
+    "vendor": "Sports Crewing Company / Independent Crewer",
+    "desc": "Georgia",
+    "url": "https://www.skillshot.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "The Camera 1 Group",
+    "vendor": "Sports Crewing Company",
+    "desc": "DC,MD, VA Mid Atlantic",
+    "url": "http://thecamera1group.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "TV Pro Gear",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "USA",
+    "url": "https://www.tvprogear.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Video Crews FLA",
+    "vendor": "Sports Crewing Company / Film & AV Crewing Company",
+    "desc": "Florida",
+    "url": "https://videocrewsfla.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "WindRose Media",
+    "vendor": "Sports Crewing Company",
+    "desc": "US, DC, VA, MD",
+    "url": "http://windrosemedia.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Atomic Television",
+    "vendor": "Film & AV Crewing Company / Independent Crewer",
+    "desc": "United States",
+    "url": "https://atomic-tv.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "CrewInk, Inc",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Colorado",
+    "url": "https://sites.google.com/a/crewink.com/www/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Extra Syrup",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Anywhere",
+    "url": "http://www.extra-syrup.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Fixr",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "DC",
+    "url": "https://fixr.media",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Gambit Stage Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://www.gambitstageproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "HGIG Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://hgigproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Juice Box A/V",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Texas",
+    "url": "https://www.juiceboxav.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Light Theif Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Pennsylvania",
+    "url": "https://lightthiefproductions.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "LiT Event Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "South Florida",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "MajikboD Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "VA, NC, SC, GA, FL, TX",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Metramedia Broadcasting & Studios",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "PHI, NY, LA, DC",
+    "url": "https://www.metramediastudios.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Michael Andrews Audio Visual (MAAVS)",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "NY, NJ, United States",
+    "url": "http://www.maavs.com",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "MP Productions",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "ATL, BOS, DAL, CHA, CHR, JAX, LA, MIA, NSH, ORL, HH, SAV, SD, TB, DC. DEN",
+    "url": "https://www.mpproductionsinc.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Pangea AV",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "TN,  ATL,  Louisville, KY",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Shadow Monkey Stage Crew",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Colorado",
+    "url": "https://www.shadowmonkey.org/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Show Masters Production Logistics",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "TX, FL, GA, TN, CO",
+    "url": "https://showmasters.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "The Crew Company",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "Worldwide",
+    "url": "https://www.crewcompany.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "The Crew Store",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://www.thecrewstore.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "TNDV Television",
+    "vendor": "Film & AV Crewing Company",
+    "desc": "United States",
+    "url": "https://www.tndv.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "David Woo",
+    "vendor": "Independent Crewer",
+    "desc": "Hawai'i",
+    "url": "https://davidwoo.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Alex Harris — Alexander Audio LLC",
+    "vendor": "Independent Crewer",
+    "desc": "New York, New Jersey, PA",
+    "url": "http://www.alexanderaudiony.com",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Larissa Garcia-Baab",
+    "vendor": "Independent Crewer",
+    "desc": "TX, LA, MS, GA, NY, CA - Will travel",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Megan Bloom — Moon Bounce Media",
+    "vendor": "Independent Crewer",
+    "desc": "Washington DC Area",
+    "url": "https://moonbouncemedia.com/",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Jillian Fudali",
+    "vendor": "Independent Crewer",
+    "desc": "CA, CO, USA based, willing to travel",
+    "url": "",
+    "tag": "Crew Directory"
+  },
+  {
+    "name": "Taylor San Miguel",
+    "vendor": "Independent Crewer",
+    "desc": "PA/NJ/NY/FL Local deals - will travel",
+    "url": "http://taylorsanmiguel.tv/",
+    "tag": "Crew Directory"
   }
 ]

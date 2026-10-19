@@ -5,27 +5,34 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>The AV Library · AV Educate</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 :root{
+  /* AVE type: condensed caps for display (aveducate.com uses Rama Gothic; Oswald is the closest free match),
+     Helvetica Neue for body, Space Mono for labels */
+  --display:'Oswald','Helvetica Neue',Arial,sans-serif;
+  --body:'Helvetica Neue',Helvetica,Arial,sans-serif;
+  --mono:'Space Mono',ui-monospace,Menlo,monospace;
   --teal:#1ABC9C;--teal-dim:rgba(26,188,156,.13);--teal-border:rgba(26,188,156,.32);
   --navy:#0a0e14;--card-bg:rgba(255,255,255,.035);--card-border:rgba(255,255,255,.08);
   --card-hover:rgba(26,188,156,.07);--white:#F8FBFF;--muted:rgba(248,251,255,.5);
   --gold:#F5A623;--gold-dim:rgba(245,166,35,.13);--gold-border:rgba(245,166,35,.32);
 }
-html{min-height:100%;background:var(--navy);color:var(--white);font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;scroll-behavior:smooth}
+html{min-height:100%;background:var(--navy);color:var(--white);font-family:var(--body);-webkit-font-smoothing:antialiased;scroll-behavior:smooth}
 /* ── HERO ── */
 .hero{position:relative;text-align:center;padding:64px 24px 48px;overflow:hidden}
 .hero-bg{position:absolute;inset:0;background-image:linear-gradient(rgba(26,188,156,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(26,188,156,.05) 1px,transparent 1px);background-size:48px 48px;pointer-events:none}
 .hero-glow{position:absolute;top:-100px;left:50%;transform:translateX(-50%);width:700px;height:340px;background:radial-gradient(ellipse,rgba(26,188,156,.13) 0%,transparent 70%);pointer-events:none}
-.eyebrow{font-family:'DM Mono',monospace;font-size:11px;letter-spacing:.18em;color:var(--teal);text-transform:uppercase;margin-bottom:16px;opacity:.8}
-h1{font-family:'Bebas Neue',sans-serif;font-size:clamp(64px,10vw,112px);line-height:.92;letter-spacing:.02em;color:var(--white)}
+.wordmark{font-family:var(--display);font-weight:600;font-size:15px;letter-spacing:.24em;text-transform:uppercase;color:var(--white);margin-bottom:10px}
+.wordmark a{color:inherit;text-decoration:none}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.18em;color:var(--teal);text-transform:uppercase;margin-bottom:16px;opacity:.8}
+h1{font-family:var(--display);font-weight:700;text-transform:uppercase;font-size:clamp(56px,9vw,104px);line-height:.98;letter-spacing:.08em;color:var(--white)}
 h1 span{color:var(--teal)}
 .hero-sub{font-size:15px;color:var(--muted);max-width:580px;margin:16px auto 0;line-height:1.6}
 .stats{display:flex;justify-content:center;align-items:center;gap:0;margin-top:32px;flex-wrap:wrap}
 .stat{text-align:center;padding:0 20px}
-.stat-n{font-family:'Bebas Neue',sans-serif;font-size:34px;color:var(--teal);line-height:1}
+.stat-n{font-family:var(--display);font-weight:600;font-size:30px;letter-spacing:.04em;color:var(--teal);line-height:1.1}
 .stat-n.gold{color:var(--gold)}
 .stat-l{font-size:10px;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;margin-top:3px}
 .stat-d{width:1px;height:32px;background:var(--card-border)}
@@ -33,19 +40,19 @@ h1 span{color:var(--teal)}
 .controls{max-width:1200px;margin:0 auto;padding:24px 24px 0;display:flex;flex-direction:column;gap:14px}
 .search-wrap{position:relative}
 .search-wrap svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.4;pointer-events:none}
-#search{width:100%;background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:11px 14px 11px 36px;font-size:14px;color:var(--white);font-family:'DM Sans',sans-serif;outline:none;transition:.2s}
+#search{width:100%;background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:11px 14px 11px 36px;font-size:14px;color:var(--white);font-family:var(--body);outline:none;transition:.2s}
 #search:focus{border-color:var(--teal-border);background:rgba(26,188,156,.04)}
 #search::placeholder{color:var(--muted)}
 .filters{display:flex;flex-wrap:wrap;gap:8px}
-.pill{background:var(--card-bg);border:1px solid var(--card-border);border-radius:20px;padding:6px 14px;font-size:12px;color:var(--muted);cursor:pointer;transition:.18s;font-family:'DM Sans',sans-serif;white-space:nowrap}
+.pill{background:var(--card-bg);border:1px solid var(--card-border);border-radius:20px;padding:6px 14px;font-size:12px;color:var(--muted);cursor:pointer;transition:.18s;font-family:var(--body);white-space:nowrap}
 .pill:hover{border-color:var(--teal-border);color:var(--white)}
 .pill.on{background:var(--teal-dim);border-color:var(--teal-border);color:var(--teal)}
 .dict-pill.on{background:var(--gold-dim);border-color:var(--gold-border);color:var(--gold)}
-.result-count{font-size:11px;color:var(--muted);font-family:'DM Mono',monospace;align-self:flex-start}
+.result-count{font-size:11px;color:var(--muted);font-family:var(--mono);align-self:flex-start}
 /* ── DICT CAT BAR ── */
 .hidden{display:none!important}
 .dict-filters{display:flex;flex-wrap:wrap;gap:6px;max-width:1200px;margin:0 auto;padding:12px 24px 0}
-.dpill{background:var(--card-bg);border:1px solid var(--card-border);border-radius:16px;padding:4px 12px;font-size:11px;color:var(--muted);cursor:pointer;transition:.18s;font-family:'DM Sans',sans-serif}
+.dpill{background:var(--card-bg);border:1px solid var(--card-border);border-radius:16px;padding:4px 12px;font-size:11px;color:var(--muted);cursor:pointer;transition:.18s;font-family:var(--body)}
 .dpill:hover{border-color:var(--gold-border);color:var(--white)}
 .dpill.on{background:var(--gold-dim);border-color:var(--gold-border);color:var(--gold)}
 /* ── MAIN GRID ── */
@@ -55,7 +62,7 @@ h1 span{color:var(--teal)}
 .sec-icon{font-size:18px}
 .gold-icon{filter:drop-shadow(0 0 6px rgba(245,166,35,.4))}
 .sec-title{font-size:16px;font-weight:600;color:var(--white)}
-.sec-badge{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:2px 8px;margin-left:auto}
+.sec-badge{font-family:var(--mono);font-size:10px;color:var(--muted);background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:2px 8px;margin-left:auto}
 .gold-badge{color:var(--gold);border-color:var(--gold-border);background:var(--gold-dim)}
 .divider{height:1px;background:var(--card-border);margin:32px 0}
 /* ── CARDS ── */
@@ -64,19 +71,19 @@ h1 span{color:var(--teal)}
 .card:hover{border-color:var(--teal-border);background:var(--card-hover);transform:translateY(-1px)}
 .card a{text-decoration:none;color:inherit;display:flex;flex-direction:column;gap:8px;height:100%}
 .card-top{display:flex;align-items:center;justify-content:space-between;gap:8px}
-.vendor{font-family:'DM Mono',monospace;font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
+.vendor{font-family:var(--mono);font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
 .card-name{font-size:14px;font-weight:600;color:var(--white);line-height:1.3}
 .card-desc{font-size:12px;color:var(--muted);line-height:1.5;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .card-foot{display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:8px}
 .card-link{font-size:11px;color:var(--teal);font-weight:500;text-decoration:none}
 .card-link:hover{text-decoration:underline}
 /* badges */
-.badge{font-size:10px;padding:2px 7px;border-radius:8px;font-family:'DM Mono',monospace;white-space:nowrap}
+.badge{font-size:10px;padding:2px 7px;border-radius:8px;font-family:var(--mono);white-space:nowrap;max-width:60%;overflow:hidden;text-overflow:ellipsis}
 .b-free{background:rgba(26,188,156,.15);color:var(--teal);border:1px solid rgba(26,188,156,.3)}
 .b-paid{background:rgba(245,166,35,.12);color:var(--gold);border:1px solid rgba(245,166,35,.25)}
 .b-label{background:var(--card-bg);color:var(--muted);border:1px solid var(--card-border)}
 /* tag chips */
-.tag-chip{font-size:9px;padding:2px 7px;border-radius:8px;font-family:'DM Mono',monospace;text-transform:uppercase;letter-spacing:.04em}
+.tag-chip{font-size:9px;padding:2px 7px;border-radius:8px;font-family:var(--mono);text-transform:uppercase;letter-spacing:.04em}
 .t-audio{background:#102030;color:#60b0e0}.t-video{background:#102010;color:#60c060}
 .t-lighting{background:#302010;color:#e0b040}.t-networking{background:#201030;color:#b060d0}
 .t-control{background:#102028;color:#40d0c0}.t-general{background:#202020;color:#a0a0a0}
@@ -107,53 +114,73 @@ h1 span{color:var(--teal)}
 .book-cover-ph{width:100%;aspect-ratio:2/3;display:flex;align-items:center;justify-content:center;font-size:40px;background:rgba(255,255,255,.03)}
 .book-body{padding:10px;display:flex;flex-direction:column;gap:4px;flex:1}
 .book-title{font-size:12px;font-weight:600;color:var(--white);line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.book-author{font-size:11px;color:var(--muted);line-height:1.3;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
 .book-foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:6px}
-.book-tag{font-size:9px;color:var(--muted);font-family:'DM Mono',monospace;text-transform:uppercase}
+.book-tag{font-size:9px;color:var(--muted);font-family:var(--mono);text-transform:uppercase}
 .book-buy{font-size:11px;color:var(--teal);font-weight:500;opacity:0;transition:.16s}
 .book-card:hover .book-buy{opacity:1}
-.book-aff{font-family:'DM Mono',monospace;font-size:9px;color:rgba(26,188,156,.4);margin-top:2px}
+.book-aff{font-family:var(--mono);font-size:9px;color:rgba(26,188,156,.4);margin-top:2px}
 /* ── LOADING STATE ── */
 .loading{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:80px 24px;gap:16px;color:var(--muted)}
 .spinner{width:32px;height:32px;border:2px solid var(--card-border);border-top-color:var(--teal);border-radius:50%;animation:spin .8s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
-.loading-txt{font-size:13px;font-family:'DM Mono',monospace}
+.loading-txt{font-size:13px;font-family:var(--mono)}
 /* ── EMPTY STATE ── */
 .empty{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:80px 24px;gap:12px}
 .empty-icon{font-size:40px;opacity:.4}
 .empty-txt{font-size:14px;color:var(--muted)}
 /* ── DICT PAGINATION ── */
-.load-more{display:block;margin:24px auto 0;background:var(--gold-dim);border:1px solid var(--gold-border);border-radius:10px;padding:10px 28px;font-size:13px;color:var(--gold);cursor:pointer;font-family:'DM Sans',sans-serif;transition:.18s}
+.load-more{display:block;margin:24px auto 0;background:var(--gold-dim);border:1px solid var(--gold-border);border-radius:999px;padding:10px 28px;font-size:14px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);cursor:pointer;font-family:var(--display);transition:.18s}
 .load-more:hover{background:rgba(245,166,35,.2)}
 /* ── CTA ── */
 .cta{text-align:center;padding:48px 24px 64px;border-top:1px solid var(--card-border)}
-.cta h3{font-family:'Bebas Neue',sans-serif;font-size:28px;letter-spacing:.06em;color:var(--white);margin-bottom:8px}
+.cta h3{font-family:var(--display);font-weight:600;font-size:28px;letter-spacing:.14em;color:var(--white);margin-bottom:8px}
 .cta p{font-size:14px;color:var(--muted);margin-bottom:20px}
-.cta-btn{display:inline-block;background:var(--teal);color:#0a0e14;font-weight:700;font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding:12px 28px;border-radius:8px;text-decoration:none;transition:.18s}
-.cta-btn:hover{background:#17a884;transform:translateY(-1px)}
+/* AVE button: white pill, black condensed caps (matches "JOIN THE AVE FAM" on aveducate.com) */
+.cta-btn{display:inline-block;background:#fff;color:#000;font-family:var(--display);font-weight:500;font-size:16px;letter-spacing:.12em;text-transform:uppercase;padding:12px 30px;border-radius:999px;border:1px solid #fff;text-decoration:none;transition:.18s}
+.cta-btn:hover{background:transparent;color:#fff}
+.disclosure{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:28px;line-height:1.6}
+/* ── SIGN-UP GATE (shown when the library is opened outside aveducate.com) ── */
+.gate{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:48px 24px}
+.gate .hero-sub{margin-bottom:28px}
+.gate-note{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:18px;letter-spacing:.06em}
 </style>
 </head>
 <body>
 
+<div id="gate" class="hero gate hidden">
+  <div class="hero-bg"></div>
+  <div class="hero-glow"></div>
+  <div class="wordmark"><a href="https://www.aveducate.com" target="_top">[ AV Educate ]</a></div>
+  <div class="eyebrow">Free Member Resource</div>
+  <h1>The AV<br><span>Library</span></h1>
+  <p class="hero-sub">Apps, training, software, books, certifications, careers and a 10,223-term AV dictionary &mdash; free for the AV community. Join the AVE Fam with your email to get access.</p>
+  <a class="cta-btn" id="gateBtn" href="https://www.aveducate.com/avlibrary" target="_top">Join Free to Unlock</a>
+  <div class="gate-note">Already signed up? Open the library from aveducate.com.</div>
+</div>
+
+<div id="library">
 <div class="hero">
   <div class="hero-bg"></div>
   <div class="hero-glow"></div>
-  <div class="eyebrow">[ AV Educate ] &middot; Member Resource Hub</div>
-  <h1>THE AV<br><span>LIBRARY</span></h1>
+  <div class="wordmark"><a href="https://www.aveducate.com" target="_top">[ AV Educate ]</a></div>
+  <div class="eyebrow">Member Resource Hub</div>
+  <h1>The AV<br><span>Library</span></h1>
   <p class="hero-sub">Thousands of curated resources for the AV workforce &mdash; apps, training, software, books, certifications, careers, and a full AV dictionary with 10,223 clean, sorted terms.</p>
   <div class="stats">
-    <div class="stat"><div class="stat-n">135</div><div class="stat-l">Apps</div></div>
+    <div class="stat"><div class="stat-n" data-stat="apps">129</div><div class="stat-l">Apps</div></div>
     <div class="stat-d"></div>
-    <div class="stat"><div class="stat-n">347</div><div class="stat-l">Courses</div></div>
+    <div class="stat"><div class="stat-n" data-stat="training">345</div><div class="stat-l">Courses</div></div>
     <div class="stat-d"></div>
-    <div class="stat"><div class="stat-n">169</div><div class="stat-l">Software</div></div>
+    <div class="stat"><div class="stat-n" data-stat="software">168</div><div class="stat-l">Software</div></div>
     <div class="stat-d"></div>
-    <div class="stat"><div class="stat-n">146</div><div class="stat-l">Books</div></div>
+    <div class="stat"><div class="stat-n" data-stat="books">159</div><div class="stat-l">Books</div></div>
     <div class="stat-d"></div>
-    <div class="stat"><div class="stat-n">54</div><div class="stat-l">Certs</div></div>
+    <div class="stat"><div class="stat-n" data-stat="certs">54</div><div class="stat-l">Certs</div></div>
     <div class="stat-d"></div>
-    <div class="stat"><div class="stat-n">185</div><div class="stat-l">Careers</div></div>
+    <div class="stat"><div class="stat-n" data-stat="careers">294</div><div class="stat-l">Careers</div></div>
     <div class="stat-d"></div>
-    <div class="stat"><div class="stat-n">25</div><div class="stat-l">Podcasts</div></div>
+    <div class="stat"><div class="stat-n" data-stat="podcasts">25</div><div class="stat-l">Podcasts</div></div>
     <div class="stat-d"></div>
     <div class="stat"><div class="stat-n gold">10,223</div><div class="stat-l">AV Terms</div></div>
   </div>
@@ -185,6 +212,8 @@ h1 span{color:var(--teal)}
   <h3>GOT A RESOURCE TO ADD?</h3>
   <p>Help grow the library for the whole AV community.</p>
   <a class="cta-btn" href="mailto:info@aveducate.com">Submit a Resource</a>
+  <p class="disclosure">[ AV Educate ] is a 501(c)(3) nonprofit. As an Amazon Associate, AV Educate earns from qualifying purchases &mdash; at no extra cost to you.</p>
+</div>
 </div>
 
 <script>
@@ -193,6 +222,34 @@ h1 span{color:var(--teal)}
 // On GitHub Pages this will be: './data'  (files in a /data subfolder)
 // For local testing with python3 -m http.server: './data'
 const DATA_BASE = '.';
+
+// ── SIGN-UP GATE ──────────────────────────────────────────────────────────
+// The library is free with an email sign-up on aveducate.com. People reach it
+// through the hidden Squarespace page that embeds this site, so the library
+// only shows when it is framed by aveducate.com (or Squarespace's editor).
+// Opened directly, it shows a "join free" screen that links to SIGNUP_URL.
+// This is a soft gate: the JSON data stays public.
+const SIGNUP_URL = 'https://www.aveducate.com/avlibrary';
+const ALLOWED_PARENTS = [/(^|\.)aveducate\.com$/, /(^|\.)squarespace\.com$/, /^localhost$/, /^127\.0\.0\.1$/];
+
+function parentHost() {
+  try {
+    var ao = window.location.ancestorOrigins;
+    if (ao && ao.length) return new URL(ao[ao.length - 1]).hostname;
+  } catch (e) {}
+  try { if (document.referrer) return new URL(document.referrer).hostname; } catch (e) {}
+  return '';
+}
+
+function libraryAllowed() {
+  var framed;
+  try { framed = window.self !== window.top; } catch (e) { framed = true; }
+  if (!framed) return false;
+  var host = parentHost();
+  // Firefox has no ancestorOrigins and some parents send no referrer: let those through
+  if (!host) return true;
+  return ALLOWED_PARENTS.some(function(re) { return re.test(host); });
+}
 
 // ── STATE ─────────────────────────────────────────────────────────────────
 const CACHE = {};           // loaded JSON stored here so we never fetch twice
@@ -206,7 +263,7 @@ const SECTIONS = [
   {key:'apps',     icon:'📱', title:'Apps & Tools'},
   {key:'training', icon:'🎓', title:'Training & Courses'},
   {key:'software', icon:'💻', title:'Software'},
-  {key:'careers',  icon:'💼', title:'Careers, Agencies & Resources'},
+  {key:'careers',  icon:'💼', title:'Careers, Agencies, Crews & Resources'},
   {key:'certs',    icon:'🏆', title:'Certifications'},
   {key:'workbox',  icon:'🛠️', title:'WorkBox — Gear & Field Essentials'},
   {key:'community',icon:'👥', title:'Community, Podcasts & Events'},
@@ -222,7 +279,7 @@ const TC = {
   'AV Software':'t-software','VJ Software':'t-software','Playback Pro':'t-software',
   'Digital Signage':'t-software','Freelancer / Labor Form':'t-career',
   'Job Posting Site':'t-job','Agency':'t-agency','Career Resource':'t-resource',
-  'WorkBox':'t-general','App':'t-general',
+  'WorkBox':'t-general','App':'t-general','Crew Directory':'t-agency',
 };
 const DC = {
   'Video / Virtual Production':'dt-video','Audio':'dt-audio','Lighting':'dt-lighting',
@@ -248,7 +305,18 @@ function loadData(key) {
 function preloadAll() {
   var keys = SECTIONS.map(function(s){ return s.key; });
   keys.push('books');
-  keys.forEach(function(k){ loadData(k).catch(function(){}); });
+  keys.forEach(function(k){ loadData(k).then(function(){ updateStats(); }).catch(function(){}); });
+}
+
+// hero counts follow the data files, so they stay right when the sheet grows
+function updateStats() {
+  document.querySelectorAll('[data-stat]').forEach(function(el) {
+    var key = el.getAttribute('data-stat');
+    var src = key === 'podcasts' ? CACHE.community : CACHE[key];
+    if (!src) return;
+    var n = key === 'podcasts' ? src.filter(function(it){ return it.tag === 'Podcast'; }).length : src.length;
+    el.textContent = n.toLocaleString();
+  });
 }
 
 // ── HELPERS ───────────────────────────────────────────────────────────────
@@ -262,10 +330,10 @@ function costBadge(c) {
   if (!c) return '';
   var l = c.toLowerCase();
   if (l === 'free' || l === 'online - free' || (l.includes('free') && !l.includes('paid')))
-    return '<span class="badge b-free">' + esc(c) + '</span>';
+    return '<span class="badge b-free" title="' + esc(c) + '">' + esc(c) + '</span>';
   if (l === 'paid' || l.includes('paid'))
-    return '<span class="badge b-paid">' + esc(c) + '</span>';
-  return '<span class="badge b-label">' + esc(c) + '</span>';
+    return '<span class="badge b-paid" title="' + esc(c) + '">' + esc(c) + '</span>';
+  return '<span class="badge b-label" title="' + esc(c) + '">' + esc(c) + '</span>';
 }
 
 function makeCard(it) {
@@ -287,11 +355,12 @@ function makeBookCard(it) {
   var n = esc(it.name||''), u = it.url||'', cover = it.img||it.cover||'';
   var isAmz = u.includes('amazon.com') || u.includes('amzn.to');
   var img = cover
-    ? '<img class="book-cover" src="' + esc(cover) + '" alt="' + n + '" loading="lazy">'
+    ? '<img class="book-cover" src="' + esc(cover) + '" alt="' + n + '" loading="lazy" onerror="this.outerHTML=\'<div class=&quot;book-cover-ph&quot;>📚</div>\'">'
     : '<div class="book-cover-ph">📚</div>';
   return '<div class="book-card"><a href="' + esc(u) + '" target="_blank" rel="noopener">'
     + img + '<div class="book-body"><div class="book-title">' + n + '</div>'
-    + '<div class="book-foot"><span class="book-tag">Book</span>'
+    + (it.author ? '<div class="book-author">' + esc(it.author) + '</div>' : '')
+    + '<div class="book-foot"><span class="book-tag">' + esc(it.tag && it.tag !== 'Book' ? it.tag : 'Book') + '</span>'
     + '<span class="book-buy">' + (isAmz ? 'Buy on Amazon' : 'Shop') + ' &rarr;</span></div>'
     + (isAmz ? '<div class="book-aff">Affiliate &mdash; supports AVE</div>' : '')
     + '</div></a></div>';
@@ -452,6 +521,13 @@ function render() {
 
 // ── INIT ──────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function() {
+  if (!libraryAllowed()) {
+    document.getElementById('gateBtn').href = SIGNUP_URL;
+    document.getElementById('library').classList.add('hidden');
+    document.getElementById('gate').classList.remove('hidden');
+    return;
+  }
+
   // pill clicks
   document.querySelectorAll('.pill').forEach(function(btn) {
     btn.addEventListener('click', function() {

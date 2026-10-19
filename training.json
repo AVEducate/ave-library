@@ -520,14 +520,6 @@
     "tag": "Audio"
   },
   {
-    "name": "Various Audio Training on troubleshooting audio",
-    "vendor": "SND",
-    "desc": "The Pro Audio Files' collection of audio troubleshooting tutorials, techniques articles, and practical guides covering common live sound and studio audio problems. A broad collection of free and paid content from working engineers covering real-world audio problem-solving scenarios.",
-    "url": "https://www.proaudiofiles.com/",
-    "cost": "Free",
-    "tag": "Audio"
-  },
-  {
     "name": "Waves Soundgrid Certification",
     "vendor": "SND",
     "desc": "Waves Audio's SoundGrid certification program covering SoundGrid network audio infrastructure, server setup, plugin management, and low-latency live processing workflows. Certification validates competency in deploying Waves SoundGrid systems for live events and broadcast applications.",
@@ -1136,10 +1128,10 @@
     "tag": "Video"
   },
   {
-    "name": "Video Demystified 3rd Edition eBook",
+    "name": "Video Demystified, 3rd Edition",
     "vendor": "VID",
     "desc": "Video Demystified, 3rd Edition by Keith Jack — a comprehensive technical reference covering digital video formats, compression standards, signal processing, and interface specifications. A foundational reference for video engineers working across broadcast, streaming, and live event production.",
-    "url": "https://www.amazon.com/dp/0750678429?tag=aveducate09-20",
+    "url": "https://www.amazon.com/dp/1878707566?tag=aveducate09-20",
     "cost": "Free",
     "tag": "Video"
   },
@@ -1620,14 +1612,6 @@
     "vendor": "Lighting Trainer",
     "desc": "Lighting Trainer — online resource for entertainment lighting education covering console programming, fixture technology, DMX networking, and practical show production. Structured content for lighting technicians building foundational and advanced technical skills.",
     "url": "https://www.lightingtechnician.com/",
-    "cost": "Free",
-    "tag": "Lighting"
-  },
-  {
-    "name": "Lighting White Papers on DMX from Doug Fleenor",
-    "vendor": "Doug Fleenor",
-    "desc": "Doug Fleenor Design's white paper collection covering DMX512 protocol fundamentals, signal distribution, splitters, isolation, opto-coupling, and common DMX troubleshooting scenarios. Authoritative technical reference for lighting and AV professionals working with DMX systems.",
-    "url": "https://www.dfd.net/resources/",
     "cost": "Free",
     "tag": "Lighting"
   },
@@ -2403,7 +2387,7 @@
     "name": "Ashley's Book of Knots",
     "vendor": "Rigging",
     "desc": "Ashley's Book of Knots by Clifford W. Ashley — the definitive knot encyclopedia featuring over 3,800 knots with illustrations and practical applications. An essential reference for riggers, stagehands, and production professionals who work with rope, cordage, and knot-dependent load securing in entertainment production.",
-    "url": "https://www.amazon.com/dp/0517209721?tag=aveducate09-20",
+    "url": "https://www.amazon.com/dp/0385040253?tag=aveducate09-20",
     "cost": "",
     "tag": "Rigging"
   },

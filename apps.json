@@ -68,7 +68,7 @@
     "vendor": "iOS & Android",
     "cost": "FREE",
     "desc": "AV Buddy is a essential information and calculation tool which will assist your Audio Visual needs. Including pinouts, charts, cut lengths, diagrams, clear AV Connector photos, descriptions, AV Calculations. Each connector has a description with useful information.",
-    "url": "https://www.koendigital.com",
+    "url": "https://apps.apple.com/us/app/av-buddy/id476993821",
     "tag": "App"
   },
   {
@@ -144,14 +144,6 @@
     "tag": "App"
   },
   {
-    "name": "GrandMA Remote",
-    "vendor": "iOS",
-    "cost": "FREE",
-    "desc": "The grandMA consoles are the core of the fully integrated MA system. The grandMA consoles are able to control – in the most elegant manner – moving lights, conventional lights, and effects, as well as LEDs and video. The reliable and proven operational philosophy allows a direct, flexible and intuitive way of working.",
-    "url": "https://apps.apple.com/us/app/magicq-remote-control/id896631272",
-    "tag": "App"
-  },
-  {
     "name": "GRIDZ",
     "vendor": "iOS",
     "cost": "FREE",
@@ -173,14 +165,6 @@
     "cost": "FREE",
     "desc": "Lenspro allows the calculations of lenses:",
     "url": "http://www.keuwl.com/LightMeter/",
-    "tag": "App"
-  },
-  {
-    "name": "Lighting Handbook",
-    "vendor": "iOS & Android",
-    "cost": "4.99",
-    "desc": "Lighting handbook provides detailed information on nearly 1000 moving lights, consoles, dimmers, effects, smoke machines and more. It also provides pinout information for the most popular connectors used in the industry. Download product manuals for offline viewing, access 3 phase colour information, industry links and lots more!",
-    "url": "https://apps.apple.com/us/app/lighting-handbook/id335372862",
     "tag": "App"
   },
   {
@@ -232,14 +216,6 @@
     "tag": "App"
   },
   {
-    "name": "Plug Finder",
-    "vendor": "iOS & Android",
-    "cost": "FREE",
-    "desc": "Ever wondered what all those connections are on your new TV or computer?\n\nOr what all those cables you have are supposed to do anyway?\n\nThen this is the app for you!\n\nPlug Finder is the near-effortless reference app that assists you in finding what plugs and cables do, and what they look like.  There are two ways of accomplishing this: Either flick through the intuitive plug viewer to determine the right plug, or scroll through the names and symbols to quickly find what you are looking for.",
-    "url": "https://www.atmandev.com",
-    "tag": "App"
-  },
-  {
     "name": "ProjectorCalc",
     "vendor": "iOS",
     "cost": "2.99",
@@ -252,7 +228,7 @@
     "vendor": "iOS & Android",
     "cost": "6.99",
     "desc": "Projectionst is a lens calculator for the professional A/V Technician. \n\nIt also contains a detailed product specification database of most common professional high end projectors from Barco, Christie digital, Projection Design, Panasonic, Sanyo and more are included. \n\nThe app can be used to calculate projector lens & distance at a given screen size, or calculate screen size from a given distance & lens for a particular projector. In addition many edge blend calculations can be made.",
-    "url": "http://www.neodarque.com/Projectionist/About",
+    "url": "https://apps.apple.com/us/app/projectionist/id401454706",
     "tag": "App"
   },
   {
@@ -261,14 +237,6 @@
     "cost": "FREE",
     "desc": "- Noise Temperature to Noise Figure Converter\n- Free Space Path Loss Calculator\n- Microstrip Mitred Bend Calculator\n- EIRP Calculator\n- Radar Range Calculator\n- SAR Calculator\n- RF Transformer Calculator\n- Time Domain Reflectrometry Calculator\n- Spurious Free Dynamic Range Calculator\n- Antenna Near Field Calculator\n- Parabolic Reflector Antenna Gain Calculator\n- Friis Transmission Calculator\n\nAnd many more...",
     "url": "https://www.everythingrf.com",
-    "tag": "App"
-  },
-  {
-    "name": "Shadow Magic",
-    "vendor": "iOS",
-    "cost": "14.99",
-    "desc": "A virtual light lab, or Black Box theatre for visualizing lighting, color, shadows, and scenery.",
-    "url": "https://crossroadsmotorsport.com/index.html",
     "tag": "App"
   },
   {
@@ -323,8 +291,8 @@
     "name": "WideScreen Pro",
     "vendor": "iOS",
     "cost": "4.99",
-    "desc": "The entire collection of gels in Stagehand is searchable not only by its name, number, and description, but also by color with the built-in color search that allows you to select a color from the color wheel and see the closest matches available to the selected color.",
-    "url": "https://apps.apple.com/us/app/widescreenpro/id386152791",
+    "desc": "Widescreen and aspect ratio calculator for video professionals.",
+    "url": "https://apps.apple.com/us/app/widescreen-pro/id327375070",
     "tag": "App"
   },
   {
@@ -380,7 +348,7 @@
     "vendor": "iOS",
     "cost": "FREE",
     "desc": "Comprehensive reference guide for connector pinouts across audio, video, data, and power cables. Covers XLR, HDMI, DisplayPort, RJ45, and hundreds of other connectors used in AV production. An essential quick-reference tool for techs in the field.",
-    "url": "https://play.google.com/store/apps/details?id=com.embu.pinoutsfree&hl=en&fbclid=IwAR21MLCplpZshKFLCb53yWCN0Zz6tF9-nVKNmL-QvAvXCC4UGqXxxAUDDqg",
+    "url": "https://apps.apple.com/us/app/electronic-component-pinouts/id1502320574",
     "tag": "App"
   },
   {
@@ -412,7 +380,7 @@
     "vendor": "iOS & Android",
     "cost": "Paid",
     "desc": "Advanced multi-touch MIDI and OSC controller for live performance, studio use, and show control. Create fully custom control interfaces with a powerful visual editor supporting complex interactions and scripting. A professional-grade remote control solution used by audio engineers, lighting designers, and media server operators.",
-    "url": "https://apps.apple.com/us/app/lemur/id481290621",
+    "url": "https://apps.apple.com/us/app/lemur/id6739544164",
     "tag": "App"
   },
   {
@@ -920,14 +888,6 @@
     "tag": "App"
   },
   {
-    "name": "AV Buddy Pro",
-    "vendor": "iOS",
-    "cost": "Paid",
-    "desc": "Professional upgrade to AV Buddy with expanded calculators, pinouts, reference charts, and AV-over-IP references. Covers connector pinouts, cable lengths, dB conversion, aspect ratios, and networking calculators in one app. An indispensable field reference tool for AV technicians on any type of production.",
-    "url": "https://apps.apple.com/us/app/av-buddy-pro/id669965912",
-    "tag": "App"
-  },
-  {
     "name": "XTEN-AV Online Calculators",
     "vendor": "Browser",
     "cost": "FREE",
@@ -1053,14 +1013,6 @@
     "cost": "FREE",
     "desc": "Full-featured Blackmagic Design ATEM switcher control app for iPhone and iPad with macro management, audio mixing, and multi-viewer support. Provides a polished, professional interface with features beyond the stock ATEM Software Control panel. Widely used by live production operators working with ATEM switchers on events and broadcasts.",
     "url": "https://apps.apple.com/us/app/mixeffect-trial-pro-unlock/id1555812675",
-    "tag": "App"
-  },
-  {
-    "name": "WScreenPros",
-    "vendor": "iOS",
-    "cost": "Paid",
-    "desc": "Widescreen and aspect ratio calculator for video professionals and AV technicians. Quickly calculates screen dimensions, throw distances, and display configurations for different aspect ratios and resolutions. A practical reference tool for video techs and system designers working with projection and LED screen setups.",
-    "url": "https://apps.apple.com/us/app/wscreenpros/id386152791",
     "tag": "App"
   },
   {
