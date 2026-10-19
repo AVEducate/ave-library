@@ -40,6 +40,12 @@ h1 span{color:var(--white)}
 #library > .hero{background:linear-gradient(180deg,rgba(0,0,0,.64) 0%,rgba(0,0,0,.68) 50%,rgba(0,0,0,.9) 86%,#000 100%),url(hero-bg.jpg) center/cover no-repeat}
 #library > .hero h1,#library > .hero .stat-n{text-shadow:0 2px 18px rgba(0,0,0,.85)}
 #library > .hero .hero-sub,#library > .hero .stat-l,#library > .hero .eyebrow{text-shadow:0 1px 8px rgba(0,0,0,.9)}
+/* CLASSES · GAMES: the member area's top bar can only list member pages, so these
+   links sit at the top of the library, styled like the AVE menu */
+.lib-nav{position:absolute;top:20px;left:0;right:0;max-width:1200px;margin:0 auto;padding:0 24px;display:flex;align-items:center;gap:14px}
+.lib-nav a{font-family:var(--display);font-weight:500;font-size:15px;letter-spacing:.16em;text-transform:uppercase;color:var(--white);text-decoration:none;text-shadow:0 1px 8px rgba(0,0,0,.9)}
+.lib-nav a:hover{text-decoration:underline;text-underline-offset:5px}
+.lib-nav span{color:var(--muted)}
 .totals{display:flex;justify-content:center;gap:16px 56px;flex-wrap:wrap;max-width:520px;margin:28px auto 0;padding-top:24px;border-top:1px solid var(--line)}
 .stat-dead .stat-n{color:var(--muted)}
 /* ── CONTROLS ── */
@@ -168,6 +174,7 @@ h1 span{color:var(--white)}
 @media (max-width:520px){
   .controls,#main,.dict-filters{padding-left:16px;padding-right:16px}
   .hero{padding:56px 16px 44px}
+  .lib-nav{top:16px;padding:0 16px}
   .book-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
   .sec-title{font-size:18px;letter-spacing:.12em}
   .pill{font-size:13px;padding:7px 13px}
@@ -188,6 +195,9 @@ h1 span{color:var(--white)}
 
 <div id="library">
 <div class="hero">
+  <nav class="lib-nav" aria-label="More from AV Educate">
+    <a href="https://www.aveducate.com/classes" target="_top">Classes</a><span aria-hidden="true">&middot;</span><a href="https://games.aveducate.com" target="_blank" rel="noopener">Games</a>
+  </nav>
   <div class="wordmark"><a href="https://www.aveducate.com" target="_top">[ AV Educate ]</a></div>
   <div class="eyebrow">Member Resource Hub</div>
   <h1>The AV<br><span>Library</span></h1>
