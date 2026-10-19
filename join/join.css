@@ -1,0 +1,93 @@
+/* AV Library sign-in page (aveducate.com/the-av-library, logged out).
+   join.js adds this section above Squarespace's Sign Up box. AVE look with a
+   more technical edge: Rama Gothic caps (the site's own font), black page,
+   squared cards with thin borders, the library collage behind the hero. */
+.avl-join{--avl-display:rama-gothic-e,'Oswald','Arial Narrow',sans-serif;--avl-body:'Helvetica Neue',Arial,sans-serif;
+  --avl-text:#d0d0d0;--avl-muted:#9b9b9b;--avl-line:#2a2a2a;--avl-card:#0b0b0b;
+  max-width:1200px;margin:0 auto;text-align:center;font-family:var(--avl-body);color:var(--avl-text);letter-spacing:.06em}
+.avl-join *{box-sizing:border-box}
+
+/* hero */
+.avl-hero{position:relative;padding:56px 24px 52px;border:1px solid var(--avl-line);border-radius:4px;overflow:hidden;
+  background:linear-gradient(180deg,rgba(0,0,0,.72),rgba(0,0,0,.78) 60%,rgba(0,0,0,.92)),url(../hero-bg.jpg) center/cover no-repeat}
+.avl-badge{display:inline-block;background:#fff;color:#000;font-family:var(--avl-display);font-size:16px;letter-spacing:.3em;
+  padding:7px 14px 6px 18px;border-radius:3px;text-transform:uppercase}
+.avl-title{font-family:var(--avl-display);font-weight:600;text-transform:uppercase;color:#fff;font-size:clamp(54px,9vw,118px);
+  letter-spacing:.12em;margin:20px -.12em 8px 0;line-height:.95;text-shadow:0 2px 18px rgba(0,0,0,.85)}
+.avl-tag{font-family:var(--avl-display);text-transform:uppercase;color:#fff;font-size:clamp(16px,2vw,22px);letter-spacing:.42em;margin-right:-.42em}
+.avl-lede{color:#fff;font-size:18px;letter-spacing:.1em;margin:24px auto 0;text-shadow:0 1px 8px rgba(0,0,0,.9)}
+.avl-counts{min-height:38px;margin-top:24px;font-family:var(--avl-display);text-transform:uppercase;letter-spacing:.2em;font-size:15px}
+.avl-counts b{color:#fff;font-size:30px;font-weight:600;letter-spacing:.08em;margin-right:6px}
+.avl-counts span{margin:0 14px;color:var(--avl-muted)}
+.avl-cta{margin-top:28px;display:flex;gap:14px 22px;justify-content:center;align-items:center;flex-wrap:wrap}
+.avl-btn{background:#fff;color:#000;border:0;border-radius:15px;padding:16px 28px;font-family:var(--avl-display);font-size:18px;
+  font-weight:600;letter-spacing:.24em;text-transform:uppercase;cursor:pointer;transition:opacity .15s}
+.avl-btn:hover{opacity:.82}
+.avl-login{background:none;border:0;padding:6px 2px;color:var(--avl-text);font-family:var(--avl-body);font-size:15px;letter-spacing:.08em;
+  text-decoration:underline;text-underline-offset:4px;cursor:pointer}
+.avl-login:hover{color:#fff}
+
+/* teaser search */
+.avl-search{max-width:760px;margin:44px auto 0;text-align:left}
+.avl-search label{display:block;text-align:center;font-family:var(--avl-display);text-transform:uppercase;color:#fff;font-size:24px;
+  letter-spacing:.2em;margin-bottom:12px}
+.avl-search-box{display:flex;align-items:center;gap:12px;border:1px solid var(--avl-text);border-radius:4px;padding:15px 16px;background:#000;color:#fff}
+.avl-search-box:focus-within{border-color:#fff}
+.avl-search-box svg{flex:0 0 18px;opacity:.8}
+.avl-search-box input{flex:1;min-width:0;background:transparent;border:0;outline:none;color:#fff;font-family:var(--avl-body);font-size:17px;letter-spacing:.06em;padding:0}
+.avl-search-box input::placeholder{color:#8a8a8a}
+.avl-results{margin-top:10px;border:1px solid var(--avl-line);border-radius:4px;background:var(--avl-card);padding:14px 16px 16px}
+.avl-results[hidden]{display:none}
+.avl-results-head{color:#fff;font-size:14px;line-height:1.5}
+.avl-results ul{list-style:none;margin:10px 0 14px;padding:0}
+.avl-results li{margin:0;padding:0;border-top:1px solid #1c1c1c}
+.avl-results li a{display:flex;align-items:center;gap:12px;padding:10px 4px;font-size:14px;color:#e6e6e6;text-decoration:none;letter-spacing:.04em}
+.avl-results li a:hover,.avl-results li a:focus-visible{color:#fff;background:#121212}
+.avl-results li svg{flex:0 0 14px;opacity:.6}
+.avl-results li .avl-name{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.avl-results li .avl-sec{flex:0 0 auto;font-size:11px;color:var(--avl-muted);letter-spacing:.12em;text-transform:uppercase;border:1px solid #333;
+  border-radius:3px;padding:2px 8px}
+.avl-results .avl-btn{font-size:16px;padding:13px 22px}
+
+/* four cards: what members unlock */
+.avl-cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-top:44px;text-align:left}
+.avl-card{display:flex;flex-direction:column;border:1px solid var(--avl-line);border-radius:4px;background:var(--avl-card);overflow:hidden;
+  color:inherit;text-decoration:none;transition:border-color .15s}
+.avl-card:hover,.avl-card:focus-visible{border-color:var(--avl-text)}
+.avl-art{height:160px;display:flex;align-items:center;justify-content:center;padding:14px;background:#111;border-bottom:1px solid #202020}
+.avl-grid{display:grid;grid-template-columns:repeat(3,38px);gap:8px}
+.avl-grid img{width:38px;height:38px;border-radius:9px;object-fit:cover;background:#1a1a1a;display:block}
+.avl-books{display:flex;align-items:flex-end;gap:7px}
+.avl-books img{display:block;background:#1a1a1a}
+.avl-books .cover{width:52px;height:78px;object-fit:cover;border-radius:2px;box-shadow:0 4px 12px rgba(0,0,0,.6)}
+.avl-books .gear{width:46px;height:46px;object-fit:contain;background:#fff;padding:4px;border-radius:3px}
+.avl-terms{width:100%;text-align:left}
+.avl-terms div{padding:4px 0;border-bottom:1px solid #222}
+.avl-terms div:last-child{border-bottom:0}
+.avl-terms b{display:block;font-family:var(--avl-display);text-transform:uppercase;letter-spacing:.14em;color:#fff;font-size:15px;line-height:18px;font-weight:600}
+.avl-terms span{display:block;font-size:11px;line-height:15px;color:var(--avl-muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;letter-spacing:.03em}
+.avl-card-body{display:flex;flex-direction:column;flex:1;padding:16px 16px 18px}
+.avl-card h3{margin:0;font-family:var(--avl-display);font-weight:600;text-transform:uppercase;color:#fff;font-size:24px;letter-spacing:.14em;line-height:1.1}
+.avl-card p{margin:8px 0 12px;font-size:13px;line-height:1.5;color:#bdbdbd;letter-spacing:.04em}
+.avl-num{font-family:'Space Mono',ui-monospace,Menlo,monospace;font-weight:700;font-size:11px;color:var(--avl-muted);letter-spacing:.04em;margin-bottom:12px}
+.avl-go{margin-top:auto;font-family:var(--avl-display);text-transform:uppercase;letter-spacing:.2em;color:#fff;font-size:15px;
+  text-decoration:underline;text-underline-offset:4px}
+
+/* JOIN FREE heading over the page's own description and Sign Up box */
+#sqs-paywall-page-root .avl-join-head{margin:64px 0 0;font-family:rama-gothic-e,'Oswald','Arial Narrow',sans-serif;font-weight:600;
+  text-transform:uppercase;color:#fff;font-size:34px;line-height:1.2;letter-spacing:.2em;scroll-margin-top:120px}
+
+/* Squarespace's own sign-in page, once the section is in: the hero title
+   replaces its headline; its description text stays, under JOIN FREE */
+#sqs-paywall-page-root.avl-ready > #headline{display:none}
+#sqs-paywall-page-root.avl-ready > #description{max-width:680px;margin:14px auto 26px}
+#sqs-paywall-page-root.avl-ready .product-block{border-radius:4px;max-width:560px;margin-left:auto;margin-right:auto}
+
+@media (max-width:1000px){.avl-cards{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:560px){
+  .avl-hero{padding:40px 16px 40px}
+  .avl-counts span{display:block;height:0;overflow:hidden;margin:0}
+  .avl-cards{grid-template-columns:1fr}
+  .avl-search label{font-size:20px}
+  #sqs-paywall-page-root .avl-join-head{font-size:28px}
+}

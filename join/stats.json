@@ -1,0 +1,61 @@
+{
+ "resources": 1267,
+ "terms": 10223,
+ "counts": {
+  "apps": 120,
+  "software": 150,
+  "training": 319,
+  "certs": 53,
+  "careers": 277,
+  "community": 32,
+  "books": 160,
+  "workbox": 156
+ },
+ "art": {
+  "tools": [
+   "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8a/e1/da/8ae1da23-8bb4-c0d6-2523-85d49a1a207d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-85-220.png/128x128bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/fb/80/e5fb80d2-1cd0-03ad-e729-552009db49b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/128x128bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/3c/3a/c53c3a61-6362-51eb-279f-551e399d66d9/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/128x128bb.jpg",
+   "icons/015d90fffc.jpg",
+   "icons/f245e9480c.png",
+   "icons/19e7033003.png",
+   "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/07/35/1107354f-a136-0cfb-c021-05784d5f99a9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/128x128bb.jpg",
+   "icons/720ca58390.png",
+   "icons/2d92758707.png"
+  ],
+  "brands": [
+   "icons/ea89f5b794.png",
+   "icons/77ac46fcfd.jpg",
+   "icons/6b0e494bb3.jpg",
+   "icons/74e9f9cf63.jpg",
+   "icons/c1740773c7.jpg",
+   "icons/1e97a85640.jpg",
+   "icons/b15be4f4c2.png",
+   "icons/7e2ff3a3bf.jpg",
+   "icons/36f72967af.jpg"
+  ],
+  "covers": [
+   "https://m.media-amazon.com/images/P/0911747397.01._SCLZZZZZZZ_.jpg",
+   "https://m.media-amazon.com/images/I/51FzhkvLXmL.jpg",
+   "https://m.media-amazon.com/images/P/1260136086.01._SCLZZZZZZZ_.jpg"
+  ],
+  "gear": [
+   "https://m.media-amazon.com/images/I/61kmp3goJWL._SL500_.jpg",
+   "https://m.media-amazon.com/images/P/B0925826M2.01._SCLZZZZZZZ_.jpg"
+  ],
+  "terms": [
+   [
+    "IMAG",
+    "Image Magnification. Taking camera shots of performers or speakers and displaying…"
+   ],
+   [
+    "EDID",
+    "Extended Display Identification Data. A 128-byte (or more with extensions) data…"
+   ],
+   [
+    "Genlock",
+    "The process of locking both the sync and burst of one signal to the burst and sync of…"
+   ]
+  ]
+ }
+}
