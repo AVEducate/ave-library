@@ -30,7 +30,7 @@
   {
     "name": "Learn Stage Lighting",
     "vendor": "Podcast",
-    "url": "https://www.learnstagelighting.com/podcasts/the-learn-stage-lighting-podcast",
+    "url": "https://podcasts.apple.com/us/podcast/the-learn-stage-lighting-podcast/id1347712973",
     "desc": "Tips, tricks, and training for stage lighting across band, church, DJ, and theatre contexts. Biweekly. Active through 2024.",
     "tag": "Podcast"
   },
@@ -58,7 +58,7 @@
   {
     "name": "SoundGirls Podcast",
     "vendor": "Podcast",
-    "url": "https://soundgirls.org/category/podcast/",
+    "url": "https://soundgirls.org/the-soundgirls-podcast/",
     "desc": "Interviews with audio professionals supporting diversity and inclusion in the sound industry. From SoundGirls.org.",
     "tag": "Podcast"
   },
@@ -133,13 +133,6 @@
     "tag": "Podcast"
   },
   {
-    "name": "IT AV",
-    "vendor": "Podcast",
-    "url": "https://podcasts.apple.com/us/podcast/it-av/id1183779112",
-    "desc": "From AVNation — AV through the lens of the IT professional. Covers security, bandwidth, and network-based AV systems.",
-    "tag": "Podcast"
-  },
-  {
     "name": "Radio Check",
     "vendor": "Podcast",
     "url": "https://podcasts.apple.com/us/podcast/radio-check-life-in-the-concert-touring-industry/id1525741903",
@@ -173,6 +166,16 @@
     "url": "https://podcasts.apple.com/us/podcast/gigready/id1511624956",
     "desc": "AV and the business of audio visual production — from corporate events to rock and roll. Hosted by Jordan Goodfellow, CEO of GigRent. Covers touring, production, event AV, freelancing, and the event professional's journey. 40+ episodes.",
     "tag": "Podcast"
+  },
+  {
+    "name": "IT AV",
+    "vendor": "Podcast",
+    "url": "",
+    "desc": "From AVNation — AV through the lens of the IT professional. Covers security, bandwidth, and network-based AV systems.",
+    "tag": "Podcast",
+    "archived": true,
+    "archived_reason": "Podcast ended",
+    "old_url": "https://podcasts.apple.com/us/podcast/it-av/id1183779112"
   },
   {
     "name": "LPS — Live Production Summit",
@@ -210,20 +213,6 @@
     "tag": "Industry Events"
   },
   {
-    "name": "AV Pro Reunion",
-    "vendor": "Orlando, FL | Late July / August",
-    "url": "https://avproreunion.com/",
-    "desc": "Annual gathering for AV professionals focused on community building, networking, and career development in the AV industry. Best for: All AV professionals looking to connect with the broader community.",
-    "tag": "Industry Events"
-  },
-  {
-    "name": "Pirate University",
-    "vendor": "New York, NY | August",
-    "url": "https://www.pirateuniversity.org/",
-    "desc": "Hands-on training and education event for live entertainment and event production professionals. Practical skills development covering lighting, audio, video, and production disciplines. Best for: L2–L5 live event professionals seeking hands-on training.",
-    "tag": "Industry Events"
-  },
-  {
     "name": "CEDIA Expo / CIX",
     "vendor": "Denver, CO\n(Colorado Convention Center) | September",
     "url": "https://cediaexpo.com/",
@@ -243,5 +232,15 @@
     "url": "https://www.avixa.org/",
     "desc": "AVIXA (Audiovisual and Integrated Experience Association) produces InfoComm, hosts CTS certification programs, publishes industry standards, and runs year-round professional development events, webinars, and community programs including AVIXA Xchange. Best for: All AV professionals seeking certification, standards, and industry community at any level.",
     "tag": "Industry Events"
+  },
+  {
+    "name": "Pirate University",
+    "vendor": "New York, NY | August",
+    "url": "",
+    "desc": "Hands-on training and education event for live entertainment and event production professionals. Practical skills development covering lighting, audio, video, and production disciplines. Best for: L2–L5 live event professionals seeking hands-on training.",
+    "tag": "Industry Events",
+    "archived": true,
+    "archived_reason": "Domain taken over",
+    "old_url": ""
   }
 ]

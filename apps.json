@@ -8,38 +8,6 @@
     "tag": "App"
   },
   {
-    "name": "Mini-Matrix",
-    "vendor": "iOS",
-    "cost": "FREE",
-    "desc": "AJA Mini-Matrix is an interactive, searchable catalog of AJA Video and Audio Converter products for anyone needing to convert between different video formats and connection types. Designed to help you find the solution you need as fast as possible, whether on set or active in the field, the AJA Mini-Matrix's simple and powerful search tool gets you the answer you need. Search by name, input type, conversion type or output type or any combination.",
-    "url": "https://apps.apple.com/us/app/mini-matrix/id630156342",
-    "tag": "App"
-  },
-  {
-    "name": "Alford LED Wall Calculator",
-    "vendor": "iOS",
-    "cost": "1.99",
-    "desc": "The Alford LED Wall Calculator is designed to quickly and conveniently configure the panel requirements for numerous types of LED wall options. Many of the latest manufacturers and panel models are incorporated into the database, and we will be adding additional models as they become available. There is also an option to submit any new panels that are not currently in the app.",
-    "url": "http://www.alfordmedia.com/our-work/#apps",
-    "tag": "App"
-  },
-  {
-    "name": "Alford Preset Remote",
-    "vendor": "iOS",
-    "cost": "19.99",
-    "desc": "This app from Alford Media, sponsored by Barco, is your wireless preset controller for Barco’s Event Master’s family of switchers. With the Alford Preset Remote, Event Master's line of products is now at your fingertips on your iPad or iPad Mini.\nWith this update, there is now two-way communication between the app and the console. Every change and edit you make, whether on the app or on the console, will sync automatically to both devices. This feature allows more ease and flexibility in your programming.\nIt’s totally customizable and loaded with features, so you can work the way that best fits you. Features include the ability to Save, Edit, Custom Order and Restore Order. With Edit, you can edit the color and name on each preset button in the app. You can also re-sequence the preset buttons in the app by holding them down and dragging them to the desired location and you can reset to default settings with the touch of a button. The app also has buttons for Cut and an Auto-trans and the current preset is easily visible. For easier organization and access to you settings, the preset button setting can be saved to a show file within the app.\nPlease note: The app does not go to sleep because it is being used in a live event situation, so it is recommended that you plug in your iPad or iPad Mini whenever possible to maintain a charge.",
-    "url": "http://www.alfordmedia.com/our-work/#apps",
-    "tag": "App"
-  },
-  {
-    "name": "Alford Widescreen Calculator",
-    "vendor": "iOS",
-    "cost": "0.99",
-    "desc": "The Alford Media Widescreen Calculator is like having an Alford Video Engineer or Projectionist in your pocket! We have taken the chore of calculating overlapping widescreen projection math and made it touch screen simple. Just enter the size of your screen and the resolution of your projector and let the app tell you everything else you need to know.\nIt will instantly generate the Projected Ratio, Total Horizontal Pixels, Total Vertical Pixels, Number of Projectors, Overlap and Projected Width per Projector in Feet. Once you have the hard numbers just click on the Aim Points button to see a graphic representation of how your screens and projectors will line up and overlap. It’s just that easy. You can save the calculations directly to your iPhone Camera Roll as a screenshot from both the Results page and the Aim Points page. Keep the images for future reference or send them to colleagues via E-mail or SMS.",
-    "url": "http://www.alfordmedia.com/our-work/#apps",
-    "tag": "App"
-  },
-  {
     "name": "ArrayCalc Viewer",
     "vendor": "iOS & Android",
     "cost": "Free",
@@ -72,14 +40,6 @@
     "tag": "App"
   },
   {
-    "name": "AV Tools",
-    "vendor": "Android",
-    "cost": "FREE",
-    "desc": "A simple but very useful collection of audio-visual tools and information for use when ever you need.",
-    "url": "https://play.google.com/store/apps/details?id=com.embu.avtools&hl=en_US",
-    "tag": "App"
-  },
-  {
     "name": "BLENDZ",
     "vendor": "iOS & Android",
     "cost": "FREE",
@@ -101,14 +61,6 @@
     "cost": "FREE",
     "desc": "Decibel Meter Pro is full of features sound level meter with exclusive accuracy of measurements and integrated spectrum analyzer. Calibrated with professional dB meter.\n\nThe world is a noisy place: cars, power tools, crowds, machinery, and other common sources produce amounts of noise that can, with continued exposure, lead to permanent hearing loss. Sound level meters are useful for anyone who wants to avoid exposing their ears to harmful noise levels, but who wants to spend hundreds of dollars on one?\n\ndB Meter is free app which provides professional-quality measurement results, calibrated using an actual Nor140 high-precision decibel meter. With dB Meter, you can measure ambient noise levels, save your measurements and their locations, and share your measurements with others. dB Meter couples utility with stylish design and a polished user experience: a powerful tool in a sleek package, and at a tiny fraction of the cost of professional sound level meters.\n\n(Please note that dB Meter soundmeter app is not a replacement for professional devices and should be used for personal purposes only.)",
     "url": "http://dbmeterpro.com",
-    "tag": "App"
-  },
-  {
-    "name": "DMX Dip",
-    "vendor": "iOS",
-    "cost": "FREE",
-    "desc": "DMX Dip allows you to easily calculate the correct address setting on your fixture.\nDMX Dip saves you valuable time, you don't have to calculate what dip switches you have to set to put your fixture on an address. Typing three numbers into the app is much faster than calculating all that binary numbers in your head.\nThe reverse operation is also possible, just use the dip switches in the app like you would use real-life switches, and DMX Dip tells you exactly for which address the fixture is configured.\n\nThe offset feature comes in handy if you have to address the same fixture over and over again. Need to address two dozen LED-PARs? Set the offset to 4 and with the press of a single button you get all those addresses in no time.",
-    "url": "https://apps.apple.com/us/app/dmx-dip/id412828831",
     "tag": "App"
   },
   {
@@ -220,7 +172,7 @@
     "vendor": "iOS",
     "cost": "2.99",
     "desc": "ProjectorCalc is a program for professional lighting technicians and projectionists. Its primary purpose is to determine the size of a projected image given various information about the projector and it's location.\n\nProjectorCalc allows users to enter details for a projector and its location in relation to a projection surface.\n\nProjectorCalc will calculate image width, image height, diagonal length, brightness in Nits, total projected area, and how many pixels per inch the projected image will be.\n\nAdditionally, ProjectorCalc can give you an estimate of how much keystone distortion will occur by calculating the length of each side of the distorted image.",
-    "url": "http://www.dhvproductions.com",
+    "url": "https://apps.apple.com/us/app/projectorcalc/id310342928",
     "tag": "App"
   },
   {
@@ -309,22 +261,6 @@
     "cost": "2.99",
     "desc": "Stagehand is provided as a free reference for professionals and amateurs alike, and we hope you enjoy the app! Stagehand is already used hundreds of times a day and has been downloaded by over 35,000 users since it launched almost 10 years ago!",
     "url": "https://apps.apple.com/us/app/audiocalc/id294447976",
-    "tag": "App"
-  },
-  {
-    "name": "ISF Greyscale Comparator",
-    "vendor": "iOS",
-    "cost": "14.99",
-    "desc": "\"Better HDTV Color Fidelity is a Remote Click Away - Simply compare the Grayscale on this App to the same one on your TV!\"\nBlack and White color accuracy is the foundation of all color accuracy.\nUsing this application, compare the three step grayscale on your Apple device to the same grayscale viewed on your HDTV or to a similar grayscale from a generator. Use this tool for visual verification of your calibration.",
-    "url": "https://apps.apple.com/us/app/isf-greyscale-comparator/id518987879",
-    "tag": "App"
-  },
-  {
-    "name": "What's the Frequency?",
-    "vendor": "iOS",
-    "cost": "FREE",
-    "desc": "What's the Frequency? will help you to become a better audio engineer. It helps you to recognise the frequencies you are hearing.\n\nGiven short audio samples of pure tones or filtered pink noise you have to respond with the correct frequency of the tone, or the center frequency of the filtered pink noise. Go for 100% accuracy.\n\nStart out easy, with octave spacing. When you feel more confident, move up to third octave spacing for a more challenging game.\n\nUse What's the Frequency? for just a few minutes each day and you will notice an improvement in your ability to identify and label the frequencies in the sounds you hear. You'll become more efficient with an EQ. Your mixes are likely to improve. Most of all, you'll win the respect and admiration of fellow audio nerds.",
-    "url": "https://apps.apple.com/us/app/whats-the-frequency/id807110901",
     "tag": "App"
   },
   {
@@ -424,14 +360,6 @@
     "tag": "App"
   },
   {
-    "name": "Beecam light meter app",
-    "vendor": "iOS",
-    "cost": "FREE",
-    "desc": "Light meter app designed specifically for cinematographers and video production lighting work. Measures incident and reflected light to help achieve consistent exposure across multi-camera setups. Helpful for video techs evaluating lighting conditions at event venues.",
-    "url": "https://profilmmakerapps.com/app/beecam-light-meter/",
-    "tag": "App"
-  },
-  {
     "name": "SoundGym",
     "vendor": "Desktop",
     "cost": "Freemium",
@@ -509,14 +437,6 @@
     "cost": "FREE",
     "desc": "Calculates work hours, overtime, and timecard totals.",
     "url": "https://apps.apple.com/us/app/time-card-calculator-timeclock/id672350386",
-    "tag": "App"
-  },
-  {
-    "name": "Stage Invaders",
-    "vendor": "iOS",
-    "cost": "FREE",
-    "desc": "Simple arcade-style game themed around stage and production visuals.",
-    "url": "https://apps.apple.com/us/app/stage-invaders/id1572202361",
     "tag": "App"
   },
   {
@@ -840,14 +760,6 @@
     "tag": "App"
   },
   {
-    "name": "Sonic Tools SVM",
-    "vendor": "iOS",
-    "cost": "FREE",
-    "desc": "Multi-function audio measurement toolkit for iPhone and iPad covering SPL metering, spectrum analysis, and signal generation. Provides professional-grade acoustic measurement capabilities in a single app. A practical all-in-one tool for audio engineers doing quick system checks and venue assessments.",
-    "url": "https://apps.apple.com/us/app/sonic-tools-svm/id1245046029",
-    "tag": "App"
-  },
-  {
     "name": "SoundMeter Pro 2022",
     "vendor": "iOS",
     "cost": "Paid",
@@ -1030,5 +942,170 @@
     "desc": "Open-source media center and sample library platform used widely in AV production for testing and playback. The Kodi wiki hosts a curated library of free video and audio sample files useful for display calibration, codec testing, and content verification. A go-to resource for video technicians who need standardized test content across different playback systems.",
     "url": "https://kodi.wiki/view/Samples",
     "tag": "App"
+  },
+  {
+    "name": "Mini-Matrix",
+    "vendor": "iOS",
+    "cost": "FREE",
+    "desc": "AJA Mini-Matrix is an interactive, searchable catalog of AJA Video and Audio Converter products for anyone needing to convert between different video formats and connection types. Designed to help you find the solution you need as fast as possible, whether on set or active in the field, the AJA Mini-Matrix's simple and powerful search tool gets you the answer you need. Search by name, input type, conversion type or output type or any combination.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "https://apps.apple.com/us/app/mini-matrix/id630156342"
+  },
+  {
+    "name": "Alford LED Wall Calculator",
+    "vendor": "iOS",
+    "cost": "1.99",
+    "desc": "The Alford LED Wall Calculator is designed to quickly and conveniently configure the panel requirements for numerous types of LED wall options. Many of the latest manufacturers and panel models are incorporated into the database, and we will be adding additional models as they become available. There is also an option to submit any new panels that are not currently in the app.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "http://www.alfordmedia.com/our-work/#apps"
+  },
+  {
+    "name": "Alford Preset Remote",
+    "vendor": "iOS",
+    "cost": "19.99",
+    "desc": "This app from Alford Media, sponsored by Barco, is your wireless preset controller for Barco’s Event Master’s family of switchers. With the Alford Preset Remote, Event Master's line of products is now at your fingertips on your iPad or iPad Mini.\nWith this update, there is now two-way communication between the app and the console. Every change and edit you make, whether on the app or on the console, will sync automatically to both devices. This feature allows more ease and flexibility in your programming.\nIt’s totally customizable and loaded with features, so you can work the way that best fits you. Features include the ability to Save, Edit, Custom Order and Restore Order. With Edit, you can edit the color and name on each preset button in the app. You can also re-sequence the preset buttons in the app by holding them down and dragging them to the desired location and you can reset to default settings with the touch of a button. The app also has buttons for Cut and an Auto-trans and the current preset is easily visible. For easier organization and access to you settings, the preset button setting can be saved to a show file within the app.\nPlease note: The app does not go to sleep because it is being used in a live event situation, so it is recommended that you plug in your iPad or iPad Mini whenever possible to maintain a charge.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "http://www.alfordmedia.com/our-work/#apps"
+  },
+  {
+    "name": "Alford Widescreen Calculator",
+    "vendor": "iOS",
+    "cost": "0.99",
+    "desc": "The Alford Media Widescreen Calculator is like having an Alford Video Engineer or Projectionist in your pocket! We have taken the chore of calculating overlapping widescreen projection math and made it touch screen simple. Just enter the size of your screen and the resolution of your projector and let the app tell you everything else you need to know.\nIt will instantly generate the Projected Ratio, Total Horizontal Pixels, Total Vertical Pixels, Number of Projectors, Overlap and Projected Width per Projector in Feet. Once you have the hard numbers just click on the Aim Points button to see a graphic representation of how your screens and projectors will line up and overlap. It’s just that easy. You can save the calculations directly to your iPhone Camera Roll as a screenshot from both the Results page and the Aim Points page. Keep the images for future reference or send them to colleagues via E-mail or SMS.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "http://www.alfordmedia.com/our-work/#apps"
+  },
+  {
+    "name": "AV Tools",
+    "vendor": "Android",
+    "cost": "FREE",
+    "desc": "A simple but very useful collection of audio-visual tools and information for use when ever you need.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Removed from Google Play",
+    "old_url": "https://play.google.com/store/apps/details?id=com.embu.avtools&hl=en_US"
+  },
+  {
+    "name": "DMX Dip",
+    "vendor": "iOS",
+    "cost": "FREE",
+    "desc": "DMX Dip allows you to easily calculate the correct address setting on your fixture.\nDMX Dip saves you valuable time, you don't have to calculate what dip switches you have to set to put your fixture on an address. Typing three numbers into the app is much faster than calculating all that binary numbers in your head.\nThe reverse operation is also possible, just use the dip switches in the app like you would use real-life switches, and DMX Dip tells you exactly for which address the fixture is configured.\n\nThe offset feature comes in handy if you have to address the same fixture over and over again. Need to address two dozen LED-PARs? Set the offset to 4 and with the press of a single button you get all those addresses in no time.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "https://apps.apple.com/us/app/dmx-dip/id412828831"
+  },
+  {
+    "name": "GrandMA Remote",
+    "vendor": "iOS",
+    "cost": "FREE",
+    "desc": "The grandMA consoles are the core of the fully integrated MA system. The grandMA consoles are able to control – in the most elegant manner – moving lights, conventional lights, and effects, as well as LEDs and video. The reliable and proven operational philosophy allows a direct, flexible and intuitive way of working.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "https://apps.apple.com/us/app/magicq-remote-control/id896631272"
+  },
+  {
+    "name": "Lighting Handbook",
+    "vendor": "iOS & Android",
+    "cost": "4.99",
+    "desc": "Lighting handbook provides detailed information on nearly 1000 moving lights, consoles, dimmers, effects, smoke machines and more. It also provides pinout information for the most popular connectors used in the industry. Download product manuals for offline viewing, access 3 phase colour information, industry links and lots more!",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "https://apps.apple.com/us/app/lighting-handbook/id335372862"
+  },
+  {
+    "name": "Plug Finder",
+    "vendor": "iOS & Android",
+    "cost": "FREE",
+    "desc": "Ever wondered what all those connections are on your new TV or computer?\n\nOr what all those cables you have are supposed to do anyway?\n\nThen this is the app for you!\n\nPlug Finder is the near-effortless reference app that assists you in finding what plugs and cables do, and what they look like.  There are two ways of accomplishing this: Either flick through the intuitive plug viewer to determine the right plug, or scroll through the names and symbols to quickly find what you are looking for.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "App no longer available",
+    "old_url": "https://www.atmandev.com"
+  },
+  {
+    "name": "ISF Greyscale Comparator",
+    "vendor": "iOS",
+    "cost": "14.99",
+    "desc": "\"Better HDTV Color Fidelity is a Remote Click Away - Simply compare the Grayscale on this App to the same one on your TV!\"\nBlack and White color accuracy is the foundation of all color accuracy.\nUsing this application, compare the three step grayscale on your Apple device to the same grayscale viewed on your HDTV or to a similar grayscale from a generator. Use this tool for visual verification of your calibration.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from both app stores",
+    "old_url": "https://apps.apple.com/us/app/isf-greyscale-comparator/id518987879"
+  },
+  {
+    "name": "What's the Frequency?",
+    "vendor": "iOS",
+    "cost": "FREE",
+    "desc": "What's the Frequency? will help you to become a better audio engineer. It helps you to recognise the frequencies you are hearing.\n\nGiven short audio samples of pure tones or filtered pink noise you have to respond with the correct frequency of the tone, or the center frequency of the filtered pink noise. Go for 100% accuracy.\n\nStart out easy, with octave spacing. When you feel more confident, move up to third octave spacing for a more challenging game.\n\nUse What's the Frequency? for just a few minutes each day and you will notice an improvement in your ability to identify and label the frequencies in the sounds you hear. You'll become more efficient with an EQ. Your mixes are likely to improve. Most of all, you'll win the respect and admiration of fellow audio nerds.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "App discontinued",
+    "old_url": "https://apps.apple.com/us/app/whats-the-frequency/id807110901"
+  },
+  {
+    "name": "Beecam light meter app",
+    "vendor": "iOS",
+    "cost": "FREE",
+    "desc": "Light meter app designed specifically for cinematographers and video production lighting work. Measures incident and reflected light to help achieve consistent exposure across multi-camera setups. Helpful for video techs evaluating lighting conditions at event venues.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "App no longer available",
+    "old_url": "https://profilmmakerapps.com/app/beecam-light-meter/"
+  },
+  {
+    "name": "Stage Invaders",
+    "vendor": "iOS",
+    "cost": "FREE",
+    "desc": "Simple arcade-style game themed around stage and production visuals.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "https://apps.apple.com/us/app/stage-invaders/id1572202361"
+  },
+  {
+    "name": "Sonic Tools SVM",
+    "vendor": "iOS",
+    "cost": "FREE",
+    "desc": "Multi-function audio measurement toolkit for iPhone and iPad covering SPL metering, spectrum analysis, and signal generation. Provides professional-grade acoustic measurement capabilities in a single app. A practical all-in-one tool for audio engineers doing quick system checks and venue assessments.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "https://apps.apple.com/us/app/sonic-tools-svm/id1245046029"
+  },
+  {
+    "name": "AV Buddy Pro",
+    "vendor": "iOS",
+    "cost": "Paid",
+    "desc": "Professional upgrade to AV Buddy with expanded calculators, pinouts, reference charts, and AV-over-IP references. Covers connector pinouts, cable lengths, dB conversion, aspect ratios, and networking calculators in one app. An indispensable field reference tool for AV technicians on any type of production.",
+    "url": "",
+    "tag": "App",
+    "archived": true,
+    "archived_reason": "Pulled from the App Store",
+    "old_url": "https://apps.apple.com/us/app/av-buddy-pro/id669965912"
   }
 ]
