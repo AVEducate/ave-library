@@ -36,15 +36,8 @@
   // the hero title is the sign-in page's own headline (Squarespace: Member Sites > Sign-up page)
   var title = headline.textContent.trim();
 
-  // the AV Library's own tab icon and tab name (Squarespace has one icon for the
-  // whole site). Members' view: the page's header code does the same
-  // (build/tab_icon_member_code.html).
-  [].forEach.call(document.querySelectorAll('link[rel~="icon"], link[rel="apple-touch-icon"]'), function (l) { l.remove(); });
-  [['icon', '32x32', 'tab-icon-32.png'], ['icon', '16x16', 'tab-icon-16.png'], ['apple-touch-icon', '180x180', 'tab-icon-180.png']].forEach(function (i) {
-    var l = document.createElement('link');
-    l.rel = i[0]; l.type = 'image/png'; l.setAttribute('sizes', i[1]); l.href = base + i[2];
-    document.head.appendChild(l);
-  });
+  // tab name like the site's other pages (the tab keeps the site's AVE icon;
+  // Omar didn't like a separate AV Library icon)
   if (!/AV Library/i.test(document.title)) document.title = title + ' \u2014 ' + document.title;
   // one card per library section, in the library's own order and names; the
   // picture area is a snippet of that section (kind: icons, covers, gear, terms)
