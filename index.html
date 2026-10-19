@@ -8,149 +8,138 @@
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
+/* AVE look, measured from aveducate.com: black page, #DCDCDC text, condensed caps
+   headings tracked .14em (the site uses Rama Gothic; Oswald is the closest free match),
+   Helvetica Neue body tracked .1em, white buttons with 15px corners, #2E2E2E form fields */
 :root{
-  /* AVE type: condensed caps for display (aveducate.com uses Rama Gothic; Oswald is the closest free match),
-     Helvetica Neue for body, Space Mono for labels */
   --display:'Oswald','Helvetica Neue',Arial,sans-serif;
   --body:'Helvetica Neue',Helvetica,Arial,sans-serif;
   --mono:'Space Mono',ui-monospace,Menlo,monospace;
-  --teal:#1ABC9C;--teal-dim:rgba(26,188,156,.13);--teal-border:rgba(26,188,156,.32);
-  --navy:#0a0e14;--card-bg:rgba(255,255,255,.035);--card-border:rgba(255,255,255,.08);
-  --card-hover:rgba(26,188,156,.07);--white:#F8FBFF;--muted:rgba(248,251,255,.5);
-  --gold:#F5A623;--gold-dim:rgba(245,166,35,.13);--gold-border:rgba(245,166,35,.32);
+  --bg:#000;--text:#dcdcdc;--white:#fff;--muted:#9b9b9b;
+  --line:#2a2a2a;--field:#2e2e2e;--card:#0e0e0e;--card-hover:#161616;
 }
-html{min-height:100%;background:var(--navy);color:var(--white);font-family:var(--body);-webkit-font-smoothing:antialiased;scroll-behavior:smooth}
+html{min-height:100%;background:var(--bg);color:var(--text);font-family:var(--body);-webkit-font-smoothing:antialiased;scroll-behavior:smooth}
+body{background:var(--bg)}
 /* ── HERO ── */
-.hero{position:relative;text-align:center;padding:64px 24px 48px;overflow:hidden}
-.hero-bg{position:absolute;inset:0;background-image:linear-gradient(rgba(26,188,156,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(26,188,156,.05) 1px,transparent 1px);background-size:48px 48px;pointer-events:none}
-.hero-glow{position:absolute;top:-100px;left:50%;transform:translateX(-50%);width:700px;height:340px;background:radial-gradient(ellipse,rgba(26,188,156,.13) 0%,transparent 70%);pointer-events:none}
-.wordmark{font-family:var(--display);font-weight:600;font-size:15px;letter-spacing:.24em;text-transform:uppercase;color:var(--white);margin-bottom:10px}
+.hero{position:relative;text-align:center;padding:72px 24px 56px;overflow:hidden}
+.wordmark{font-family:var(--display);font-weight:500;font-size:16px;letter-spacing:.3em;text-transform:uppercase;color:var(--white);margin-bottom:12px}
 .wordmark a{color:inherit;text-decoration:none}
-.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.18em;color:var(--teal);text-transform:uppercase;margin-bottom:16px;opacity:.8}
-h1{font-family:var(--display);font-weight:700;text-transform:uppercase;font-size:clamp(56px,9vw,104px);line-height:.98;letter-spacing:.08em;color:var(--white)}
-h1 span{color:var(--teal)}
-.hero-sub{font-size:15px;color:var(--muted);max-width:580px;margin:16px auto 0;line-height:1.6}
-.stats{display:flex;justify-content:center;align-items:center;gap:0;margin-top:32px;flex-wrap:wrap}
-.stat{text-align:center;padding:0 20px}
-.stat-n{font-family:var(--display);font-weight:600;font-size:30px;letter-spacing:.04em;color:var(--teal);line-height:1.1}
-.stat-n.gold{color:var(--gold)}
-.stat-l{font-size:10px;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;margin-top:3px}
-.stat-d{width:1px;height:32px;background:var(--card-border)}
+.eyebrow{font-family:var(--body);font-size:12px;letter-spacing:.24em;color:var(--muted);text-transform:uppercase;margin-bottom:20px}
+h1{font-family:var(--display);font-weight:600;text-transform:uppercase;font-size:clamp(52px,8.5vw,100px);line-height:1.02;letter-spacing:.14em;margin-right:-.14em;color:var(--white)}
+h1 span{color:var(--white)}
+/* the double rule under page titles on aveducate.com */
+h1::after{content:'';display:block;width:min(520px,78%);height:11px;margin:22px auto 0;border-top:4px solid var(--white);border-bottom:2px solid var(--white)}
+.hero-sub{font-size:15px;color:var(--text);letter-spacing:.1em;max-width:660px;margin:24px auto 0;line-height:1.5}
+.stats{display:flex;justify-content:center;align-items:center;gap:16px 40px;margin-top:36px;flex-wrap:wrap;max-width:900px;margin-left:auto;margin-right:auto}
+.stat{text-align:center}
+.stat-n{font-family:var(--display);font-weight:600;font-size:30px;letter-spacing:.08em;color:var(--white);line-height:1.1}
+.stat-n.gold{color:var(--white)}
+.stat-l{font-size:10px;color:var(--muted);letter-spacing:.18em;text-transform:uppercase;margin-top:4px}
+.stat-d{display:none} /* row-end dividers looked broken when the stats wrap */
 /* ── CONTROLS ── */
 .controls{max-width:1200px;margin:0 auto;padding:24px 24px 0;display:flex;flex-direction:column;gap:14px}
-.search-wrap{position:relative}
-.search-wrap svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);opacity:.4;pointer-events:none}
-#search{width:100%;background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:11px 14px 11px 36px;font-size:14px;color:var(--white);font-family:var(--body);outline:none;transition:.2s}
-#search:focus{border-color:var(--teal-border);background:rgba(26,188,156,.04)}
-#search::placeholder{color:var(--muted)}
+.search-wrap{position:relative;color:var(--white)}
+.search-wrap svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);opacity:.7;pointer-events:none}
+#search{width:100%;background:var(--field);border:1px solid transparent;border-radius:10px;padding:14px 16px 14px 42px;font-size:15px;letter-spacing:.1em;color:var(--text);font-family:var(--body);outline:none;transition:.2s}
+#search:focus{border-color:var(--text)}
+#search::placeholder{color:#a8a8a8}
 .filters{display:flex;flex-wrap:wrap;gap:8px}
-.pill{background:var(--card-bg);border:1px solid var(--card-border);border-radius:20px;padding:6px 14px;font-size:12px;color:var(--muted);cursor:pointer;transition:.18s;font-family:var(--body);white-space:nowrap}
-.pill:hover{border-color:var(--teal-border);color:var(--white)}
-.pill.on{background:var(--teal-dim);border-color:var(--teal-border);color:var(--teal)}
-.dict-pill.on{background:var(--gold-dim);border-color:var(--gold-border);color:var(--gold)}
-.result-count{font-size:11px;color:var(--muted);font-family:var(--mono);align-self:flex-start}
+.pill{background:transparent;border:1px solid #4a4a4a;border-radius:15px;padding:8px 16px;font-family:var(--display);font-weight:400;font-size:14px;letter-spacing:.1em;text-transform:uppercase;color:var(--text);cursor:pointer;transition:.18s;white-space:nowrap}
+.pill:hover{border-color:var(--text);color:var(--white)}
+.pill.on,.dict-pill.on{background:var(--white);border-color:var(--white);color:#000}
+.result-count{font-size:11px;color:var(--muted);font-family:var(--mono);letter-spacing:.06em;align-self:flex-start}
 /* ── DICT CAT BAR ── */
 .hidden{display:none!important}
 .dict-filters{display:flex;flex-wrap:wrap;gap:6px;max-width:1200px;margin:0 auto;padding:12px 24px 0}
-.dpill{background:var(--card-bg);border:1px solid var(--card-border);border-radius:16px;padding:4px 12px;font-size:11px;color:var(--muted);cursor:pointer;transition:.18s;font-family:var(--body)}
-.dpill:hover{border-color:var(--gold-border);color:var(--white)}
-.dpill.on{background:var(--gold-dim);border-color:var(--gold-border);color:var(--gold)}
+.dpill{background:transparent;border:1px solid #3a3a3a;border-radius:12px;padding:5px 12px;font-family:var(--display);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--text);cursor:pointer;transition:.18s}
+.dpill:hover{border-color:var(--text);color:var(--white)}
+.dpill.on{background:var(--white);border-color:var(--white);color:#000}
 /* ── MAIN GRID ── */
 #main{max-width:1200px;margin:0 auto;padding:32px 24px 64px}
 .sec{margin-bottom:40px}
-.sec-head{display:flex;align-items:center;gap:10px;margin-bottom:18px;padding-bottom:12px;border-bottom:1px solid var(--card-border)}
-.sec-icon{font-size:18px}
-.gold-icon{filter:drop-shadow(0 0 6px rgba(245,166,35,.4))}
-.sec-title{font-size:16px;font-weight:600;color:var(--white)}
-.sec-badge{font-family:var(--mono);font-size:10px;color:var(--muted);background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:2px 8px;margin-left:auto}
-.gold-badge{color:var(--gold);border-color:var(--gold-border);background:var(--gold-dim)}
-.divider{height:1px;background:var(--card-border);margin:32px 0}
+.sec-head{display:flex;align-items:center;gap:10px;margin-bottom:20px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+.sec-icon{display:none}
+.sec-title{font-family:var(--display);font-weight:600;font-size:22px;letter-spacing:.14em;text-transform:uppercase;color:var(--white)}
+.sec-badge,.gold-badge{font-family:var(--mono);font-size:10px;color:var(--muted);background:transparent;border:1px solid var(--line);border-radius:10px;padding:2px 8px;margin-left:auto;white-space:nowrap}
+.divider{height:1px;background:var(--line);margin:32px 0}
 /* ── CARDS ── */
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
-.card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:12px;padding:16px;transition:.18s;display:flex;flex-direction:column;gap:8px}
-.card:hover{border-color:var(--teal-border);background:var(--card-hover);transform:translateY(-1px)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px;transition:.18s;display:flex;flex-direction:column;gap:8px}
+.card:hover{border-color:var(--text);background:var(--card-hover);transform:translateY(-1px)}
 .card a{text-decoration:none;color:inherit;display:flex;flex-direction:column;gap:8px;height:100%}
 .card-top{display:flex;align-items:center;justify-content:space-between;gap:8px}
-.vendor{font-family:var(--mono);font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
-.card-name{font-size:14px;font-weight:600;color:var(--white);line-height:1.3}
-.card-desc{font-size:12px;color:var(--muted);line-height:1.5;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.vendor{font-family:var(--mono);font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
+.card-name{font-size:15px;font-weight:700;color:var(--white);letter-spacing:.04em;line-height:1.3}
+.card-desc{font-size:12.5px;color:#b5b5b5;letter-spacing:.05em;line-height:1.5;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .card-foot{display:flex;align-items:center;justify-content:space-between;margin-top:auto;padding-top:8px}
-.card-link{font-size:11px;color:var(--teal);font-weight:500;text-decoration:none}
-.card-link:hover{text-decoration:underline}
-/* badges */
-.badge{font-size:10px;padding:2px 7px;border-radius:8px;font-family:var(--mono);white-space:nowrap;max-width:60%;overflow:hidden;text-overflow:ellipsis}
-.b-free{background:rgba(26,188,156,.15);color:var(--teal);border:1px solid rgba(26,188,156,.3)}
-.b-paid{background:rgba(245,166,35,.12);color:var(--gold);border:1px solid rgba(245,166,35,.25)}
-.b-label{background:var(--card-bg);color:var(--muted);border:1px solid var(--card-border)}
-/* tag chips */
-.tag-chip{font-size:9px;padding:2px 7px;border-radius:8px;font-family:var(--mono);text-transform:uppercase;letter-spacing:.04em}
-.t-audio{background:#102030;color:#60b0e0}.t-video{background:#102010;color:#60c060}
-.t-lighting{background:#302010;color:#e0b040}.t-networking{background:#201030;color:#b060d0}
-.t-control{background:#102028;color:#40d0c0}.t-general{background:#202020;color:#a0a0a0}
-.t-rigging{background:#3a2010;color:#d08050}.t-podcast{background:#2a1a3a;color:#c090e0}
-.t-event{background:#1a3a2a;color:#60c090}.t-cert{background:#3a2a10;color:#d0b060}
-.t-book{background:#1a2a3a;color:#60a0d0}.t-community{background:#1a3a3a;color:#60d0c0}
-.t-software{background:#2a2a10;color:#c0c060}.t-career{background:#3a1a1a;color:#e06060}
-.t-job{background:#1a3a1a;color:#60e060}.t-agency{background:#2a1a2a;color:#c060c0}
-.t-resource{background:#2a1a2a;color:#b08090}
+.card-link{font-family:var(--display);font-size:13px;letter-spacing:.12em;text-transform:uppercase;color:var(--white);text-decoration:underline;text-underline-offset:3px}
+.card-link:hover{opacity:.75}
+/* badges: FREE reads like the white AVE button, the rest stay quiet */
+.badge{font-size:10px;padding:2px 8px;border-radius:8px;font-family:var(--mono);white-space:nowrap;max-width:60%;overflow:hidden;text-overflow:ellipsis}
+.b-free{background:var(--white);color:#000;border:1px solid var(--white)}
+.b-paid{background:transparent;color:var(--text);border:1px solid #666}
+.b-label{background:transparent;color:var(--muted);border:1px solid var(--line)}
+/* tag chips: one monochrome style for every category */
+.tag-chip{font-size:9px;padding:2px 8px;border-radius:8px;font-family:var(--mono);text-transform:uppercase;letter-spacing:.06em;background:transparent;color:#bdbdbd;border:1px solid #3a3a3a}
 /* ── DICT CARDS ── */
 .dict-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
-.dict-card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:10px;padding:12px 14px;transition:.15s}
-.dict-card:hover{border-color:var(--gold-border);background:var(--gold-dim)}
-.dict-card .card-name{font-size:13px;font-weight:600;color:var(--white)}
-.dict-card .card-desc{-webkit-line-clamp:5;color:rgba(248,251,255,.65)}
-.dict-notice{font-size:12px;color:var(--muted);background:var(--gold-dim);border:1px solid var(--gold-border);border-radius:8px;padding:10px 14px;margin-bottom:16px;line-height:1.5}
-/* dict category chips */
-.dt-video{background:#1a2030;color:#80a0e0}.dt-audio{background:#102030;color:#60b0d0}
-.dt-lighting{background:#302010;color:#e0c040}.dt-film{background:#2a1a10;color:#d0906040}
-.dt-xr{background:#201530;color:#c090e0}.dt-rigging{background:#302010;color:#d07040}
-.dt-theater{background:#2a1020;color:#e07090}.dt-general{background:#202020;color:#909090}
+.dict-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;transition:.15s}
+.dict-card:hover{border-color:var(--text);background:var(--card-hover)}
+.dict-card .card-name{font-size:14px;font-weight:700;color:var(--white)}
+.dict-card .card-desc{-webkit-line-clamp:5;color:#b5b5b5}
+.dict-notice{font-size:12px;color:var(--muted);letter-spacing:.06em;background:transparent;border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin-bottom:16px;line-height:1.5}
 /* ── BOOK GRID ── */
 .book-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px}
-.book-card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:12px;overflow:hidden;transition:.18s}
-.book-card:hover{border-color:var(--teal-border);transform:translateY(-2px)}
+.book-card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;transition:.18s}
+.book-card:hover{border-color:var(--text);transform:translateY(-2px)}
 .book-card a{text-decoration:none;color:inherit;display:flex;flex-direction:column;height:100%}
 .book-cover{width:100%;aspect-ratio:2/3;object-fit:cover;display:block}
-.book-cover-ph{width:100%;aspect-ratio:2/3;display:flex;align-items:center;justify-content:center;font-size:40px;background:rgba(255,255,255,.03)}
+.book-cover-ph{width:100%;aspect-ratio:2/3;display:flex;align-items:center;justify-content:center;font-size:40px;background:#151515}
 .book-body{padding:10px;display:flex;flex-direction:column;gap:4px;flex:1}
-.book-title{font-size:12px;font-weight:600;color:var(--white);line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.book-author{font-size:11px;color:var(--muted);line-height:1.3;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
-.book-foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:6px}
-.book-tag{font-size:9px;color:var(--muted);font-family:var(--mono);text-transform:uppercase}
-.book-buy{font-size:11px;color:var(--teal);font-weight:500;opacity:0;transition:.16s}
+.book-title{font-size:13px;font-weight:700;color:var(--white);letter-spacing:.03em;line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.book-author{font-size:11px;color:var(--muted);letter-spacing:.04em;line-height:1.3;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}
+.book-foot{display:flex;flex-direction:column;align-items:flex-start;margin-top:auto;padding-top:8px;gap:6px}
+.book-tag{font-size:9px;color:var(--muted);font-family:var(--mono);text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.book-buy{font-family:var(--display);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--white);text-decoration:underline;text-underline-offset:3px;opacity:.75;transition:.16s;white-space:nowrap}
 .book-card:hover .book-buy{opacity:1}
-.book-aff{font-family:var(--mono);font-size:9px;color:rgba(26,188,156,.4);margin-top:2px}
+.book-aff{font-family:var(--mono);font-size:9px;color:#6f6f6f;margin-top:2px}
 /* ── LOADING STATE ── */
 .loading{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:80px 24px;gap:16px;color:var(--muted)}
-.spinner{width:32px;height:32px;border:2px solid var(--card-border);border-top-color:var(--teal);border-radius:50%;animation:spin .8s linear infinite}
+.spinner{width:32px;height:32px;border:2px solid var(--line);border-top-color:var(--white);border-radius:50%;animation:spin .8s linear infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
 .loading-txt{font-size:13px;font-family:var(--mono)}
 /* ── EMPTY STATE ── */
 .empty{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:80px 24px;gap:12px}
 .empty-icon{font-size:40px;opacity:.4}
-.empty-txt{font-size:14px;color:var(--muted)}
-/* ── DICT PAGINATION ── */
-.load-more{display:block;margin:24px auto 0;background:var(--gold-dim);border:1px solid var(--gold-border);border-radius:999px;padding:10px 28px;font-size:14px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);cursor:pointer;font-family:var(--display);transition:.18s}
-.load-more:hover{background:rgba(245,166,35,.2)}
+.empty-txt{font-size:14px;color:var(--muted);letter-spacing:.06em}
+/* ── AVE BUTTON (matches "JOIN THE AVE FAM") ── */
+.cta-btn,.load-more{display:inline-block;background:var(--white);color:#000;font-family:var(--display);font-weight:400;font-size:18px;letter-spacing:.1em;text-transform:uppercase;padding:15px 22px;border-radius:15px;border:0;text-decoration:none;cursor:pointer;transition:opacity .18s}
+.cta-btn:hover,.load-more:hover{opacity:.8}
+.load-more{display:block;margin:28px auto 0}
 /* ── CTA ── */
-.cta{text-align:center;padding:48px 24px 64px;border-top:1px solid var(--card-border)}
-.cta h3{font-family:var(--display);font-weight:600;font-size:28px;letter-spacing:.14em;color:var(--white);margin-bottom:8px}
-.cta p{font-size:14px;color:var(--muted);margin-bottom:20px}
-/* AVE button: white pill, black condensed caps (matches "JOIN THE AVE FAM" on aveducate.com) */
-.cta-btn{display:inline-block;background:#fff;color:#000;font-family:var(--display);font-weight:500;font-size:16px;letter-spacing:.12em;text-transform:uppercase;padding:12px 30px;border-radius:999px;border:1px solid #fff;text-decoration:none;transition:.18s}
-.cta-btn:hover{background:transparent;color:#fff}
-.disclosure{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:28px;line-height:1.6}
+.cta{text-align:center;padding:56px 24px 64px;border-top:1px solid var(--line)}
+.cta h3{font-family:var(--display);font-weight:600;font-size:30px;letter-spacing:.14em;margin-right:-.14em;color:var(--white);margin-bottom:10px}
+.cta p{font-size:15px;color:var(--text);letter-spacing:.1em;margin-bottom:24px}
+.disclosure{font-size:12px;color:var(--muted);letter-spacing:.1em;max-width:720px;margin:32px auto 0;line-height:1.5}
+.cta p.disclosure{font-size:12px;color:var(--muted);margin-bottom:0}
 /* ── SIGN-UP GATE (shown when the library is opened outside aveducate.com) ── */
 .gate{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:48px 24px}
-.gate .hero-sub{margin-bottom:28px}
-.gate-note{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:18px;letter-spacing:.06em}
+.gate .hero-sub{margin-bottom:32px}
+.gate-note{font-size:12px;color:var(--muted);letter-spacing:.1em;margin-top:20px}
+/* ── PHONES ── */
+@media (max-width:520px){
+  .controls,#main,.dict-filters{padding-left:16px;padding-right:16px}
+  .hero{padding:56px 16px 44px}
+  .book-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+  .sec-title{font-size:18px;letter-spacing:.12em}
+  .pill{font-size:13px;padding:7px 13px}
+  .cta h3{font-size:24px}
+}
 </style>
 </head>
 <body>
 
 <div id="gate" class="hero gate hidden">
-  <div class="hero-bg"></div>
-  <div class="hero-glow"></div>
   <div class="wordmark"><a href="https://www.aveducate.com" target="_top">[ AV Educate ]</a></div>
   <div class="eyebrow">Free Member Resource</div>
   <h1>The AV<br><span>Library</span></h1>
@@ -161,8 +150,6 @@ h1 span{color:var(--teal)}
 
 <div id="library">
 <div class="hero">
-  <div class="hero-bg"></div>
-  <div class="hero-glow"></div>
   <div class="wordmark"><a href="https://www.aveducate.com" target="_top">[ AV Educate ]</a></div>
   <div class="eyebrow">Member Resource Hub</div>
   <h1>The AV<br><span>Library</span></h1>
@@ -193,15 +180,15 @@ h1 span{color:var(--teal)}
   </div>
   <div class="filters">
     <button class="pill on" data-cat="all">All</button>
-    <button class="pill" data-cat="apps">📱 Apps</button>
-    <button class="pill" data-cat="training">🎓 Training</button>
-    <button class="pill" data-cat="software">💻 Software</button>
-    <button class="pill" data-cat="books">📚 Books</button>
-    <button class="pill" data-cat="careers">💼 Careers</button>
-    <button class="pill" data-cat="certs">🏆 Certs</button>
-    <button class="pill" data-cat="workbox">🛠️ WorkBox</button>
-    <button class="pill" data-cat="community">👥 Community</button>
-    <button class="pill dict-pill" data-cat="dictionary">📖 AV Dictionary</button>
+    <button class="pill" data-cat="apps">Apps</button>
+    <button class="pill" data-cat="training">Training</button>
+    <button class="pill" data-cat="software">Software</button>
+    <button class="pill" data-cat="books">Books</button>
+    <button class="pill" data-cat="careers">Careers</button>
+    <button class="pill" data-cat="certs">Certs</button>
+    <button class="pill" data-cat="workbox">WorkBox</button>
+    <button class="pill" data-cat="community">Community</button>
+    <button class="pill dict-pill" data-cat="dictionary">AV Dictionary</button>
   </div>
   <span class="result-count" id="rcount"></span>
 </div>
