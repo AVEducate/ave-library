@@ -1,0 +1,794 @@
+[
+  {
+    "name": "Curtis Judd",
+    "vendor": "YouTube",
+    "desc": "Learn lighting and sound for video. I post a new video every week covering lighting, sound, and camera gear for producing better video and film.",
+    "url": "https://www.youtube.com/@LearnLightAndSoundSessions",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Audio University",
+    "vendor": "YouTube",
+    "desc": "Audio University helps musicians and audio engineers learn audio production with quick, easy-to-understand videos.",
+    "url": "https://www.youtube.com/@AudioUniversity",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Sound On Sound",
+    "vendor": "YouTube",
+    "desc": "The world's authoritative, highly respected recording and music technology magazine and award-winning website. Published monthly since 1985 and still the No. 1 audio resource, now in multiple formats.",
+    "url": "https://www.youtube.com/@soundonsound",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "SoundGuys",
+    "vendor": "YouTube",
+    "desc": "We review headphones, speakers, microphones, and anything else related to consumer audio.",
+    "url": "https://www.youtube.com/@SoundGuys",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "The Production Academy",
+    "vendor": "YouTube",
+    "desc": "Produce great live sound at any venue. Our videos give you the training you need to step up to the mixer and blow the audience's mind at every gig.",
+    "url": "https://www.youtube.com/@theproductionacademy",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Offshore Audio",
+    "vendor": "YouTube",
+    "desc": "Videos to help budding live sound engineers, enthusiasts and volunteers mix better-sounding live events and have more fun doing it.",
+    "url": "https://www.youtube.com/@OffshoreAudio",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Digital DJ Tips",
+    "vendor": "YouTube",
+    "desc": "Learn to DJ with the world's largest online DJ and production school.",
+    "url": "https://www.youtube.com/@digitaldjtips",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "DJ TechTools",
+    "vendor": "YouTube",
+    "desc": "DJ TechTools is the internet headquarters and largest community for DJs dedicated to pushing the envelope and helping others get better. We make digital DJing powerful, easy, and fun.",
+    "url": "https://www.youtube.com/@djtechtools",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Point Blank Music School",
+    "vendor": "YouTube",
+    "desc": "Point Blank is the global music school, with courses in London, LA, Ibiza and online. Voted \"Best electronic music school\" by DJ Mag.",
+    "url": "https://www.youtube.com/@PointBlankMusicSchool",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Produce Like A Pro",
+    "vendor": "YouTube",
+    "desc": "I want to share with you all of my experience of making records every day. Want to improve your recording and mixing? Be part of an amazing community of people who help each other.",
+    "url": "https://www.youtube.com/@Producelikeapro",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Recording Revolution",
+    "vendor": "YouTube",
+    "desc": "This is The Recording Revolution, a channel dedicated to helping you make better recordings and mixes in your home studio!",
+    "url": "https://www.youtube.com/@recordingrevolution",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Pensado's Place",
+    "vendor": "YouTube",
+    "desc": "Top mixing engineer Dave Pensado and Herb Trawick talk all things audio in their weekly show.",
+    "url": "https://www.youtube.com/@pensadosplace",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Mix with the Masters",
+    "vendor": "YouTube",
+    "desc": "The Mix with the Masters program offers the unique opportunity to work closely with the world's top music mixers, producers and engineers and to improve one's skills in music production.",
+    "url": "https://www.youtube.com/@mixwiththemasters",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Waves Audio",
+    "vendor": "YouTube",
+    "desc": "Waves is the world's leading developer of professional audio plugins for music production, mixing, mastering, live sound, and post production.",
+    "url": "https://www.youtube.com/@waves",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Andertons Music Co.",
+    "vendor": "YouTube",
+    "desc": "This channel is dedicated to guitars, effects pedals and amplifiers, showcasing all of the best gear as well as legendary guest players.",
+    "url": "https://www.youtube.com/@andertons",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "In The Mix",
+    "vendor": "YouTube",
+    "desc": "In The Mix is all about simplifying the recording, production, mixing and mastering process. No matter which DAW you use or what equipment you have, I'm determined to help you succeed and unlock your creativity.",
+    "url": "https://www.youtube.com/@inthemix",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Sonic Academy",
+    "vendor": "YouTube",
+    "desc": "Join the world's leading online electronic music academy. Watch over 1,350 hours of step-by-step masterclass tutorials from industry-leading A-list producers and DJs and take your production skills to the next level.",
+    "url": "https://www.youtube.com/@sonicacademy",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Dave Rat",
+    "vendor": "YouTube",
+    "desc": "Sharing pro audio info, knowledge and adventures.",
+    "url": "https://www.youtube.com/@DaveRat",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Kinetic Audio Technology",
+    "vendor": "YouTube",
+    "desc": "The official channel for Kinetic Audio Technology, a Bay Area sound company specializing in broadcast, system optimization, digital consoles, intercom systems and audio networking solutions.",
+    "url": "https://www.youtube.com/@KINETICAUDIOTECHNOLOGY",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Yamaha Global",
+    "vendor": "YouTube",
+    "desc": "Welcome to the Yamaha Corporation YouTube channel! Videos on musical instruments, events, and much more.",
+    "url": "https://www.youtube.com/@yamahaglobal",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Nathan Lively",
+    "vendor": "YouTube",
+    "desc": "This channel focuses on the growing opportunity for live sound engineers to improve their confidence and consistency through the understanding of the principles of sound system design and optimization.",
+    "url": "https://www.youtube.com/@nathanlively",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "RF Venue",
+    "vendor": "YouTube",
+    "desc": "RF training: wireless antennas, in-ear monitors and wireless audio setups for live sound and worship.",
+    "url": "https://www.youtube.com/@rfvenue",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Shure",
+    "vendor": "YouTube",
+    "desc": "Founded in 1925, Shure Incorporated is widely acknowledged as the world's leading manufacturer of microphones and audio electronics.",
+    "url": "https://www.youtube.com/@shure",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Midas",
+    "vendor": "YouTube",
+    "desc": "Midas believes that mixing engineers are the voice of the artist. That trusted bond demands the sonic integrity that only Midas provides.",
+    "url": "https://www.youtube.com/@MidasOfficial",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "ProAudioEXP",
+    "vendor": "YouTube",
+    "desc": "Pro Audio EXP is the place for musicians, audio engineers, and music producers to be inspired and learn their craft.",
+    "url": "https://www.youtube.com/@ProAudioEXP",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Audio Builders Workshop",
+    "vendor": "YouTube",
+    "desc": "Audio Builders offers how-to videos and in-depth explanations of audio production, audio engineering, and anything in audio that you want to build.",
+    "url": "https://www.youtube.com/@AudioBuildersWorkshop",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "DcSoundOp",
+    "vendor": "YouTube",
+    "desc": "A fun audio learning channel.",
+    "url": "https://www.youtube.com/@DcSoundOp",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "OwnTheMix",
+    "vendor": "YouTube",
+    "desc": "Over 100 videos providing a free live mixing and audio education.",
+    "url": "https://www.youtube.com/@OwnTheMix",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Joe | JLDJUK",
+    "vendor": "YouTube",
+    "desc": "I set out making YouTube videos to help other DJs out there and share knowledge.",
+    "url": "https://www.youtube.com/@jldjukvideo",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Ballast Media",
+    "vendor": "YouTube",
+    "desc": "Better sound for church live streams: mixing music for the stream, Reaper console templates and PTZ camera reviews.",
+    "url": "https://www.youtube.com/@BallastMedia",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Rob Lipop",
+    "vendor": "YouTube",
+    "desc": "Comms and intercom know-how: concepts, RTS history and engineer challenges. Check out the playlist for Comms.",
+    "url": "https://www.youtube.com/@roblipop8797",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Drew Brashler",
+    "vendor": "YouTube",
+    "desc": "Whether you're working on a large or small scale production, I want to help you feel more confident in the gear you're purchasing and using.",
+    "url": "https://www.youtube.com/@DrewBrashler",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Michael Curtis",
+    "vendor": "YouTube",
+    "desc": "I make shows, venues, and services sound freakishly good and teach others to do the same.",
+    "url": "https://www.youtube.com/@MichaelCurtisAudio",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Robert Scovill",
+    "vendor": "YouTube",
+    "desc": "A massive playlist of audio how-to videos.",
+    "url": "https://www.youtube.com/@RobertScovill",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Barco Cinema",
+    "vendor": "YouTube",
+    "desc": "Elevating entertainment globally with cutting-edge cinema tech, including laser projection and HDR, for an unparalleled big screen experience.",
+    "url": "https://www.youtube.com/@BarcoCinema",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Kevin Ring - Video Tutorials",
+    "vendor": "YouTube",
+    "desc": "In-depth training and tutorial videos that will help you out the most in the field.",
+    "url": "https://www.youtube.com/@kevinringvideo",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "AnalogWay TV",
+    "vendor": "YouTube",
+    "desc": "Analog Way products provide advanced solutions for the broadcast, AV, rental and staging, house of worship, corporate and industrial markets.",
+    "url": "https://www.youtube.com/@AnalogWayTV",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Blackmagic Design",
+    "vendor": "YouTube",
+    "desc": "Informative and exciting videos about Blackmagic Design products and how to use them, along with customer testimonials and behind-the-scenes videos that show them in action on real-world productions!",
+    "url": "https://www.youtube.com/@BlackmagicDesignOfficial",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Roland Professional A/V",
+    "vendor": "YouTube",
+    "desc": "Roland Professional A/V provides commercial and performance audio/video products specializing in applications for live mixing, broadcast, live streaming and switching.",
+    "url": "https://www.youtube.com/@RolandProfessionalAV",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Ross Video",
+    "vendor": "YouTube",
+    "desc": "Powering video productions for billions of global viewers, using the industry's widest range of smart production solutions.",
+    "url": "https://www.youtube.com/@Rossvideo",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Broadcast Buddy TV",
+    "vendor": "YouTube",
+    "desc": "The all-around, go-to channel for all things broadcast television: tips, tricks, and know-how to help make you a better broadcaster.",
+    "url": "https://www.youtube.com/@BroadcastBuddyTV",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "David Joshua Ford",
+    "vendor": "YouTube",
+    "desc": "Learn how to automate your livestreams and video production. I'm a director based in New York City for the video production company Refilmery.",
+    "url": "https://www.youtube.com/@davidjoshuaford",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Here to Record",
+    "vendor": "YouTube",
+    "desc": "Weekly content on all things video! Show and Tell fills in the information you need to get your own live streaming and event videos up and running.",
+    "url": "https://www.youtube.com/@heretorecord",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Doug Johnson Productions",
+    "vendor": "YouTube",
+    "desc": "This channel is used to share what we've learned, to review products, and generally contribute to the video production community.",
+    "url": "https://www.youtube.com/@djp_video",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Aaron Parecki",
+    "vendor": "YouTube",
+    "desc": "Answering your questions about the ATEM Mini, YoloBox, and livestreaming! Live on Sundays at 9am Pacific Time.",
+    "url": "https://www.youtube.com/@aaronpk",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Tech Condo",
+    "vendor": "YouTube",
+    "desc": "Learn about new livestream gear and how to stream multicamera event and hybrid corporate productions.",
+    "url": "https://www.youtube.com/@TechCondo",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Emmanuel Crown",
+    "vendor": "YouTube",
+    "desc": "I know a thing or two, so I teach a thing or two :) mainly around multimedia and tech, through hands-on tutorials and explainer videos.",
+    "url": "https://www.youtube.com/@EmmanuelCrown",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Tom Buck",
+    "vendor": "YouTube",
+    "desc": "Fun with audio, video and creative technology. My goal for each video is to be interesting, helpful or at least mildly entertaining.",
+    "url": "https://www.youtube.com/@tombuck",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Ryan Somerfield",
+    "vendor": "YouTube",
+    "desc": "Livestreaming tips, tutorials and builds. I am here to try and help you achieve your best live production!",
+    "url": "https://www.youtube.com/@RyanSomerfield",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Renewed Vision",
+    "vendor": "YouTube",
+    "desc": "Live production and presentation software. ProPresenter is a cross-platform (Mac and Windows) presentation and production application for live events.",
+    "url": "https://www.youtube.com/@RenewedVisionLLC",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Resolume",
+    "vendor": "YouTube",
+    "desc": "Resolume is an instrument for VJs, AV performers and video artists. Resolume puts all your media and effects right at your fingertips, so you can quickly play and improvise your live visuals.",
+    "url": "https://www.youtube.com/@ResolumeVJSoftware",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Videoguys",
+    "vendor": "YouTube",
+    "desc": "Videoguys.com is family owned and operated and has proudly served videographers and producers like you for the past 25 years.",
+    "url": "https://www.youtube.com/@Videoguys",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Live Production Mastery",
+    "vendor": "YouTube",
+    "desc": "Brandon Peltz talks tech about Blackmagic Design and many other companies, brands, products and topics, and shows the secret sauce of how his gigs, events and projects are executed.",
+    "url": "https://www.youtube.com/@liveproductionmastery",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "High Resolution Engineering",
+    "vendor": "YouTube",
+    "desc": "HRE is the premier specialized provider of high-end video processing, screen switching, video signal management, media servers and control technologies and services to the live events industry.",
+    "url": "https://www.youtube.com/@highresolutionengineering",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Leader America",
+    "vendor": "YouTube",
+    "desc": "Leader Electronics and PHABRIX Ltd. manufacture innovative test and measurement equipment used for TV and film production and broadcasting around the world.",
+    "url": "https://www.youtube.com/@leaderelectronics",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Vizrt (formerly NewTek)",
+    "vendor": "YouTube",
+    "desc": "NewTek has joined forces with Vizrt to become one organization: Vizrt. This is Vizrt's official channel for its live production tools.",
+    "url": "https://www.youtube.com/@VizrtOfficial",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Streaming Alchemy",
+    "vendor": "YouTube",
+    "desc": "Advanced production challenges, practical solutions: for everyone from national broadcast networks to corporate event producers to solo web streamers.",
+    "url": "https://www.youtube.com/@StreamingAlchemy",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "DocOptic",
+    "vendor": "YouTube",
+    "desc": "Live visual video content and training for current and aspiring VJs, DJs, video artists, and audiovisual performers.",
+    "url": "https://www.youtube.com/@DocOptic",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Barco Image Processing",
+    "vendor": "YouTube",
+    "desc": "Videos highlighting Barco's ImagePRO processing products, featuring tutorials on new software features and how-to videos designed with the user in mind.",
+    "url": "https://www.youtube.com/@BarcoImageProcessing",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Eastern Shore Broadcasting",
+    "vendor": "YouTube",
+    "desc": "Tom Sinclair, the \"Streaming Idiot,\" has been a live streaming advocate since his first live stream in 2008.",
+    "url": "https://www.youtube.com/@EasternShoreBroadcasting",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "StreamGeeks",
+    "vendor": "YouTube",
+    "desc": "Home for our live streams, video recordings, podcasts and other streaming media!",
+    "url": "https://www.youtube.com/@StreamGeeks",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "NDI",
+    "vendor": "YouTube",
+    "desc": "NDI harnesses the power of software, computers, and networks to make video creation and sharing accessible and fun for millions, helping fuel the software-defined visual storytelling revolution.",
+    "url": "https://www.youtube.com/@NDIconnects",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Live X",
+    "vendor": "YouTube",
+    "desc": "The producers and originators of the official webcast of Times Square New Year's Eve, LiveX uses innovative technologies and multimedia to help industry-leading clients create captivating live events.",
+    "url": "https://www.youtube.com/@LivexTv1",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Gael LEVEL",
+    "vendor": "YouTube",
+    "desc": "Twitch live streaming tutorials, OBS Studio guides, and content creator tips and advice.",
+    "url": "https://www.youtube.com/@Gael_Level",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "nutty",
+    "vendor": "YouTube",
+    "desc": "OBS and Stream Deck training.",
+    "url": "https://www.youtube.com/@nuttylmao",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "MadMapper",
+    "vendor": "YouTube",
+    "desc": "Tutorials, tips and tricks, events and reports about MadMapper, the mapping software.",
+    "url": "https://www.youtube.com/@madmapperthemappingsoftwar9943",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Lucinda Dilworth",
+    "vendor": "YouTube",
+    "desc": "Projection mapping, augmented reality art and VJ work.",
+    "url": "https://www.youtube.com/@dil.worth3",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Sean Bowes",
+    "vendor": "YouTube",
+    "desc": "All about concert visuals! Tutorials on my favorite software, behind the scenes of some of my favorite projects, and a look into my life.",
+    "url": "https://www.youtube.com/@SeanBowes",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Luma Box",
+    "vendor": "YouTube",
+    "desc": "The Luma Box channel is all about projection mapping. It covers house mapping, cake mapping and other video mapping projects.",
+    "url": "https://www.youtube.com/@LumaBox",
+    "cost": "Free",
+    "tag": "Video"
+  },
+  {
+    "name": "Vista by Chroma-Q",
+    "vendor": "YouTube",
+    "desc": "The Vista lighting and media control platform has been embraced by leading designers, production companies, and venues around the world since its launch in 2004.",
+    "url": "https://www.youtube.com/@VistabyChromaQ",
+    "cost": "Free",
+    "tag": "Lighting"
+  },
+  {
+    "name": "Event-Lighting",
+    "vendor": "YouTube",
+    "desc": "grandMA3 programming for beginners: information tailored directly to people who have never worked with grandMA3 before.",
+    "url": "https://www.youtube.com/@event-lighting",
+    "cost": "Free",
+    "tag": "Lighting"
+  },
+  {
+    "name": "Learn Stage Lighting",
+    "vendor": "YouTube",
+    "desc": "Learn Stage Lighting is a community dedicated to one thing: improving your stage lighting. Whether you're just beginning or have been around awhile, check out the tutorials, inspiration videos and the other channels we follow.",
+    "url": "https://www.youtube.com/@LearnStageLighting",
+    "cost": "Free",
+    "tag": "Lighting"
+  },
+  {
+    "name": "ETC (Electronic Theatre Controls)",
+    "vendor": "YouTube",
+    "desc": "The official channel of ETC: tutorials for the Eos, Cobalt and ColorSource console families, plus ETC's LED fixtures, rigging and architectural lighting.",
+    "url": "https://www.youtube.com/@ElectronicTheatreControls",
+    "cost": "Free",
+    "tag": "Lighting"
+  },
+  {
+    "name": "MakeItLight",
+    "vendor": "YouTube",
+    "desc": "MakeItLight is a community of lighting designers and users with expertise in a variety of lighting systems.",
+    "url": "https://www.youtube.com/@light.makeit.events",
+    "cost": "Free",
+    "tag": "Lighting"
+  },
+  {
+    "name": "Console Training",
+    "vendor": "YouTube",
+    "desc": "Online resources to assist with the development and education of lighting engineers.",
+    "url": "https://www.youtube.com/@ConsoleTraining",
+    "cost": "Free",
+    "tag": "Lighting"
+  },
+  {
+    "name": "aGuyNamedJonas",
+    "vendor": "YouTube",
+    "desc": "Producing grandMA2 shows and tutorial videos.",
+    "url": "https://www.youtube.com/@aGuyNamedJonas",
+    "cost": "Free",
+    "tag": "Lighting"
+  },
+  {
+    "name": "ChamSys",
+    "vendor": "YouTube",
+    "desc": "ChamSys' mission is to use the latest technology to bring developments to the lighting console market, with the ultimate aim of high performance at low cost with high reliability.",
+    "url": "https://www.youtube.com/@ChamSysLtd",
+    "cost": "Free",
+    "tag": "Lighting"
+  },
+  {
+    "name": "ACT Entertainment",
+    "vendor": "YouTube",
+    "desc": "ACT Entertainment enhances live experiences by discovering, developing, and delivering products that create value for customers, supported with industry-leading service and education.",
+    "url": "https://www.youtube.com/@ACTEntertainmentNA",
+    "cost": "Free",
+    "tag": "Lighting"
+  },
+  {
+    "name": "Pro Church Tools",
+    "vendor": "YouTube",
+    "desc": "Helping your church navigate the biggest communication shift in 500 years. Hosted by Brady Shearer and Alexander Mills. New episodes every Wednesday.",
+    "url": "https://www.youtube.com/@prochurchtoolsshow",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Churchfront",
+    "vendor": "YouTube",
+    "desc": "Free video content for worship leaders and production leaders in the local church.",
+    "url": "https://www.youtube.com/@Churchfront",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "AVNation Media",
+    "vendor": "YouTube",
+    "desc": "AVNation is the network for and about the audiovisual industry. From the commercial to residential sides and everything in between, we've got you covered!",
+    "url": "https://www.youtube.com/@AVNation",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Office Hours Global",
+    "vendor": "YouTube",
+    "desc": "Office Hours Global is a conversation where no one is left out. Live every morning, answering questions and helping you understand audio and video tech in film, TV, and online production.",
+    "url": "https://www.youtube.com/@OfficeHoursGlobal",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "rAVe [PUBS]",
+    "vendor": "YouTube",
+    "desc": "Product pitches filmed at trade shows, from manufacturers and distributors in the AV industry.",
+    "url": "https://www.youtube.com/@ravepubs",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Christian Jackson",
+    "vendor": "YouTube",
+    "desc": "Exploring the world of live event production and the equipment used to put on full-scale events, from a behind-the-scenes perspective.",
+    "url": "https://www.youtube.com/@christianjackson",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Evolve Technology",
+    "vendor": "YouTube",
+    "desc": "Online tutorials for various AV products. The Evolve Academy offers online and instructor-led training at its locations in Orlando, FL and Las Vegas, NV.",
+    "url": "https://www.youtube.com/@rentbuylearn",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Technotes",
+    "vendor": "YouTube",
+    "desc": "technotes.tv is an online learning community that provides proven, practical and professional training in all areas of live production and audiovisual.",
+    "url": "https://www.youtube.com/@technotes1523",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Paul Alan Clifford",
+    "vendor": "YouTube",
+    "desc": "Making church technology understandable: ProPresenter training, podcasting, volunteers and church media.",
+    "url": "https://www.youtube.com/@PaulClifford",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Linus Tech Tips",
+    "vendor": "YouTube",
+    "desc": "Linus Tech Tips is a passionate team of \"professionally curious\" experts in consumer technology and video production who aim to educate and entertain.",
+    "url": "https://www.youtube.com/@LinusTechTips",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Techquickie",
+    "vendor": "YouTube",
+    "desc": "Ever wanted to learn more about your favorite gadgets or a trending topic in tech? With a mix of humor, cynicism, and insight, Techquickie brings you the answers to all your tech questions.",
+    "url": "https://www.youtube.com/@Techquickie",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "MxU",
+    "vendor": "YouTube",
+    "desc": "The all-in-one training platform for church worship and tech teams.",
+    "url": "https://www.youtube.com/@mxuapp",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "NetworkChuck",
+    "vendor": "YouTube",
+    "desc": "I LOVE Information Technology! My goal is to help as many people as possible jump into a career in IT by getting IT certifications.",
+    "url": "https://www.youtube.com/@NetworkChuck",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "ProAVSchool",
+    "vendor": "YouTube",
+    "desc": "ProAVSchool shares training videos on Crestron programming, AV installation, and other topics around working effectively in the professional audiovisual industry.",
+    "url": "https://www.youtube.com/@ProAVSchool",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "NETGEAR",
+    "vendor": "YouTube",
+    "desc": "NETGEAR, a pioneer in advanced networking technologies and the AV industry standard for most shows.",
+    "url": "https://www.youtube.com/@Netgear",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Blender",
+    "vendor": "YouTube",
+    "desc": "Official YouTube channel for Blender, the free and open source 3D creation suite.",
+    "url": "https://www.youtube.com/@BlenderOfficial",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Chris' Tutorials",
+    "vendor": "YouTube",
+    "desc": "Game development and other PC software tutorials: GIMP, DaVinci Resolve, Unity, Unreal Engine, Blender, Godot and similar software.",
+    "url": "https://www.youtube.com/@ChrisTutorialsYT",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Skills Factory",
+    "vendor": "YouTube",
+    "desc": "Welcome to the Skills Factory! A proud group of freelancers delivering skills since May 25th, 2013!",
+    "url": "https://www.youtube.com/@bai",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "Technology for Teachers and Students",
+    "vendor": "YouTube",
+    "desc": "I'm an educator and educational technology enthusiast. The videos on this channel will help you learn how to use a wide range of computer software applications, educational websites, and other technology tools.",
+    "url": "https://www.youtube.com/@techteachersandstudents",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "TJ FREE",
+    "vendor": "YouTube",
+    "desc": "Accurate information for people looking for free alternatives to proprietary and paid software. All of the programs recommended here are free to download and use, and most are free open source software (FOSS).",
+    "url": "https://www.youtube.com/@TJFREE",
+    "cost": "Free",
+    "tag": "General"
+  },
+  {
+    "name": "AV Educate",
+    "vendor": "YouTube",
+    "desc": "EQUIPPING, ENABLING, and EMPOWERING audio-visual freelancers to go from stagehands, to technicians, to engineers!",
+    "url": "https://www.youtube.com/@AVEducate",
+    "cost": "Free",
+    "tag": "General"
+  }
+]

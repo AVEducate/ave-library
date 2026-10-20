@@ -44,6 +44,7 @@
   var CARDS = [
     { key: 'apps', title: 'Apps', kind: 'icons', text: 'Calculators, test signals and field tools for your phone and tablet.' },
     { key: 'training', title: 'Training', kind: 'icons', text: 'Audio, video, lighting, networking and rigging courses from the brands you use.' },
+    { key: 'youtube', title: 'YouTube', kind: 'icons', text: 'Audio, video, lighting and live streaming channels to keep you learning.' },
     { key: 'software', title: 'Software', kind: 'icons', text: 'AV, VJ and playback software, from show control to signage.' },
     { key: 'books', title: 'Books', kind: 'covers', text: 'Video and color, lighting and power, audio, leadership and the business of AV.' },
     { key: 'careers', title: 'Careers', kind: 'icons', text: 'Agencies, crew directories, labor forms and job boards.' },

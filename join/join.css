@@ -52,6 +52,8 @@
 /* one card per library section: the picture area is a snippet of the
    section, filled edge to edge and fading out (members see the rest) */
 .avl-cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:44px;text-align:left}
+/* nine section cards make three full rows; the AV Dictionary runs across the bottom */
+.avl-card[data-card="terms"]{grid-column:1 / -1}
 .avl-card{display:flex;flex-direction:column;border:1px solid var(--avl-line);border-radius:4px;background:var(--avl-card);overflow:hidden;
   color:inherit;text-decoration:none;transition:border-color .15s}
 .avl-card:hover,.avl-card:focus-visible{border-color:var(--avl-text)}
@@ -98,7 +100,8 @@
 
 @media (max-width:1000px){
   .avl-cards{grid-template-columns:repeat(2,minmax(0,1fr))}
-  .avl-card[data-card="terms"]{grid-column:1 / -1}
+  /* two columns: the ten cards make five full rows */
+  .avl-card[data-card="terms"]{grid-column:auto}
 }
 @media (max-width:560px){
   .avl-hero{padding:40px 16px 40px}

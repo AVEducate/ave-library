@@ -188,7 +188,7 @@ h1 span{color:var(--white)}
   <div class="wordmark"><a href="https://www.aveducate.com" target="_top">[ AV Educate ]</a></div>
   <div class="eyebrow">Free Member Resource</div>
   <h1>The AV<br><span>Library</span></h1>
-  <p class="hero-sub">Apps, training, software, books, certifications, careers and a 10,223-term AV dictionary &mdash; free for the AV community. Join the AVE Fam with your email to get access.</p>
+  <p class="hero-sub">Apps, training, YouTube channels, software, books, certifications, careers and a 10,223-term AV dictionary &mdash; free for the AV community. Join the AVE Fam with your email to get access.</p>
   <a class="cta-btn" id="gateBtn" href="https://www.aveducate.com/the-av-library" target="_top">Join Free to Unlock</a>
   <div class="gate-note">Already signed up? Open the library from aveducate.com.</div>
 </div>
@@ -201,7 +201,7 @@ h1 span{color:var(--white)}
   <div class="wordmark"><a href="https://www.aveducate.com" target="_top">[ AV Educate ]</a></div>
   <div class="eyebrow">Member Resource Hub</div>
   <h1>The AV<br><span>Library</span></h1>
-  <p class="hero-sub">Thousands of curated resources for the AV workforce &mdash; apps, training, software, books, certifications, careers, and a full AV dictionary with 10,223 clean, sorted terms.</p>
+  <p class="hero-sub">Thousands of curated resources for the AV workforce &mdash; apps, training, YouTube channels, software, books, certifications, careers, and a full AV dictionary with 10,223 clean, sorted terms.</p>
   <div class="stats">
     <div class="stat"><div class="stat-n" data-stat="apps">129</div><div class="stat-l">Apps</div></div>
     <div class="stat-d"></div>
@@ -234,6 +234,7 @@ h1 span{color:var(--white)}
     <button class="pill on" data-cat="all">All</button>
     <button class="pill" data-cat="apps">Apps</button>
     <button class="pill" data-cat="training">Training</button>
+    <button class="pill" data-cat="youtube">YouTube</button>
     <button class="pill" data-cat="software">Software</button>
     <button class="pill" data-cat="books">Books</button>
     <button class="pill" data-cat="careers">Careers</button>
@@ -304,6 +305,7 @@ const DICT_PAGE_SIZE = 200; // how many dictionary terms to show at once
 const SECTIONS = [
   {key:'apps',     icon:'📱', title:'Apps & Tools'},
   {key:'training', icon:'🎓', title:'Training & Courses'},
+  {key:'youtube',  icon:'📺', title:'YouTube Channels'},
   {key:'software', icon:'💻', title:'Software'},
   {key:'careers',  icon:'💼', title:'Careers, Agencies, Crews & Resources'},
   {key:'certs',    icon:'🏆', title:'Certifications'},
@@ -353,7 +355,7 @@ function preloadAll() {
 // hero counts follow the data files, so they stay right when the sheet grows.
 // Archived cards ("archived": true) are Dead Pixels: they only count in the
 // Dead Pixels total, never in a section's count.
-var TOTAL_KEYS = ['apps','training','software','books','certs','careers','community','workbox'];
+var TOTAL_KEYS = ['apps','training','youtube','software','books','certs','careers','community','workbox'];
 function updateStats() {
   document.querySelectorAll('[data-stat]').forEach(function(el) {
     var key = el.getAttribute('data-stat');
@@ -418,14 +420,15 @@ function makeBookCard(it) {
     + '</div></a></div>';
 }
 
-// ── ICON CARDS: Apps, Software, Training, Careers, Certs, Community ───────
+// ── ICON CARDS: Apps, Software, Training, YouTube, Careers, Certs, Community
 // These cards show an icon or logo on the left. Apps take it from
 // app-icons.json (app_icons.py: the App Store or Google Play icon, else the
 // app's website icon); the other sections from <section>-icons.json
-// (site_icons.py: copies kept in icons/). All the files are keyed the same
-// way as iconKey() below.
+// (site_icons.py: copies kept in icons/; YouTube cards get the channel's
+// picture). All the files are keyed the same way as iconKey() below.
 var ICON_FILES = {apps: 'app-icons', software: 'software-icons', training: 'training-icons',
-                  careers: 'careers-icons', certs: 'certs-icons', community: 'community-icons'};
+                  youtube: 'youtube-icons', careers: 'careers-icons', certs: 'certs-icons',
+                  community: 'community-icons'};
 
 function iconKey(u) {
   var m = u.match(/(?:apps|itunes)\.apple\.com\/.*?\bid(\d+)/);

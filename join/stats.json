@@ -1,10 +1,11 @@
 {
- "resources": 1267,
+ "resources": 1366,
  "terms": 10223,
  "counts": {
   "apps": 120,
   "software": 150,
   "training": 319,
+  "youtube": 99,
   "certs": 53,
   "careers": 277,
   "community": 32,
@@ -57,6 +58,29 @@
    "icons/82f29e235d.png",
    "icons/7fb00397fd.jpg",
    "icons/7334654ad2.jpg"
+  ],
+  "youtube": [
+   "icons/baedc6366c.jpg",
+   "icons/659698ac48.jpg",
+   "icons/6c561597d8.jpg",
+   "icons/f0f23fb4ec.jpg",
+   "icons/9c41074b95.jpg",
+   "icons/5e2c15f816.jpg",
+   "icons/b359292d28.jpg",
+   "icons/9e7096a197.jpg",
+   "icons/41d060e5ef.jpg",
+   "icons/a917dde0a9.jpg",
+   "icons/2bec5d9f02.jpg",
+   "icons/4032d95004.jpg",
+   "icons/d747a99d2e.jpg",
+   "icons/8203887d06.jpg",
+   "icons/8c1762dc00.jpg",
+   "icons/644d42229c.jpg",
+   "icons/bd9989c79f.jpg",
+   "icons/8f99884a95.jpg",
+   "icons/59a5ead9aa.jpg",
+   "icons/1273282d36.jpg",
+   "icons/9c4e0d0380.jpg"
   ],
   "software": [
    "icons/720ca58390.png",
