@@ -29,7 +29,21 @@
     if (b) b.click();
     else if ($('.product-block', root)) $('.product-block', root).scrollIntoView({ behavior: 'smooth', block: 'center' });
   }
-  function login() { var b = $('.sign-in-button', root); if (b) b.click(); }
+  // Squarespace's own Log In leaves its account panel (Digital Products) open
+  // after signing in, full screen on a phone. Its sign-in-to-join screen (the
+  // one behind JOIN > "Already have an account? Sign in") sends members
+  // straight into the library instead, so Log in opens that screen for the
+  // AV Library's plan; Squarespace's Log In button is the fallback.
+  function login() {
+    var api = window.UserAccountApi, jb = $('.join-button', root);
+    var plan = jb && /joinPricingPlan\('([^']+)'/.exec(jb.getAttribute('onclick') || '');
+    if (plan && api && api.getAccountScreenPath && api.openAccountScreen) {
+      api.openAccountScreen(api.getAccountScreenPath(true, 'PAYWALL_PAGE', plan[1], '', location.pathname));
+      return;
+    }
+    var b = $('.sign-in-button', root);
+    if (b) b.click();
+  }
 
   var LOCK = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">'
     + '<rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>';
