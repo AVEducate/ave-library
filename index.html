@@ -124,6 +124,10 @@ h1 span{color:var(--white)}
 .gear-img{width:100%;aspect-ratio:1/1;object-fit:contain;background:#fff;padding:12px;display:block}
 .gear-ph{background:#151515}
 .gear-card.dead .gear-img{filter:grayscale(1);opacity:.5}
+/* AVE on Amazon: a strip under the WorkBox heading that links to AV Educate's Amazon page */
+.amz-strip{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px 20px;border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:16px}
+.amz-text{font-size:12.5px;color:var(--text);letter-spacing:.06em;line-height:1.5}
+.cta-btn.cta-sm{font-size:14px;padding:10px 16px;border-radius:12px;white-space:nowrap}
 /* ── DICT CARDS ── */
 .dict-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}
 .dict-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;transition:.15s}
@@ -543,6 +547,14 @@ function makeGearCard(it) {
     : '<div class="book-card gear-card"><a href="' + esc(u) + '" target="_blank" rel="noopener">' + pic + body + '</a></div>';
 }
 
+// AVE on Amazon: every WorkBox section is also a list on AV Educate's Amazon page
+var AMAZON_PAGE = 'https://www.amazon.com/shop/aveducate09';
+function amazonStrip() {
+  return '<div class="amz-strip"><div class="amz-text">Every WorkBox section is also a list on AV Educate&rsquo;s Amazon page.'
+    + '<div class="book-aff">Affiliate &mdash; supports AVE</div></div>'
+    + '<a class="cta-btn cta-sm" href="' + AMAZON_PAGE + '" target="_blank" rel="noopener">AVE on Amazon &rarr;</a></div>';
+}
+
 function deadBlock(dead, make, gridClass) {
   if (!dead.length) return '';
   return '<div class="dead-sec"><div class="dead-head">' + pixelGrid()
@@ -681,6 +693,7 @@ function renderSections(filter, q) {
           + '<div class="sec-head"><div class="sec-icon">' + sec.icon + '</div>'
           + '<div class="sec-title">' + sec.title + '</div>'
           + '<div class="sec-badge">' + entries(live.length) + '</div></div>'
+          + (gear && !q ? amazonStrip() : '')
           + (live.length ? '<div class="' + (gear ? 'book-grid' : 'grid') + '">' + live.map(function(it){ return make(it); }).join('') + '</div>' : '')
           + deadBlock(dead, make === makeCard ? makeDeadCard : make, gear ? 'book-grid' : 'grid')
           + '</div><div class="divider"></div>';
