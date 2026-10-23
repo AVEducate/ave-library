@@ -1,15 +1,15 @@
 {
- "resources": 1355,
+ "resources": 1362,
  "terms": 10223,
  "counts": {
   "apps": 109,
   "software": 150,
-  "training": 319,
-  "youtube": 99,
+  "training": 324,
+  "youtube": 100,
   "certs": 53,
   "careers": 277,
   "community": 32,
-  "books": 160,
+  "books": 161,
   "workbox": 156
  },
  "art": {

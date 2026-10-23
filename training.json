@@ -624,9 +624,9 @@
     "tag": "Audio"
   },
   {
-    "name": "Great Church Sound — Resources Hub",
+    "name": "Great Church Sound — Resources & Recommendations",
     "vendor": "Great Church Sound",
-    "desc": "Comprehensive resource hub for church audio engineers covering mixing techniques, system tuning, gain structure, and live sound best practices. Content is applicable beyond houses of worship and valuable for any AV professional working with live audio reinforcement. Free access with no login required.",
+    "desc": "James Wasem's curated list for volunteer church sound techs: recommended apps, books, free manufacturer guides and other church sound websites. Free, no login needed.",
     "url": "https://www.greatchurchsound.com/resources.html",
     "cost": "Free",
     "tag": "Audio"
@@ -664,11 +664,11 @@
     "tag": "Audio"
   },
   {
-    "name": "Audio Engineering Society — Peer-Reviewed Publications (PAR)",
+    "name": "AES Pro Audio Reference (PAR)",
     "vendor": "AES",
-    "desc": "The Audio Engineering Society's Peer-Reviewed Articles portal providing access to technical papers and research on audio technology, acoustics, signal processing, and audio system design. The authoritative academic and professional research resource for audio engineers seeking deep technical knowledge. Some content free, full access requires AES membership.",
-    "url": "http://www.aes.org/par/",
-    "cost": "Free/Paid",
+    "desc": "Free online glossary of about 4,500 terms from professional audio, acoustics, electronics and music, started by Dennis Bohn of Rane and now hosted by the Audio Engineering Society. Browse A to Z.",
+    "url": "https://www.aes.org/par/",
+    "cost": "Free",
     "tag": "Audio"
   },
   {
@@ -724,6 +724,46 @@
     "vendor": "Lectrosonics",
     "desc": "Lectrosonics' YouTube video series covering wireless microphone technology, RF coordination, system design, and practical deployment tips. In-depth technical conversations from one of the industry's most respected wireless microphone manufacturers — essential viewing for audio engineers working with wireless systems.",
     "url": "https://www.youtube.com/playlist?list=PLwnOnolFSN5K2-2QZOwzVq-0ZFYgoPXDH",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Audio Systems Group: Jim Brown's Sound System Papers",
+    "vendor": "Audio Systems Group",
+    "desc": "Free tutorials and application notes by sound-system consultant Jim Brown on audio interfacing, grounding and shielding, pin 1 problems, RF interference, wireless microphones and church acoustics, for working sound and AV techs.",
+    "url": "http://audiosystemsgroup.com/publish.htm",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Shure Educational Publications",
+    "vendor": "Shure",
+    "desc": "Free Shure guides: audio system guides for houses of worship, theater, video and film production, music education and meetings, plus microphone technique guides, for techs and facility staff.",
+    "url": "https://www.shure.com/en-US/support/educational-publications",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Collaborate Worship (Kade Young)",
+    "vendor": "Collaborate Worship",
+    "desc": "Church sound training from Kade Young: free sound tips and a vocal EQ cheat sheet, plus paid lifetime-access courses on consistent mixes, live-stream sound, room EQ and Behringer X32/WING and Allen & Heath Qu/SQ consoles.",
+    "url": "https://collaborateworship.com/",
+    "cost": "Free/Paid",
+    "tag": "Audio"
+  },
+  {
+    "name": "FCC: Wireless Microphones",
+    "vendor": "FCC",
+    "desc": "The FCC's page on US wireless microphone rules: which frequencies you can use, who can get a Part 74 license, and how the 2017 incentive auction shrank the TV band spectrum left for wireless mics.",
+    "url": "https://www.fcc.gov/wireless/bureau-divisions/broadband-division/wireless-microphones",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
+    "name": "Technologies for Worship Magazine",
+    "vendor": "Technologies for Worship",
+    "desc": "Magazine and website for church tech teams: articles, product news, install case studies and webinars on audio, video, lighting and projection for houses of worship, with an issue archive back to 2020.",
+    "url": "https://tfwm.com/",
     "cost": "Free",
     "tag": "Audio"
   },

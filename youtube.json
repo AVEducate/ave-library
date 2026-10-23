@@ -272,6 +272,14 @@
     "tag": "Audio"
   },
   {
+    "name": "Collaborate Worship",
+    "vendor": "YouTube",
+    "desc": "Church sound tutorials from Kade Young on EQ, gain, compression, mixing drums and tuning a room, for volunteer sound techs.",
+    "url": "https://www.youtube.com/@collabworship",
+    "cost": "Free",
+    "tag": "Audio"
+  },
+  {
     "name": "Barco Cinema",
     "vendor": "YouTube",
     "desc": "Elevating entertainment globally with cutting-edge cinema tech, including laser projection and HDR, for an unparalleled big screen experience.",
