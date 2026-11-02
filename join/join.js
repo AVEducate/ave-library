@@ -83,6 +83,8 @@
       + '<div class="avl-counts" data-counts></div>'
       + '<div class="avl-cta"><button type="button" class="avl-btn" data-join>Join free</button>'
       + '<button type="button" class="avl-login" data-login>Already a member? Log in</button></div>'
+      // no account: the printable guides in the 101 AV Guides shop (a plain link, not data-join)
+      + '<p class="avl-alt">Rather not sign up? <a href="/101-av-guides">Shop the 101 AV Guides</a> &mdash; printable PDFs, no account needed.</p>'
       + '</div>'
       + '<div class="avl-search">'
       + '<label for="avl-q">What are you looking to learn?</label>'

@@ -26,6 +26,10 @@
 .avl-login{background:none;border:0;padding:6px 2px;color:var(--avl-text);font-family:var(--avl-body);font-size:15px;letter-spacing:.08em;
   text-decoration:underline;text-underline-offset:4px;cursor:pointer}
 .avl-login:hover{color:#fff}
+/* the no-account line under the buttons: quieter than Log in, so JOIN FREE stays the main choice */
+.avl-alt{margin:20px auto 0;max-width:640px;font-size:14px;line-height:1.6;letter-spacing:.06em;color:var(--avl-muted)}
+.avl-alt a{color:var(--avl-text);text-decoration:underline;text-underline-offset:4px}
+.avl-alt a:hover{color:#fff}
 
 /* teaser search */
 .avl-search{max-width:760px;margin:44px auto 0;text-align:left}
