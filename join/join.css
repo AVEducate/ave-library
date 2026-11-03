@@ -107,10 +107,50 @@
    off-center and lost its right edge: it may shrink to fit, never grow. */
 #sqs-paywall-page-root.avl-ready{max-width:100%}
 
+/* the public page about the library (aveducate.com/avlibrary): the same look,
+   made from that page's own text block (join.js moves its headings, intro,
+   list lines and links in here). As wide as the sign-in page, centered on the
+   block it sits in. Squarespace styles that block's headings, paragraphs and
+   links, so these rules start with .avl-public */
+.avl-public{--avl-w:min(1200px,calc(100vw - 48px));width:var(--avl-w);margin-left:calc(50% - var(--avl-w) / 2)}
+.avl-public h2.avl-tag{margin:0 -.42em 0 0;font-weight:400;line-height:1.5}
+.avl-public h1.avl-title{font-family:var(--avl-display);font-weight:600;text-transform:uppercase;color:#fff;font-size:clamp(54px,9vw,118px);
+  letter-spacing:.12em;margin:18px -.12em 8px 0;line-height:.95;text-shadow:0 2px 18px rgba(0,0,0,.85)}
+.avl-public p.avl-lede{max-width:760px;margin:24px auto 0;color:#fff;font-size:18px;line-height:1.6;letter-spacing:.1em}
+.avl-public h3.avl-cta-join{margin:0;font-size:inherit;line-height:1;letter-spacing:0}
+.avl-public a.avl-btn{display:inline-block;color:#000;text-decoration:none;line-height:1.3}
+.avl-public a.avl-btn:hover{color:#000}
+.avl-public a.avl-login{color:var(--avl-text)}
+.avl-public a.avl-login:hover{color:#fff}
+.avl-public .avl-alt a{color:var(--avl-text)}
+.avl-public .avl-alt a:hover{color:#fff}
+.avl-public h2.avl-head{margin:56px 0 0;font-family:var(--avl-display);font-weight:600;text-transform:uppercase;color:#fff;font-size:32px;
+  line-height:1.15;letter-spacing:.14em}
+.avl-public .avl-cards{margin-top:22px}
+.avl-public a.avl-card{color:inherit;text-decoration:none}
+.avl-public .avl-card h3{margin:0;font-family:var(--avl-display);font-weight:600;text-transform:uppercase;color:#fff;font-size:24px;letter-spacing:.14em;line-height:1.1}
+/* the card text is the page's own list line: all of it shows */
+.avl-public .avl-card p{display:block;-webkit-line-clamp:none;overflow:visible;min-height:0;margin:8px 0 16px;font-size:14px;line-height:1.5;color:#bdbdbd;letter-spacing:.04em}
+.avl-public .avl-card p strong{color:#fff;font-weight:600}
+.avl-public .avl-info{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin-top:44px;text-align:left}
+.avl-public .avl-info-box{border:1px solid var(--avl-line);border-radius:4px;background:var(--avl-card);padding:22px 20px 20px}
+.avl-public .avl-info-box h2{margin:0;font-family:var(--avl-display);font-weight:600;text-transform:uppercase;color:#fff;font-size:24px;
+  line-height:1.15;letter-spacing:.14em}
+.avl-public .avl-info-box p{margin:12px 0 0;font-size:15px;line-height:1.6;color:var(--avl-text);letter-spacing:.04em}
+.avl-public .avl-info-box p strong{color:#fff}
+.avl-public .avl-close h4.avl-story{margin:22px 0 0;font-size:16px;line-height:1.2}
+.avl-public .avl-close h4.avl-story a{color:var(--avl-muted);text-decoration:none;letter-spacing:.2em}
+.avl-public .avl-close h4.avl-story a:hover{color:#fff}
+
 @media (max-width:1000px){
   .avl-cards{grid-template-columns:repeat(2,minmax(0,1fr))}
   /* two columns: the ten cards make five full rows */
   .avl-card[data-card="terms"]{grid-column:auto}
+  .avl-public .avl-info{grid-template-columns:1fr}
+}
+/* phones and small tablets: Squarespace's block is the full width already */
+@media (max-width:767px){
+  .avl-public{width:auto;margin-left:0}
 }
 @media (max-width:560px){
   .avl-hero{padding:40px 16px 40px}
