@@ -856,6 +856,14 @@
     "tag": "AV Software"
   },
   {
+    "name": "Millumin PreViz",
+    "vendor": "CVH Visuals",
+    "cost": "Book a session",
+    "desc": "Live previz for Millumin 5: LED walls, projection and Art-Net/sACN lighting in a to-scale venue",
+    "url": "https://www.cvhvisuals.com/previz.html",
+    "tag": "AV Software"
+  },
+  {
     "name": "Resolume Avenue/ Resolume Arena",
     "vendor": "macOS/Windows",
     "cost": "$849+",
