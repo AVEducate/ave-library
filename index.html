@@ -150,6 +150,12 @@ h1 span{color:var(--white)}
 .book-buy{font-family:var(--display);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--white);text-decoration:underline;text-underline-offset:3px;opacity:.75;transition:.16s;white-space:nowrap}
 .book-card:hover .book-buy{opacity:1}
 .book-aff{font-family:var(--mono);font-size:9px;color:#6f6f6f;margin-top:2px}
+/* Books sit under one heading per department (the book's tag) with a count,
+   like the cover check page of 2026-11-06 */
+.dept-head{display:flex;align-items:baseline;gap:10px;margin:36px 0 14px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+.sec-head + .dept > .dept-head{margin-top:0}
+.dept-title{font-family:var(--display);font-weight:500;font-size:18px;letter-spacing:.14em;text-transform:uppercase;color:var(--white)}
+.dept-n{font-family:var(--display);font-weight:400;font-size:15px;letter-spacing:.06em;color:var(--muted)}
 /* ── LOADING STATE ── */
 .loading{display:flex;flex-direction:column;align-items:center;justify-content:center;padding:80px 24px;gap:16px;color:var(--muted)}
 .spinner{width:32px;height:32px;border:2px solid var(--line);border-top-color:var(--white);border-radius:50%;animation:spin .8s linear infinite}
@@ -181,6 +187,8 @@ h1 span{color:var(--white)}
   .lib-nav{top:16px;padding:0 16px}
   .book-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
   .sec-title{font-size:18px;letter-spacing:.12em}
+  .dept-head{margin-top:28px}
+  .dept-title{font-size:16px;letter-spacing:.12em}
   .pill{font-size:13px;padding:7px 13px}
   .cta h3{font-size:24px}
 }
@@ -422,6 +430,21 @@ function makeBookCard(it) {
     + '<span class="book-buy">' + (isAmz ? 'Buy on Amazon' : 'Shop') + ' &rarr;</span></div>'
     + (isAmz ? '<div class="book-aff">Affiliate &mdash; supports AVE</div>' : '')
     + '</div></a></div>';
+}
+
+// Books: one heading per department (the book's tag), each with its own grid.
+// Departments keep the order they first appear in books.json (the sheet's order),
+// so a search lists its matches in the same order as the full list.
+function bookDepartments(live, all) {
+  var dept = function(it) { return it.tag && it.tag !== 'Book' ? it.tag : 'Book'; };
+  var order = [], groups = Object.create(null);
+  all.forEach(function(it) { var d = dept(it); if (!groups[d]) { groups[d] = []; order.push(d); } });
+  live.forEach(function(it) { groups[dept(it)].push(it); });
+  return order.filter(function(d) { return groups[d].length; }).map(function(d) {
+    return '<div class="dept"><div class="dept-head"><div class="dept-title">' + esc(d) + '</div>'
+      + '<div class="dept-n">' + groups[d].length + '</div></div>'
+      + '<div class="book-grid">' + groups[d].map(makeBookCard).join('') + '</div></div>';
+  }).join('');
 }
 
 // ── ICON CARDS: Apps, Software, Training, YouTube, Careers, Certs, Community
@@ -680,7 +703,7 @@ function renderSections(filter, q) {
           + '<div class="sec-head"><div class="sec-icon">📚</div>'
           + '<div class="sec-title">Books &amp; Reference</div>'
           + '<div class="sec-badge">' + entries(live.length) + '</div></div>'
-          + (live.length ? '<div class="book-grid">' + live.map(makeBookCard).join('') + '</div>' : '')
+          + bookDepartments(live, data)
           + deadBlock(dead, makeDeadBookCard, 'book-grid')
           + '</div><div class="divider"></div>';
       } else {
