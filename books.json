@@ -167,7 +167,7 @@
     "vendor": "Book",
     "desc": "Excellent book to introduce beginners and house-of-worship volunteers to live sound reinforcement. Readers will learn about sound as experts share their experiences, along with tips and tricks for working in the field.",
     "url": "https://www.amazon.com/dp/1592006914?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1592006914.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/866524-L.jpg",
     "tag": "Audio"
   },
   {
@@ -825,15 +825,6 @@
     "desc": "",
     "url": "https://www.amazon.com/dp/B0GRGW9LHC?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
     "img": "https://m.media-amazon.com/images/P/B0GRGW9LHC.01._SCLZZZZZZZ_.jpg",
-    "tag": "Lighting & Power"
-  },
-  {
-    "name": "Overcurrents and Undercurrents: All About GFCIs and AFCIs",
-    "author": "Earl W. Roberts",
-    "vendor": "Book",
-    "desc": "",
-    "url": "https://www.amazon.com/dp/0967432332?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "",
     "tag": "Lighting & Power"
   },
   {
