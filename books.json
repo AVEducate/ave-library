@@ -5,7 +5,7 @@
     "vendor": "Book",
     "desc": "AV Educate's own coloring book designed to make learning AV concepts engaging and accessible. Features illustrations of AV equipment, signal flow diagrams, and production scenarios — a fun and unique educational resource for students and newcomers entering the AV industry.",
     "url": "https://www.amazon.com/dp/B0CX3X89GK?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B0CX3X89GK.01._SCLZZZZZZZ_.jpg",
+    "img": "covers/av-coloring-book.jpg",
     "tag": "AV Educate Original"
   },
   {
@@ -14,7 +14,7 @@
     "vendor": "Book",
     "desc": "This handy reference book brings together an incredible variety of information useful to designers, technicians, and students in theatre, film, and television. Includes chapters on tools, hardware, materials, electrics, shop math, and architecture with hundreds of illustrations, tables, and charts.",
     "url": "https://www.amazon.com/dp/0911747397?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0911747397.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/12493126-L.jpg",
     "tag": "Start Here"
   },
   {
@@ -23,7 +23,7 @@
     "vendor": "Book",
     "desc": "Published with InfoComm International, CTS Certified Technology Specialist Exam Guide, Second Edition provides comprehensive coverage of all objectives on the latest release of the InfoComm Certified Technology Specialist exam―the leading internationally recognized audiovisual (AV) certification. You’ll get learning objectives at the beginning of each chapter, best practices, checklists, diagrams, photos, chapter review questions with in-depth explanations, and a full-color insert. Designed to help you prepare for the CTS exam, this authoritative resource also serves as an essential on-the-job reference.",
     "url": "https://www.amazon.com/dp/1260136086?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1260136086.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/13338702-L.jpg",
     "tag": "Start Here"
   },
   {
@@ -32,7 +32,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1734745290?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1734745290.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781734745290.jpg?height=500&v=v2",
     "tag": "Start Here"
   },
   {
@@ -41,7 +41,7 @@
     "vendor": "Book",
     "desc": "This book is a comprehensive manual to help you become a knowledgeable and in demand Stagehand for Live Concerts and Event Production.",
     "url": "https://www.amazon.com/dp/1981855815?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1981855815.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781981855810.jpg?height=500&v=v2",
     "tag": "Start Here"
   },
   {
@@ -50,7 +50,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0071386211?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0071386211.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/1077688-L.jpg",
     "tag": "Start Here"
   },
   {
@@ -59,7 +59,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1736365703?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1736365703.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781736365700.jpg?height=500&v=v2",
     "tag": "Start Here"
   },
   {
@@ -68,7 +68,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/B0882MFPF4?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B0882MFPF4.01._SCLZZZZZZZ_.jpg",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/1d/8e/44/1d8e443b-dcb3-d2e8-22f9-65453f3b85cf/cover.png/600x600bb.jpg",
     "tag": "Audio"
   },
   {
@@ -77,7 +77,7 @@
     "vendor": "Book",
     "desc": "The second edition of The Ultimate Live Sound Operator's Handbook is updated with new text, photos, illustrations, and video examples to specifically address the important, cutting-edge concerns faced by modern sound operators of all types. High-quality audio is increasingly imperative, whether you're running sound for a rock, country, punk, or jazz band performing in clubs, arenas, or outdoor parks. With the advent and implementation of large-budget multimedia presentations, along with high-resolution multichannel audio for movies, television, and downloads, any live act must sound great to be well received by today's increasingly savvy audience members. This revised handbook focuses on each aspect of live sound in a way that is straightforward and easy to understand, breaking the process down into principles and practices that assist the modern sound tech in everything from planning and budgeting to mixing and recording the live show.",
     "url": "https://www.amazon.com/dp/1617805599?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1617805599.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/12648565-L.jpg",
     "tag": "Audio"
   },
   {
@@ -86,7 +86,7 @@
     "vendor": "Book",
     "desc": "Published by Yamaha, this comprehensive handbook covers the theory and practice of sound reinforcement — from acoustics and signal flow to loudspeakers, amplifiers, and system design. A widely referenced standard reference for audio engineers and system designers in live sound.",
     "url": "https://www.amazon.com/dp/B017PO0K7G?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/I/51FzhkvLXmL.jpg",
+    "img": "https://covers.openlibrary.org/b/id/679085-L.jpg",
     "tag": "Audio"
   },
   {
@@ -95,7 +95,7 @@
     "vendor": "Book",
     "desc": "Bob McCarthy's definitive technical guide to modern sound system design and optimization — thorough, complete, methodical, and passionate about the laws and facts of physics. Includes rules-of-thumb and cheat-sheets for instant insight into complex system behavior. The industry's essential reference for audio system designers and engineers.",
     "url": "https://www.amazon.com/dp/0415731011?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0415731011.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978041573/9780415731010.jpg",
     "tag": "Audio"
   },
   {
@@ -104,7 +104,7 @@
     "vendor": "Book",
     "desc": "This hands-on, student-friendly text demonstrates how to navigate modern radio production studios and utilize the latest equipment and software. Key chapters address production planning, the use of microphones, audio consoles, and sound production for the visual media. The reader is shown the reality of audio production both within the studio and on location. New to this edition is material covering podcasting, including online storage and distribution. The new edition also includes an updated glossary and appendix on analog and original digital applications, as well as self-study questions and projects that students can use to further enhance their learning.",
     "url": "https://www.amazon.com/dp/0367640368?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0367640368.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978036764/9780367640361.jpg",
     "tag": "Audio"
   },
   {
@@ -113,7 +113,7 @@
     "vendor": "Book",
     "desc": "In this newly updated directory, the latest in cutting-edge audio equipment is provided, including how to choose the best audio equipment on a budget, how to get the best sound for the money, and how to set up a system for maximum performance. Revised and expanded to include all the latest audio technologies, this book is packed with expert advice how to make speakers sound up to 50 percent better at no cost, avoid the most common system set-up mistakes, and how to choose the one speaker in 50 worth owning. Among the new topics covered are streaming audio, computer-based music servers, music-management apps, wireless streaming, high-resolution digital audio. A short course on listening-room acoustics is presented and additional information on audio for home theater, multichannel audio, system set-up secrets, and what each component's specifications and measurements mean is also provided.",
     "url": "https://www.amazon.com/dp/1736254502?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1736254502.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781736254509.jpg?height=500&v=v2",
     "tag": "Audio"
   },
   {
@@ -122,7 +122,7 @@
     "vendor": "Book",
     "desc": "Practical, concise, and approachable, Audio Engineering 101, Second Edition covers everything aspiring audio engineers need to know to make it in the recording industry, from the characteristics of sound to microphones, analog versus digital recording, EQ/compression, mixing, mastering, and career skills. Filled with hand-ons, step-by-step technique breakdowns and all-new interviews with active professionals, this updated edition includes instruction in using digital consoles, iPads for mixing, audio apps, plug-ins, home studios, and audio for podcasts. An extensive companion website features fifteen new video tutorials, audio clips, equipment lists, quizzes, and student exercises.",
     "url": "https://www.amazon.com/dp/1138658774?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1138658774.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978113865/9781138658776.jpg",
     "tag": "Audio"
   },
   {
@@ -131,7 +131,7 @@
     "vendor": "Book",
     "desc": "n AUDIO IN MEDIA, Tenth Edition, Stanley Alten -- internationally recognized as a scholar and expert in the area of audio production -- continues to provide students with an introduction to the basic techniques and principles necessary for audio production in today's media. The clear, current illustrations and photos and student-friendly writing in Alten's market-leading text have helped professors effectively teach this technically based course to thousands of introductory audio-production students. Comprehensive, technically accurate, and up-to-date, the text covers informational, perceptual, and aesthetic aspects of sound as they apply to each stage of the production process, from planning to postproduction.",
     "url": "https://www.amazon.com/dp/113330723X?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/113330723X.01._SCLZZZZZZZ_.jpg",
+    "img": "https://www.cengage.com/covers/imageServlet?productISBN13=9781133307235&image_type=LRGFC&catalog=Cengage",
     "tag": "Audio"
   },
   {
@@ -140,7 +140,7 @@
     "vendor": "Book",
     "desc": "In Surviving the Hot Seat, veteran monitor engineer Michael Babcock shares the practical techniques, troubleshooting methods, and real-world lessons learned from decades of live production and touring.Written in plain language and filled with field-tested advice, this guide covers everything from building better monitor mixes and managing stage volume to working with artists, solving problems under pressure, and navigating the realities of life on the road.",
     "url": "https://www.amazon.com/dp/0578811197?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0578811197.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/11215892-L.jpg",
     "tag": "Audio"
   },
   {
@@ -149,7 +149,7 @@
     "vendor": "Book",
     "desc": "Between the Lines is a book about tuning sound systems for live events, but more importantly, it's a book about making decisions. Beginning with an overview of system design fundamentals, the author then shares his personal approach to sound system design and alignment, and his rationale - not only why decisions are made, but also the order in which they are made, which can have a profound effect on the resulting uniformity of the system.",
     "url": "https://www.amazon.com/dp/B0BBL6QQ12?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B0BBL6QQ12.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.squarespace-cdn.com/content/v1/6363d5faff7c374778222755/b8ca90a3-dc7d-4e23-8bb6-6ef9c6f7136e/COVER_FINAL_PIC.png",
     "tag": "Audio"
   },
   {
@@ -176,7 +176,7 @@
     "vendor": "Book",
     "desc": "Written by Grammy award-winning mastering engineer Bob Katz, Mastering Audio gives a thorough introduction to the unique procedures and technical issues involved in mastering — from monitoring and dithering to loudness, metering, and multi-channel audio. The industry standard reference on mastering.",
     "url": "https://www.amazon.com/dp/0240818962?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0240818962.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978024081/9780240818962.jpg",
     "tag": "Audio"
   },
   {
@@ -185,7 +185,7 @@
     "vendor": "Book",
     "desc": "Gives an essential grounding in how real music sounds behave in different spaces whether during a performance or a recording. Covers the physics of sound, human hearing, and the relationship between acoustics and perceived audio quality.",
     "url": "https://www.amazon.com/dp/0240521757?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0240521757.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978024052/9780240521756.jpg",
     "tag": "Audio"
   },
   {
@@ -194,7 +194,7 @@
     "vendor": "Book",
     "desc": "James Wasem's step-by-step guide for church volunteers with little or no sound experience: stopping feedback, the pastor's mic, mic placement, EQ, monitor mixes and live-stream sound, with a soundcheck checklist and a free practice-mixer app. Second edition.",
     "url": "https://www.amazon.com/dp/0996642315?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0996642315.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/11195756-L.jpg",
     "tag": "Audio"
   },
   {
@@ -203,7 +203,7 @@
     "vendor": "Book",
     "desc": "This book, the first in a series, dedicated to New Technologies for the Arts, is aimed at all digital arts students (PC and MAC users) who want to try video mapping for the first time. Thanks to a course of reading that alternates theoretic concepts and practical exercises - explaining from how to take a photograph to how to request permission, from the layer masks to 2D and 3D animation, up to the final projection and warping - the reader will be able to project a video mapping event.",
     "url": "https://www.amazon.com/dp/8895315340?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/8895315340.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/10395018-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -212,7 +212,7 @@
     "vendor": "Book",
     "desc": "The book begins by providing a history of the industry and an overview of important roles and functions therein. It then discusses various display technologies such as LED walls and video projection, as well as video systems for converting and switching of various types of sources. Presenting the cornerstone formats, connectors, and methodologies of visual technology, this book offers a strong foundation to help readers navigate this ever-changing field. Written in an accessible tone, the book clarifies jargon and is an overarching source of knowledge for the role of the video technician, for which there has previously been little formal training.",
     "url": "https://www.amazon.com/dp/1032160950?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1032160950.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978103216/9781032160955.jpg",
     "tag": "Video & Color"
   },
   {
@@ -230,7 +230,7 @@
     "vendor": "Book",
     "desc": "There are numerous books on this topic, so I appreciate your interest in mine.  I have made a concerted effort to write a book that is comprehensive yet easy to follow and understand.  I would appreciate any feedback that you are willing to offer.  My contact information is in all my books.",
     "url": "https://www.amazon.com/dp/1482314452?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1482314452.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/11531608-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -239,7 +239,7 @@
     "vendor": "Book",
     "desc": "Reference guide covering multi-screen and widescreen video production techniques, content creation strategies, and technical requirements for panoramic display systems. Addresses the creative and technical challenges of producing content for wide-format and multi-screen event installations. A specialized resource for video designers and content creators working in large-format live event production.",
     "url": "https://www.amazon.com/dp/B00HQ4USUK?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B00HQ4USUK.01._SCLZZZZZZZ_.jpg",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Publication6/v4/29/1a/df/291adf91-fe4f-26ec-e999-3bd4dd211efd/cover-wide-guide-epub.jpg/600x600bb.jpg",
     "tag": "Video & Color"
   },
   {
@@ -248,7 +248,7 @@
     "vendor": "Book",
     "desc": "This popular book introduces readers to the operations underlying video production. It provides thorough coverage of the theory readers need to know, balancing complexity with practical how-to information about detailed subjects, and it does so in a concise, conversational style. The authors have incorporated the major changes that have occurred in recent years; further increased the emphasis on digital, non-linear video production; updated and expanded information on mobile technologies; and added more than 25 new or updated figures. The subtitle remains disciplines and techniques because focus of the book continues to be on the fact that students need those foundations in order to be successful in video production, no matter where they may end up. Its affordable, student-friendly price, companion website, and print book and ebook options add to this book's practical nature.",
     "url": "https://www.amazon.com/dp/1138051810?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1138051810.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978113805/9781138051812.jpg",
     "tag": "Video & Color"
   },
   {
@@ -257,7 +257,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1032169966?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1032169966.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978103216/9781032169965.jpg",
     "tag": "Video & Color"
   },
   {
@@ -266,7 +266,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0998453005?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0998453005.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/12619335-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -275,7 +275,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/8895315588?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/8895315588.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/9342532-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -284,7 +284,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1622732731?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1622732731.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781622732739.jpg?height=500&v=v2",
     "tag": "Video & Color"
   },
   {
@@ -293,7 +293,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0240825187?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0240825187.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978024082/9780240825182.jpg",
     "tag": "Video & Color"
   },
   {
@@ -302,7 +302,7 @@
     "vendor": "Book",
     "desc": "Comprehensive guide to live visual performance covering VJ culture, software tools, hardware setups, content creation, and performance techniques. Written for both beginners and experienced VJs, it covers the creative and technical aspects of real-time video mixing for clubs, concerts, and events. A foundational text for anyone working in live video and media server environments.",
     "url": "https://www.amazon.com/dp/1932595090?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1932595090.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/960174-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -311,7 +311,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0415854113?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0415854113.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978041585/9780415854115.jpg",
     "tag": "Video & Color"
   },
   {
@@ -320,7 +320,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0367140055?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0367140055.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978036714/9780367140052.jpg",
     "tag": "Video & Color"
   },
   {
@@ -329,7 +329,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1667861700?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1667861700.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/13171620-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -338,7 +338,7 @@
     "vendor": "Book",
     "desc": "Comprehensive reference for designing and integrating home theater audio and video systems covering display technologies, audio formats, speaker placement, signal distribution, and system calibration. Useful background reading for AV integrators who work in the residential sector alongside commercial installations.",
     "url": "https://www.amazon.com/dp/0759664242?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0759664242.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/1420057-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -347,7 +347,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1032073446?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1032073446.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978103207/9781032073446.jpg",
     "tag": "Video & Color"
   },
   {
@@ -356,7 +356,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0819483974?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0819483974.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/10528093-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -365,7 +365,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/036719922X?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/036719922X.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978036719/9780367199227.jpg",
     "tag": "Video & Color"
   },
   {
@@ -374,7 +374,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1138323357?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1138323357.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/14141513-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -383,7 +383,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1032255862?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1032255862.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978103225/9781032255866.jpg",
     "tag": "Video & Color"
   },
   {
@@ -392,7 +392,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0821221868?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0821221868.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9780821221860.jpg?height=500&v=v2",
     "tag": "Video & Color"
   },
   {
@@ -401,7 +401,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1032252685?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1032252685.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978103225/9781032252681.jpg",
     "tag": "Video & Color"
   },
   {
@@ -410,7 +410,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0240806611?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0240806611.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978024080/9780240806617.jpg",
     "tag": "Video & Color"
   },
   {
@@ -419,7 +419,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/024080080X?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/024080080X.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978024080/9780240800806.jpg",
     "tag": "Video & Color"
   },
   {
@@ -428,7 +428,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1588346579?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1588346579.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8792989-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -437,7 +437,7 @@
     "vendor": "Book",
     "desc": "An accessible introduction to the principles and practice of video lighting for broadcast, film, and corporate video production. Covers light sources, color temperature, three-point lighting, location lighting, and practical techniques for achieving professional-quality video images.",
     "url": "https://www.amazon.com/dp/0240515595?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0240515595.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/145711-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -446,7 +446,7 @@
     "vendor": "Book",
     "desc": "Practical guide to cinematography covering camera operation, exposure, lenses, lighting for camera, and creative visual storytelling techniques. Applicable to AV professionals who work in video production, broadcast, and live event camera roles. A concise, field-ready reference written for working cinematographers rather than students.",
     "url": "https://www.amazon.com/dp/0240519620?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0240519620.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/145806-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -455,7 +455,7 @@
     "vendor": "Book",
     "desc": "The Highly-Anticipated 10th Edition of the American Cinematographer Manual is Now Available from the American Society of Cinematographers Known as the Filmmaker s bible, for several generations, one of the world s most widely used cinema reference books is more comprehensive than ever moving into the digital side of image capture. The editing of the 10th AC Manual was overseen by Michael Goi, ASC, former ASC President. He is a key speaker on issues involving technology and the history of cinema. Completely re-imagined to reflect the sweeping technological changes that our industry has experienced, this edition of the Manual is vibrant and essential reading, as well as an invaluable field resource,",
     "url": "https://www.amazon.com/dp/1467568309?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1467568309.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8769508-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -464,7 +464,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0757573193?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0757573193.01._SCLZZZZZZZ_.jpg",
+    "img": "",
     "tag": "Video & Color"
   },
   {
@@ -473,7 +473,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/159711247X?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/159711247X.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781597112475.jpg?height=500&v=v2",
     "tag": "Video & Color"
   },
   {
@@ -482,7 +482,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1734745223?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1734745223.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781734745221.jpg?height=500&v=v2",
     "tag": "Video & Color"
   },
   {
@@ -491,7 +491,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1138786012?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1138786012.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978113878/9781138786011.jpg",
     "tag": "Video & Color"
   },
   {
@@ -500,7 +500,7 @@
     "vendor": "Book",
     "desc": "A visual reference guide for cinematographers and video directors covering over 100 essential camera moves and compositions with diagrams and examples. A practical reference for video directors, content creators, and live event camera operators working in broadcast and live production.",
     "url": "https://www.amazon.com/dp/1932907424?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1932907424.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781932907421.jpg?height=500&v=v2",
     "tag": "Video & Color"
   },
   {
@@ -509,7 +509,7 @@
     "vendor": "Book",
     "desc": "Excerpted reference tables and formulas from the American Society of Cinematographers Manual covering exposure, depth of field, lens focal lengths, and film/sensor formats. A compact technical reference for camera operators and video engineers who need quick access to cinematography calculations. Useful for AV professionals working in broadcast and video production environments.",
     "url": "https://www.amazon.com/dp/1467568341?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1467568341.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781467568340.jpg?height=500&v=v2",
     "tag": "Video & Color"
   },
   {
@@ -518,7 +518,7 @@
     "vendor": "Book",
     "desc": "A curator, a paintings conservator, a photographer, and a conservation scientist walk into a bar.” What happens next? In lively and accessible prose, color science expert Roy S. Berns helps the reader understand complex color-technology concepts and offers solutions to problems that occur when art is displayed, conserved, imaged, or reproduced.\n \nBerns writes for two types of audiences: museum professionals seeking explanations for common color-related issues and students in conservation, museum studies, and art history programs. The seven chapters in the book fall naturally into two sections: fundamentals, covering topics such as spectral measurements, metamerism, and color inconstancy; and applications, where artwork display, painting materials, and color reproduction are discussed. A unique feature of this book is the use of more than 200 images as its main medium of communication, employing color physics, color vision, and imaging science to produce visualizations throughout the pages. An annotated bibliography complements the main text with suggestions for further reading and more in-depth study of particular topics.",
     "url": "https://www.amazon.com/dp/1606064819?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1606064819.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/12431576-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -527,7 +527,7 @@
     "vendor": "Book",
     "desc": "Media Design and Technology for Live Entertainment is a guide to understanding the concepts and equipment used in projection and video design for live performances. After an introduction in the principles of design elements as well as information on content, this book focuses on how content is used and transmitted by describing the essential components of systems, providing definitions used in communicating video concepts, and including basic system troubleshooting tips and tricks. A brief history of projected imagery is included, as well as information on analog systems, as outdated technology continues to be used either by choice of the designer or by necessity due to budget. By providing the information to understand the tools and how to use them, the reader should be able to create their own systems to meet his or her design ideas.",
     "url": "https://www.amazon.com/dp/1138216216?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1138216216.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978113821/9781138216211.jpg",
     "tag": "Video & Color"
   },
   {
@@ -536,7 +536,7 @@
     "vendor": "Book",
     "desc": "In the extensive fields of optics, holography and virtual reality, technology continues to evolve. Displays: Fundamentals and Applications, Second Edition addresses these updates and discusses how real-time computer graphics and vision enable the application and displays of graphical 2D and 3D content.\n\nThis book explores in detail these technological developments, as well as the shifting techniques behind projection displays, projector-camera systems, stereoscopic and autostereoscopic displays. This new edition contains many updates and additions reflecting the changes in fast developing areas such as holography and near-eye displays for Augmented and Virtual reality applications.\n\nPerfect for the student looking to sharpen their developing skill or the master refining their technique, Rolf Hainich and Oliver Bimber help the reader understand the basics of optics, light modulation, visual perception, display technologies, and computer-generated holography. With almost 500 illustrations Displays will help the reader see the field of augmentation and virtual reality display with new eyes.",
     "url": "https://www.amazon.com/dp/1498765688?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1498765688.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978149876/9781498765688.jpg",
     "tag": "Video & Color"
   },
   {
@@ -545,7 +545,7 @@
     "vendor": "Book",
     "desc": "The Advanced Projection Manual is designed to provide cinema engineers and projectionists with the necessary technical know-how and hands-on advice. The book also includes a much needed introduction to electronic and digital projection technologies.\n\nThe Advanced Projection Manual is published jointly by FIAF and the Norwegian Film Institute.",
     "url": "https://www.amazon.com/dp/2960029615?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/2960029615.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/13314373-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -554,7 +554,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1405353317?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1405353317.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/7538162-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -563,7 +563,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0452297281?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0452297281.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/9067213-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -581,7 +581,7 @@
     "vendor": "Book",
     "desc": "FIAF Digital Projection Guide addresses the technical challenges that cinémathèques, archival and repertory cinemas and festivals encounter in the paradigm change from analogue film projection to digital cinema. The guide is an extension of, and update to, The Advanced Projection Manual (2006), a book covering the craft of projecting film classics with modern equipment.",
     "url": "https://www.amazon.com/dp/2960029623?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/2960029623.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9782960029628.jpg?height=500&v=v2",
     "tag": "Video & Color"
   },
   {
@@ -590,7 +590,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0470518030?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0470518030.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/9578266-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -608,7 +608,7 @@
     "vendor": "Book",
     "desc": "Margaret Livingstone's exploration of the neuroscience of visual perception and how the brain processes what we see. Covers contrast, color, motion, and depth perception with implications for art, display technology, and visual media design. Fascinating reading for video engineers and lighting designers.",
     "url": "https://www.amazon.com/dp/1419706926?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1419706926.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781419706929.jpg?height=500&v=v2",
     "tag": "Video & Color"
   },
   {
@@ -617,7 +617,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/B09BBQHV4R?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B09BBQHV4R.01._SCLZZZZZZZ_.jpg",
+    "img": "https://res.cloudinary.com/wellfleet/image/upload/c_fill,f_auto,q_auto,w_638/gdknnvvcr6a2omtrenh18qb0i3jh",
     "tag": "Video & Color"
   },
   {
@@ -626,7 +626,7 @@
     "vendor": "Book",
     "desc": "James Gurney's influential guide to painting realistic light and color — covering color temperature, reflected light, cast shadows, and atmospheric effects. A valuable reference for lighting designers and video content creators who want to understand the physics and perception of light and color in real environments.",
     "url": "https://www.amazon.com/dp/0740797719?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0740797719.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/12082523-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -635,7 +635,7 @@
     "vendor": "Book",
     "desc": "Compact field reference covering digital video formats, signal types, codec specifications, and connectivity standards used in professional video production. Designed to be kept on hand for quick lookup of technical specifications during shoots, installations, and system commissioning. A concise reference for video engineers and AV integrators.",
     "url": "https://www.amazon.com/dp/0596005237?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0596005237.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/1312514-L.jpg",
     "tag": "Video & Color"
   },
   {
@@ -644,7 +644,7 @@
     "vendor": "Book",
     "desc": "The application of electricity for the theatre, concert stage, television studio, or any other production environment differs from that of a residence or commercial building. Electricity for the Entertainment Electrician & Technician is the only reference on the market that covers these differences, explaining what entertainment electricians and technicians need to know and why. It not only reinforces the fundamentals of electricity, power distribution, and electrical safety, but also explains the latest developments in technology for the live entertainment professional and aspiring professional. Written by an Entertainment Technician Certification Program (ETCP) Recognized trainer, this reference supports practicing electricians and technicians, and provides new technicians the assistance needed for a successful career in the entertainment industry. Fully updated, the second edition contains new information on systems, protocols, regulations, and safety standards, both domestic and international. Additional resources, including conversion tables, voltage spreadsheets, articles from Lighting & Sound International, Lighting & Sound America, and Protocol, and animations and illustrations depicting electricity and electric power distribution developed for the author‘s workshops, can be found on the companion website www.entertainmentelectricity.com.",
     "url": "https://www.amazon.com/dp/0367249472?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0367249472.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978036724/9780367249472.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -653,7 +653,7 @@
     "vendor": "Book",
     "desc": "Understand the design process with LIGHTING AND THE DESIGN IDEA, Third Edition! With coverage of professional theatre practices in both commercial and residential theater, this text emphasizes the process by which lighting designers turn their ideas about a piece into the medium of stage lighting. Design concepts are illustrated by the text's art program so that concepts are easier to apply. A new chapter provides real-world advice, sample resumes, and other helpful tools for making the transition from student to working professional.",
     "url": "https://www.amazon.com/dp/1111836868?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1111836868.01._SCLZZZZZZZ_.jpg",
+    "img": "https://www.cengage.com/covers/imageServlet?productISBN13=9781111836863&image_type=LRGFC&catalog=Cengage",
     "tag": "Lighting & Power"
   },
   {
@@ -662,7 +662,7 @@
     "vendor": "Book",
     "desc": "Authored by an internationally accomplished stage lighting designer and educator, this book is an introduction to the tools and techniques of stage lighting design. It is filled with production photos and illustrations of stage lighting fixtures, controllers, automated lighting fixtures, and professional design paperwork and processes. The book also covers the process of lighting design and its relationship to the compositional structure and qualities of music. Chapters on the lighting team and lighting paperwork are included. The Fourth Edition has updated text and photos on new lighting technology and a new chapter on Lighting Research. This book is an excellent resource for any beginning or intermediate course in stage lighting design.",
     "url": "https://www.amazon.com/dp/B01NBXPR4Z?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B01NBXPR4Z.01._SCLZZZZZZZ_.jpg",
+    "img": "https://home.csulb.edu/~djacques/Book%20Cover.jpeg",
     "tag": "Lighting & Power"
   },
   {
@@ -680,7 +680,7 @@
     "vendor": "Book",
     "desc": "The Stage Lighting Handbook is well established as the classic practical lighting guide. The book explains the process of designing lighting for all forms of stage production and describes the equipment used. This new edition includes up-to-date information on new equipment and discusses its impact on working methods.",
     "url": "https://www.amazon.com/dp/B0B36Q9B6R?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B0B36Q9B6R.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/1348985-L.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -689,7 +689,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0879952415?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/I/21Z2p28zD9L.jpg",
+    "img": "https://books.google.com/books/content?vid=ISBN0879952415&printsec=frontcover&img=1&zoom=1&fife=w400-h600",
     "tag": "Lighting & Power"
   },
   {
@@ -698,7 +698,7 @@
     "vendor": "Book",
     "desc": "This guide helps lighting designers with the creative and operational challenges they face in their rapidly evolving industry. Providing respected and clear coverage of the process of programming automated lighting fixtures, the author brings the designer from basic principles to preproduction preparations. Concepts, procedures, and guidelines to ensure a successful production are covered as well as troubleshooting, much needed information on work relationships, and technology including LED lighting, console networking, digital lighting, and more. Chapters are peppered with advice and war stories from some of the most prominent lighting designers of today.",
     "url": "https://www.amazon.com/dp/0367653257?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0367653257.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978036765/9780367653255.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -707,7 +707,7 @@
     "vendor": "Book",
     "desc": "Automated Lighting: The Art and Science of Moving and Color-Changing Lights, Third Edition (formerly Automated Lighting: The Art and Science of Moving Light) continues to be the most trusted text for working and aspiring lighting professionals. Now in its third edition, it has been fully updated to reflect the vast changes in stage and studio luminairies―including LEDs, switch-mode power supplies, optics, networking, Ethernet-based protocols like Art-Net and sACN, wireless DMX, and much more. Its written in clear, easy-to-understand language and includes enough detailed information to benefit for the most experienced technicians, programmers, and designers. Additional content and resources are provided at the author's website www.automatedlighting.pro.",
     "url": "https://www.amazon.com/dp/113885090X?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/113885090X.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978113885/9781138850903.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -716,7 +716,7 @@
     "vendor": "Book",
     "desc": "The Photometrics Handbook provides standardized data on stage lighting instruments including beam angles, field angles, and photometric tables for incandescent, LED, and discharge fixtures. An essential reference for lighting designers specifying fixtures and calculating coverage in theatrical and live event environments.",
     "url": "https://www.amazon.com/dp/0911747370?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0911747370.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/703190-L.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -725,7 +725,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1854599968?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1854599968.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/9362083-L.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -743,7 +743,7 @@
     "vendor": "Book",
     "desc": "Color & Light is an essential practical guide to how color works in light. Written from the perspective of a theatrical lighting designer, it discusses how to see color, how to construct effective lighting palettes, and how to make use of both color filters and color-mixing LED fixtures to create compositions that work well with scenery and costumes to tell compelling stories. We are presently at the leading edge of a revolution in theatrical lighting, redefining how it can be used to create and communicate. Today s LED-based additive color-mixing fixtures require new methodologies and new ways of thinking, and Color & Light directly addresses this technology s potentials and challenges. But underpinning lighting s many recent technological changes is the fundamental language of color that artists have worked with since the birth of humanity s artistic urges. More saturated vs. less, warmer vs. cooler, more green vs. more magenta, recessive vs. dominant the bedrock language of color manipulation endures, whether you are putting paintbrush to canvas or calling up color attributes on a high-tech lighting console. Balancing the basics and the latest innovations, Color & Light is a book for everyone involved artistically with light and color. It will enhance your understanding of how a lighting setup works from a color perspective, while equipping you with the language to communicate about color with your collaborators.",
     "url": "https://www.amazon.com/dp/1935247190?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1935247190.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8830209-L.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -752,7 +752,7 @@
     "vendor": "Book",
     "desc": "Demonstrates the techniques of creating visual effects in theatrical productions through a variety of techniques",
     "url": "https://www.amazon.com/dp/1626540365?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1626540365.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781626540361.jpg?height=500&v=v2",
     "tag": "Lighting & Power"
   },
   {
@@ -761,7 +761,7 @@
     "vendor": "Book",
     "desc": "The comprehensive on-set reference for gaffers, lighting technicians, and cinematographers working in film and television production. Covers electrical safety, lighting equipment, grip hardware, generator operation, and practical lighting techniques for production environments.",
     "url": "https://www.amazon.com/dp/0240810759?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0240810759.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978024081/9780240810751.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -770,7 +770,7 @@
     "vendor": "Book",
     "desc": "Jean Rosenthal's landmark book on theatrical lighting design — one of the first comprehensive treatments of the craft written by a working professional designer. Covers design philosophy, color, equipment, and the creative process of theatrical lighting from one of Broadway's pioneering lighting designers.",
     "url": "https://www.amazon.com/dp/0316931209?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/I/91nLmcbnUhL._SY342_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8197517-L.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -779,7 +779,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0520274660?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0520274660.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/9039923-L.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -797,7 +797,7 @@
     "vendor": "Book",
     "desc": "In the first edition of A Practical Guide to Stage Lighting, Steve Shelley cracked open his production book and showed how to prepare a lighting design and create the paperwork needed to mount a production.\n\nIn the second edition, he pulled back the curtain and showed the methods and processes that go on before the light plot is finalized and ready to go to into the shop, even dealing with cutting the plot in half.\n\nIn this third edition, Shelley throws the door wide open and shows step-by-step how to construct every lighting system in the Hokey light plot. Combining his diacritical analysis, killer drafting, and analytic use of the Slinky Method and Slinky Calculations, he presents the Periodic Table of Fundamental Lighting Systems and shows the basic methods used to create multi-instrument lighting systems.",
     "url": "https://www.amazon.com/dp/0415812003?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0415812003.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978041581/9780415812009.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -806,7 +806,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0367256665?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0367256665.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978036725/9780367256661.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -815,7 +815,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1455932205?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/I/61fnyVInJVL._SY342_.jpg",
+    "img": "https://cdn-shop-v2.iccsafe.org/media/catalog/product/5/0/5000s26_1.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -824,7 +824,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/B0GRGW9LHC?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B0GRGW9LHC.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/11790047-L.jpg",
     "tag": "Lighting & Power"
   },
   {
@@ -851,7 +851,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0809339269?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0809339269.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/15245090-L.jpg",
     "tag": "Rigging"
   },
   {
@@ -860,7 +860,7 @@
     "vendor": "Book",
     "desc": "The fifth edition of Dr. Hall's popular book on rigging math breaks down complex entertainment rigging (theatre and arena) calculations and makes them easy to understand. It also provides hints for remembering many rigging formulas. It is a great resource for anyone studying for either ETCP rigging exam, and includes an explanation of the equations found on the ETCP Certified Rigger - Formula Table. The third edition has a greatly expanded section on arena rigging, as well as more material and appendices for theatrical rigging.",
     "url": "https://www.amazon.com/dp/1733006427?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1733006427.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781733006422.jpg?height=500&v=v2",
     "tag": "Rigging"
   },
   {
@@ -878,7 +878,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0240812247?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0240812247.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978024081/9780240812243.jpg",
     "tag": "Business of AV"
   },
   {
@@ -887,7 +887,7 @@
     "vendor": "Book",
     "desc": "In this thoroughly revised new edition, the popular guide firmly embraces the digital age with new content about digital audio, intelligent lighting, LED lighting, video projection, and show control systems, all explained in the same approachable style that has kept this book in the pockets of industry professionals for many years. A brand-new chapter on sound design has also been added, and every chapter has been updated with more information about the basics of theater technology, including draperies, lighting instruments, microphones, costume sketches, and more.",
     "url": "https://www.amazon.com/dp/1621535428?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1621535428.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8891976-L.jpg",
     "tag": "Business of AV"
   },
   {
@@ -896,7 +896,7 @@
     "vendor": "Book",
     "desc": "This invaluable guide to theatrical production includes up-to-date definitions of all technical aspects of stagecraft, including the many advances in the past decade, particularly in the areas of trusses, rigging, and automated lights and their control. More than 200 terms, along with 25 new drawings, have been added, many existing definitions have been expanded and drawings revised to include new technological developments, and World Wide Web addresses have been added to the List of Manufacturers and Distributors and to the Bibliography. At the same time, older terminology and definitions have been retained so the book will remain useful for those unable to participate in the high-tech revolution.\n\nFor more than thirty years this manual has been the essential handbook for both the beginner and the advanced backstage technician. At a time when theatre, both professional and amateur, is growing and flourishing all over the United States, Theatre Backstage from A to Z provides more practical information, on a wider range of subjects, than can be found in any other book in the field.",
     "url": "https://www.amazon.com/dp/0295977175?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0295977175.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/157263-L.jpg",
     "tag": "Business of AV"
   },
   {
@@ -914,7 +914,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/B08VCJ1T6K?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B08VCJ1T6K.01._SCLZZZZZZZ_.jpg",
+    "img": "https://www.trstimson.com/wp-content/uploads/2021/02/Demand-Front-Cover-2-1-21.png",
     "tag": "Business of AV"
   },
   {
@@ -923,7 +923,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0060938463?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0060938463.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/41597-L.jpg",
     "tag": "Business of AV"
   },
   {
@@ -932,7 +932,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0911747354?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0911747354.01._SCLZZZZZZZ_.jpg",
+    "img": "https://cdn.bookstores.com/t/9780911747355.jpg",
     "tag": "Business of AV"
   },
   {
@@ -941,7 +941,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/163006047X?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/163006047X.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/13343204-L.jpg",
     "tag": "Business of AV"
   },
   {
@@ -950,7 +950,7 @@
     "vendor": "Book",
     "desc": "A comprehensive guide to using Vectorworks Spotlight software for entertainment production design — covering lighting plots, rigging plans, paperwork management, and 3D visualization. Essential for lighting designers and production designers using Vectorworks as their primary design and documentation tool.",
     "url": "https://www.amazon.com/dp/0415726131?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0415726131.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978041572/9780415726139.jpg",
     "tag": "Business of AV"
   },
   {
@@ -959,7 +959,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/B0CKVSKN8N?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B0CKVSKN8N.01._SCLZZZZZZZ_.jpg",
+    "img": "https://www.trstimson.com/wp-content/uploads/2023/11/Balance-3D-Mockups.png",
     "tag": "Business of AV"
   },
   {
@@ -968,7 +968,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1943535418?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1943535418.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/10848515-L.jpg",
     "tag": "Business of AV"
   },
   {
@@ -977,7 +977,7 @@
     "vendor": "Book",
     "desc": "How does a designer harness something as elusive as the human imagination to create a set that will complement and enhance a dramatic production? What steps are involved in making the jump from a script's text to an engaging imaginative stage?\nIn From Page to Stage, author Rosemary Ingham explores the relationships between text analysis, imagination, and creation. Heavily illustrated with striking examples",
     "url": "https://www.amazon.com/dp/0435070428?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0435070428.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/274612-L.jpg",
     "tag": "Business of AV"
   },
   {
@@ -986,7 +986,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/076116488X?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/076116488X.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9780761164883.jpg?height=500&v=v2",
     "tag": "Business of AV"
   },
   {
@@ -995,7 +995,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1629147613?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1629147613.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781629147611.jpg?height=500&v=v2",
     "tag": "Business of AV"
   },
   {
@@ -1013,7 +1013,7 @@
     "vendor": "Book",
     "desc": "What are the do’s and don’ts of being a good assistant lighting designer?\n\nWhat are focus tapes, and how do I use them?\n\nWhat is the best method for creating a magic sheet?\n\nWhat should be found in every assistant’s kit?\n\nHow do I make that first important leap into this professional career?\n\nAnswer these questions and many more with The Assistant Lighting Designer’s Toolkit. This definitive guide unlocks the insider-secrets used to succeed as a professional assistant lighting designer (ALD) – whether choosing assisting as a career or while transitioning to another. This book outlines, step-by-step, the challenges the ALD faces during every phase of production. Never before has a resource existed that views the design process through the eyes of the assistant.\n\nIntermingled among the nuts and bolts of the paperwork and essential procedures, top industry professionals reveal tips for personal survival in this challenging career – both domestically and abroad as well as in other careers in lighting. Within these pages are the industry secrets rarely taught in school!",
     "url": "https://www.amazon.com/dp/0415711215?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0415711215.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978041571/9780415711210.jpg",
     "tag": "Business of AV"
   },
   {
@@ -1022,7 +1022,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1878424319?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1878424319.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781878424310.jpg?height=500&v=v2",
     "tag": "Leadership"
   },
   {
@@ -1031,7 +1031,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1478611251?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1478611251.01._SCLZZZZZZZ_.jpg",
+    "img": "https://books.google.com/books/content?vid=ISBN1478611251&printsec=frontcover&img=1&zoom=1&fife=w400-h600",
     "tag": "Leadership"
   },
   {
@@ -1040,7 +1040,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1956906762?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1956906762.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781956906769.jpg?height=500&v=v2",
     "tag": "Leadership"
   },
   {
@@ -1049,7 +1049,7 @@
     "vendor": "Book",
     "desc": "Dale Carnegie's classic guide to human relations covering how to make friends, influence others, handle disagreements, and win people to your way of thinking without conflict. One of the best-selling self-help books in history and essential reading for anyone working in client-facing production roles.",
     "url": "https://www.amazon.com/dp/B0006IU7JK?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/I/81W-E58N88L._SX342_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9780671027032.jpg?height=500&v=v2",
     "tag": "Leadership"
   },
   {
@@ -1058,7 +1058,7 @@
     "vendor": "Book",
     "desc": "Jim Collins' research-based study of what transforms good companies into great ones — identifying key principles including Level 5 Leadership, the Hedgehog Concept, and a culture of discipline. Highly relevant for AV business owners and production managers building high-performing organizations.",
     "url": "https://www.amazon.com/dp/0066620996?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0066620996.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/14620217-L.jpg",
     "tag": "Leadership"
   },
   {
@@ -1067,7 +1067,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/B008HTMUX6?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B008HTMUX6.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/13089261-L.jpg",
     "tag": "Leadership"
   },
   {
@@ -1076,7 +1076,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/B0CXDBLXSH?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B0CXDBLXSH.01._SCLZZZZZZZ_.jpg",
+    "img": "https://omnibuspress.com/cdn/shop/files/9781913172343_8b40688b-885f-4500-a8c3-f47874269a3d.jpg?v=1711018396&crop=region&crop_left=486&crop_top=48&crop_width=1759&crop_height=2635&width=500",
     "tag": "Leadership"
   },
   {
@@ -1085,7 +1085,7 @@
     "vendor": "Book",
     "desc": "Daniel Goleman's landmark book on emotional intelligence — covering self-awareness, self-regulation, motivation, empathy, and social skills. Essential reading for AV professionals in leadership and client-facing roles who want to develop stronger interpersonal and team communication skills.",
     "url": "https://www.amazon.com/dp/055338371X?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/055338371X.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/370147-L.jpg",
     "tag": "Leadership"
   },
   {
@@ -1094,7 +1094,7 @@
     "vendor": "Book",
     "desc": "Stephen Covey's timeless guide to personal and professional effectiveness covering seven foundational habits including being proactive, beginning with the end in mind, and seeking first to understand before being understood. Widely considered essential reading for anyone in a leadership or team role.",
     "url": "https://www.amazon.com/dp/1982137274?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1982137274.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/15272628-L.jpg",
     "tag": "Leadership"
   },
   {
@@ -1103,7 +1103,7 @@
     "vendor": "Book",
     "desc": "The Arbinger Institute's business fable about how self-deception undermines leadership and team performance. Through a compelling narrative, it reveals how working from a mindset of 'being in the box' sabotages relationships and results — and how to shift to an outward-focused, collaborative approach.",
     "url": "https://www.amazon.com/dp/1523006560?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1523006560.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781523006564.jpg?height=500&v=v2",
     "tag": "Leadership"
   },
   {
@@ -1112,7 +1112,7 @@
     "vendor": "Book",
     "desc": "Daniel Pink's exploration of the science of human motivation — revealing that autonomy, mastery, and purpose are the true drivers of performance, not external rewards. Valuable reading for AV professionals and managers who want to build motivated, self-directed teams.",
     "url": "https://www.amazon.com/dp/1594484805?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1594484805.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781594484803.jpg?height=500&v=v2",
     "tag": "Leadership"
   },
   {
@@ -1121,7 +1121,7 @@
     "vendor": "Book",
     "desc": "James Clear's practical framework for building good habits and breaking bad ones through small, incremental improvements. Covers the four laws of behavior change and how to design your environment for success. One of the most actionable books on personal productivity available.",
     "url": "https://www.amazon.com/dp/0735211299?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0735211299.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8260535-L.jpg",
     "tag": "Leadership"
   },
   {
@@ -1130,7 +1130,7 @@
     "vendor": "Book",
     "desc": "Patrick Lencioni's business fable identifying the five core dysfunctions that undermine team performance: absence of trust, fear of conflict, lack of commitment, avoidance of accountability, and inattention to results. Essential reading for production managers and team leaders in AV.",
     "url": "https://www.amazon.com/dp/0787960756?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0787960756.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/10863273-L.jpg",
     "tag": "Leadership"
   },
   {
@@ -1139,7 +1139,7 @@
     "vendor": "Book",
     "desc": "Edgar Schein's guide to asking good questions rather than giving answers or directives — covering how a humble, curious approach to communication builds better relationships, surfaces important information, and creates more effective teams. Essential reading for AV project managers and team leads.",
     "url": "https://www.amazon.com/dp/1609949811?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1609949811.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8941308-L.jpg",
     "tag": "Leadership"
   },
   {
@@ -1148,7 +1148,7 @@
     "vendor": "Book",
     "desc": "Amy Edmondson's research-based guide to creating psychological safety in teams — where people feel safe to speak up, take risks, and admit mistakes without fear of punishment. Highly relevant for production companies and AV teams building a culture of open communication and continuous improvement.",
     "url": "https://www.amazon.com/dp/1119477247?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1119477247.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781119477242.jpg?height=500&v=v2",
     "tag": "Leadership"
   },
   {
@@ -1157,7 +1157,7 @@
     "vendor": "Book",
     "desc": "The MIDI Manual is a complete reference on MIDI, written by a well-respected sound engineer and author. This best-selling guide provides a clear explanation of what MIDI is, how to use electronic instruments and an explanation of sequencers and how to use them. You will learn how to set up an efficient MIDI system and how to get the best out of your music. \n\nThe MIDI Manual is packed full of useful tips and practical examples on sequencing and mixing techniques. It also covers editors/librarians, working with a score, MIDI in mass media and multimedia and synchronisation. The MIDI spec is set out in detail along with the helpful guidelines on using the implementation chart.",
     "url": "https://www.amazon.com/dp/0240807987?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0240807987.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978024080/9780240807980.jpg",
     "tag": "Networking & More"
   },
   {
@@ -1166,7 +1166,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/B08X1FFX2H?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B08X1FFX2H.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978036721/9780367211509.jpg",
     "tag": "Networking & More"
   },
   {
@@ -1175,7 +1175,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1735763802?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1735763802.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781735763804.jpg?height=500&v=v2",
     "tag": "Networking & More"
   },
   {
@@ -1184,7 +1184,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1524761966?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1524761966.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8823940-L.jpg",
     "tag": "Networking & More"
   },
   {
@@ -1193,7 +1193,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1524762008?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1524762008.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/13346512-L.jpg",
     "tag": "Networking & More"
   },
   {
@@ -1202,7 +1202,7 @@
     "vendor": "Book",
     "desc": "Practical guide to Ethernet networking specifically written for entertainment technology professionals. Covers network fundamentals, managed switches, VLANs, and the specific requirements of Dante, sACN, and other AV-over-IP protocols. An essential reference for AV techs who work with networked audio and lighting systems.",
     "url": "https://www.amazon.com/dp/B00IZGE9T4?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B00IZGE9T4.01._SCLZZZZZZZ_.jpg",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Publication71/v4/8a/d0/d4/8ad0d4c6-5424-7dba-51d9-b24f08f6eddb/9781904031697.jpg/600x600bb.jpg",
     "tag": "Networking & More"
   },
   {
@@ -1211,7 +1211,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0911747435?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0911747435.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8956369-L.jpg",
     "tag": "Networking & More"
   },
   {
@@ -1220,7 +1220,7 @@
     "vendor": "Book",
     "desc": "The foundational reference for show control systems in themed entertainment, concerts, and live events. Covers timecode, MIDI, OSC, serial communication, and integration strategies for complex multi-system productions. Written by one of the industry's leading show control authorities.",
     "url": "https://www.amazon.com/dp/1735763845?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1735763845.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781735763842.jpg?height=500&v=v2",
     "tag": "Networking & More"
   },
   {
@@ -1238,7 +1238,7 @@
     "vendor": "Book",
     "desc": "The CompTIA Network+ Study Guide covers all exam objectives for the Network+ certification — including IP networking, subnetting, network protocols, security, and troubleshooting. A foundational networking certification relevant for AV professionals working with AV-over-IP and enterprise AV installations.",
     "url": "https://www.amazon.com/dp/1394235607?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1394235607.01._SCLZZZZZZZ_.jpg",
+    "img": "https://media.wiley.com/product_data/coverImage300/07/13942356/1394235607.jpg",
     "tag": "Networking & More"
   },
   {
@@ -1247,7 +1247,7 @@
     "vendor": "Book",
     "desc": "The most recent innovation brought to theater technology by the eminent theater designer George C. Izenour is a \"trans-sondant\" curtain, mimicking a wall, which allows halls visually to metamorphose into small or large performance spaces while retaining optimum acoustic quality in both guises. A full set of drawings and photographs of the first trans-sondant structure, in the Vern Riffe Center for the Arts (1995), is one of the new features in the second edition of this incomparable reference guide to theater engineering and technology. \n\nIzenour ties detailed information on construction, lighting, acoustical structures, electro-mechanical-hydraulic systems, and stage controls to a rich history of technological developments from the invention of the proscenium stage in late Renaissance Italy to the contributions of our own time. All the drawings are produced on the same scale for plan, transverse section, and perspective section. Theater Technology is a reference and source of ideas and inspiration for students, teachers, and practitioners in fields including acoustics, structural engineering, design, lighting, and architecture for the theater. For theater and architecture buffs it offers a detailed and illustrated history of the field and speculation on its future directions.",
     "url": "https://www.amazon.com/dp/0300067666?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0300067666.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/1161648-L.jpg",
     "tag": "Networking & More"
   },
   {
@@ -1256,7 +1256,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1608869938?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1608869938.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/15152188-L.jpg",
     "tag": "Children's Corner"
   },
   {
@@ -1265,7 +1265,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1684150574?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1684150574.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781684150571.jpg?height=500&v=v2",
     "tag": "Children's Corner"
   },
   {
@@ -1274,7 +1274,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1684153328?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1684153328.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8800774-L.jpg",
     "tag": "Children's Corner"
   },
   {
@@ -1283,7 +1283,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1419742701?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1419742701.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781419742705.jpg?height=500&v=v2",
     "tag": "Children's Corner"
   },
   {
@@ -1292,7 +1292,7 @@
     "vendor": "Book",
     "desc": "An accessible introduction to engineering concepts and the engineering mindset — covering how engineers approach problem solving, design thinking, and technical challenges. A useful resource for AV professionals who want to develop a more systematic, engineering-focused approach to system design.",
     "url": "https://www.amazon.com/dp/1465470271?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1465470271.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/9309600-L.jpg",
     "tag": "Children's Corner"
   },
   {
@@ -1301,7 +1301,7 @@
     "vendor": "Book",
     "desc": "Andrea Beaty's beloved picture book about a girl who dreams of being an engineer — emphasizing creativity, perseverance, and the importance of learning from failure. A popular recommendation for introducing young people to STEM careers and the engineering mindset.",
     "url": "https://www.amazon.com/dp/1419708457?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1419708457.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/14546671-L.jpg",
     "tag": "Children's Corner"
   },
   {
@@ -1310,7 +1310,7 @@
     "vendor": "Book",
     "desc": "From packing the right equipment to keeping enough gas in the tank to get home, every aspect of making a successful tour with a band is addressed in this comprehensive guide for touring production professionals.",
     "url": "https://www.amazon.com/dp/B00DJZLWUK?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/I/516SY21My1L.jpg",
+    "img": "https://covers.openlibrary.org/b/id/2732880-L.jpg",
     "tag": "Music & Culture"
   },
   {
@@ -1319,7 +1319,7 @@
     "vendor": "Book",
     "desc": "Everybody from Rush and The Sex Pistols to Owl City and Fitz & the Tantrums can be found in helpfully titled sections like Wrong Venue, Insane Fans, Dangerous Malfunctions, Nature's Wrath, Violence and Oops. A collection of the industry's most memorable disaster stories.",
     "url": "https://www.amazon.com/dp/1402284950?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1402284950.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/11747114-L.jpg",
     "tag": "Music & Culture"
   },
   {
@@ -1328,7 +1328,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0062295896?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0062295896.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/8120469-L.jpg",
     "tag": "Music & Culture"
   },
   {
@@ -1337,7 +1337,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1936239124?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1936239124.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781936239122.jpg?height=500&v=v2",
     "tag": "Music & Culture"
   },
   {
@@ -1346,7 +1346,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/1250065992?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1250065992.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781250065995.jpg?height=500&v=v2",
     "tag": "Music & Culture"
   },
   {
@@ -1355,7 +1355,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0060936223?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0060936223.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9780060936228.jpg?height=500&v=v2",
     "tag": "Music & Culture"
   },
   {
@@ -1364,7 +1364,7 @@
     "vendor": "Book",
     "desc": "The epic, definitive history of Riot Grrrl — the radical feminist uprising that exploded into the public eye in the 1990s including incendiary punk bands Bikini Kill, Bratmobile, Heavens to Betsy, and Huggy Bear. A dynamic chronicle of a movement and an era.",
     "url": "https://www.amazon.com/dp/0061806366?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0061806366.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9780061806360.jpg?height=500&v=v2",
     "tag": "Music & Culture"
   },
   {
@@ -1373,7 +1373,7 @@
     "vendor": "Book",
     "desc": "Celebrates the contributions of punk's oft-overlooked female artists and explores the latent sexism of indie rock. Profiles groups from The Runaways and The Slits to L7, Sleater-Kinney, and Le Tigre, with rare interviews and photos illuminating how seminal women of the 70s and 80s shaped female rockers of today.",
     "url": "https://www.amazon.com/dp/1580051162?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1580051162.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781580051163.jpg?height=500&v=v2",
     "tag": "Music & Culture"
   },
   {
@@ -1382,7 +1382,7 @@
     "vendor": "Book",
     "desc": "In the late 1970s and early 1980s, female guitarists, bass-players, keyboardists and drummers began playing in rock bands for the first time. This book investigates the social and commercial reasons why these women became lost from the rock music record, and rewrites this period of popular music history.",
     "url": "https://www.amazon.com/dp/B0GF8V52DS?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/B0GF8V52DS.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images.tandf.co.uk/common/jackets/amazon/978113837/9781138376083.jpg",
     "tag": "Music & Culture"
   },
   {
@@ -1391,7 +1391,7 @@
     "vendor": "Book",
     "desc": "Oliver Sacks explores the place music occupies in the brain and how it affects the human condition — covering musical hallucinations, synesthesia, absolute pitch, and the uncanny power of music to move people with neurological conditions. A fascinating intersection of neuroscience and music.",
     "url": "https://www.amazon.com/dp/1400033535?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/1400033535.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9781400033539.jpg?height=500&v=v2",
     "tag": "Music & Culture"
   },
   {
@@ -1400,7 +1400,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "https://www.amazon.com/dp/0452288525?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0452288525.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/15146110-L.jpg",
     "tag": "Music & Culture"
   },
   {
@@ -1409,7 +1409,7 @@
     "vendor": "Book",
     "desc": "A voyage into the labyrinth of modern music — from Strauss and Mahler through jazz, atonality, minimalism, and beyond. Alex Ross illuminates a century of musical revolution through compelling narrative, making the obscure world of 20th century classical composition accessible and fascinating.",
     "url": "https://www.amazon.com/dp/0312427719?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0312427719.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9780312427719.jpg?height=500&v=v2",
     "tag": "Music & Culture"
   },
   {
@@ -1418,7 +1418,7 @@
     "vendor": "Book",
     "desc": "The first major study in English of Pierre Schaeffer's theory of acousmatics — the art of sounds heard without seeing their source. An essential text for scholars of philosophy of music, electronic music, sound studies, and the history of the senses.",
     "url": "https://www.amazon.com/dp/0199347840?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0199347840.01._SCLZZZZZZZ_.jpg",
+    "img": "https://covers.openlibrary.org/b/id/13342129-L.jpg",
     "tag": "Music & Culture"
   },
   {
@@ -1427,7 +1427,7 @@
     "vendor": "Book",
     "desc": "Acoustic engineer Trevor Cox hunts for the sonic wonders of the world — creaking glaciers, whispering galleries, stalactite organs, musical roads, and a Mayan pyramid that chirps like a bird. With forays into archaeology, neuroscience, and design, Cox explains how sound is made and altered by environment.",
     "url": "https://www.amazon.com/dp/0393350584?tag=aveducate09-20&linkCode=osi&th=1&psc=1",
-    "img": "https://m.media-amazon.com/images/P/0393350584.01._SCLZZZZZZZ_.jpg",
+    "img": "https://images-us.bookshop.org/ingram/9780393350586.jpg?height=500&v=v2",
     "tag": "Music & Culture"
   },
   {
@@ -1445,7 +1445,7 @@
     "vendor": "Book",
     "desc": "",
     "url": "",
-    "img": "https://m.media-amazon.com/images/I/41w7BwInNHL._SL500_.jpg",
+    "img": "",
     "tag": "Leadership",
     "archived": true,
     "archived_reason": "Amazon listing gone",
