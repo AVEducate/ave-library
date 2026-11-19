@@ -872,6 +872,22 @@
     "tag": "App"
   },
   {
+    "name": "Photon BeamCalc",
+    "vendor": "iOS & Android",
+    "cost": "FREE",
+    "desc": "Lighting beam calculator for focus calls and site visits: throw distance and angle from floor distance and trim height, beam size, lens angle or the throw you need, and the length, width and edges of a raked floor pool. Feet and inches or meters; works offline, with no accounts or ads.",
+    "url": "https://apps.apple.com/us/app/photon-beamcalc/id6835239986",
+    "tag": "App"
+  },
+  {
+    "name": "Photon Fixtures",
+    "vendor": "iOS & Android",
+    "cost": "Freemium",
+    "desc": "Fixture library and patch tool for lighting crews: every mode with its full DMX channel list, 650 fixtures built in and working offline, or more than 10,000 fixture types with a free GDTF Share account. Build the patch by position, then export a PDF patch sheet or a CSV for Lightwright. Free to use; a one-time $9.99 unlock adds multiple shows, sections, and Patched and Favorites filters.",
+    "url": "https://apps.apple.com/us/app/photon-fixtures/id6835563139",
+    "tag": "App"
+  },
+  {
     "name": "Mini-Matrix",
     "vendor": "iOS",
     "cost": "FREE",
